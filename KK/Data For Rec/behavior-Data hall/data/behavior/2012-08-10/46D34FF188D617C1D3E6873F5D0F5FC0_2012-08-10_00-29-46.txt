@@ -1,0 +1,498 @@
+Last<=>41525
+L_Start<=>2012-08-10 00-29-46
+T<=>260[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0[=]N<=>Q+[=]C<=>Tencent
+T<=>511[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716[=]N<=>搜狗高速浏览器3.2[=]C<=>Sogou.com
+T<=>515[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>517[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>541[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>543[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>567[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>581[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>596[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>598[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>606[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>608[=]P<=>SogouExplorer.exe[=]I<=>1912[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=372&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D372%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>658[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>662[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>750[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=347&via=QZ.MYAPP[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>790[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>792[=]P<=>SogouExplorer.exe[=]I<=>1912[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>800[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>806[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>816[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>851[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>897[=]P<=>SogouExplorer.exe[=]I<=>1912[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>971[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey[=]A<=>105be[=]B<=>6044a[=]V<=>3.2.0.4716
+T<=>975[=]P<=>SogouExplorer.exe[=]I<=>1912[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>977[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey[=]A<=>105be[=]B<=>6044a[=]V<=>3.2.0.4716
+T<=>979[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>1071[=]P<=>SogouExplorer.exe[=]I<=>1912[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>1083[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>1203[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=891&url=http%3A%2F%2Fwang.qq.com%2Fserver%2Fqzone%2Fqzone.shtml%3Fqz_height%3D500%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>105be[=]B<=>105dc[=]V<=>3.2.0.4716
+T<=>1295[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>1339[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>1734[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>1738[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>1818[=]P<=>SogouExplorer.exe[=]I<=>3628[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>105be[=]B<=>4054e[=]V<=>3.2.0.4716
+T<=>1827[=]P<=>QQ.exe[=]I<=>3700[=]W<=>10420[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1829[=]P<=>QPlusApp.exe[=]I<=>3128[=]W<=>10704[=]V<=>3, 6, 1913, 0
+T<=>2077[=]P<=>explorer.exe[=]I<=>244[=]W<=>1a03ac[=]V<=>6.00.2900.5512
+T<=>254[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716[=]N<=>搜狗高速浏览器3.2[=]C<=>Sogou.com
+T<=>264[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/[=]A<=>2051a[=]B<=>405b6[=]V<=>3.2.0.4716
+T<=>266[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/q[=]A<=>2051a[=]B<=>405b6[=]V<=>3.2.0.4716
+T<=>268[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>270[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/[=]A<=>2051a[=]B<=>10738[=]V<=>3.2.0.4716
+T<=>272[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/q[=]A<=>2051a[=]B<=>10738[=]V<=>3.2.0.4716
+T<=>274[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>278[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/q[=]A<=>2051a[=]B<=>10738[=]V<=>3.2.0.4716
+T<=>280[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>282[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/Index.php[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>284[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/[=]A<=>2051a[=]B<=>80588[=]V<=>3.2.0.4716
+T<=>290[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/q[=]A<=>2051a[=]B<=>80588[=]V<=>3.2.0.4716
+T<=>292[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>300[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>312[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://faxin.soso.com/Index.php[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>338[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://jump.soso.com/q[=]A<=>2051a[=]B<=>c07b6[=]V<=>3.2.0.4716
+T<=>340[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://faxin.soso.com/Index.php[=]A<=>2051a[=]B<=>2040a[=]V<=>3.2.0.4716
+T<=>342[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyHome.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>346[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.soso.com/q[=]A<=>2051a[=]B<=>80588[=]V<=>3.2.0.4716
+T<=>348[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyHome.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>352[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>354[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>356[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>358[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>362[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>366[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://game.qq.com/[=]A<=>2051a[=]B<=>601ca[=]V<=>3.2.0.4716
+T<=>368[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>370[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://3.qq.com/act/a20120422lottery/index.htm[=]A<=>2051a[=]B<=>605a6[=]V<=>3.2.0.4716
+T<=>372[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>374[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://xj.qq.com/act/a20120610dltb/index.htm[=]A<=>2051a[=]B<=>50786[=]V<=>3.2.0.4716
+T<=>376[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>378[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#7[=]A<=>2051a[=]B<=>70844[=]V<=>3.2.0.4716
+T<=>380[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>384[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#fight[=]A<=>2051a[=]B<=>2087e[=]V<=>3.2.0.4716
+T<=>386[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>392[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#xia[=]A<=>2051a[=]B<=>10910[=]V<=>3.2.0.4716
+T<=>396[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://igame.qq.com/mini_game/game.shtml#ye[=]A<=>2051a[=]B<=>30866[=]V<=>3.2.0.4716
+T<=>398[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#fight[=]A<=>2051a[=]B<=>2087e[=]V<=>3.2.0.4716
+T<=>400[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#cheng[=]A<=>2051a[=]B<=>208c0[=]V<=>3.2.0.4716
+T<=>402[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://3.qq.com/act/a20120422lottery/index.htm[=]A<=>2051a[=]B<=>605a6[=]V<=>3.2.0.4716
+T<=>404[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://game.qq.com/[=]A<=>2051a[=]B<=>601ca[=]V<=>3.2.0.4716
+T<=>406[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#cheng[=]A<=>2051a[=]B<=>208c0[=]V<=>3.2.0.4716
+T<=>412[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>426[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://game.qq.com/brand/art/relay.htm[=]A<=>2051a[=]B<=>20932[=]V<=>3.2.0.4716
+T<=>428[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>456[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://game.qq.com/brand/art/relay.htm[=]A<=>2051a[=]B<=>20932[=]V<=>3.2.0.4716
+T<=>480[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#s[=]A<=>2051a[=]B<=>907a2[=]V<=>3.2.0.4716
+T<=>482[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://igame.qq.com/mini_game/game.shtml#ss[=]A<=>2051a[=]B<=>601c4[=]V<=>3.2.0.4716
+T<=>484[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/mini_game/game.shtml#cheng[=]A<=>2051a[=]B<=>208c0[=]V<=>3.2.0.4716
+T<=>488[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/acts/a20120107yearly/index.htm[=]A<=>2051a[=]B<=>4079e[=]V<=>3.2.0.4716
+T<=>494[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>498[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>500[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>546[=]P<=>QQ.exe[=]I<=>3120[=]W<=>203b2[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>548[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>550[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>1504f0[=]V<=>3.2.0.4716
+T<=>552[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>557[=]P<=>QQ.exe[=]I<=>3120[=]W<=>30396[=]V<=>1.85.4925.0
+T<=>626[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>636[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>1504f0[=]V<=>3.2.0.4716
+T<=>638[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>646[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>1504f0[=]V<=>3.2.0.4716
+T<=>648[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>654[=]P<=>360Safe.exe[=]I<=>3704[=]W<=>1041c[=]V<=>7, 6, 0, 1120[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>676[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>690[=]P<=>360Safe.exe[=]I<=>3704[=]W<=>1041c[=]V<=>7, 6, 0, 1120
+T<=>696[=]P<=>SoftManager.exe[=]I<=>5140[=]W<=>208ba[=]V<=>4, 0, 0, 1230[=]N<=>360软件管家[=]C<=>360.cn
+T<=>702[=]P<=>360Safe.exe[=]I<=>3704[=]W<=>1041c[=]V<=>7, 6, 0, 1120
+T<=>708[=]P<=>DSMain.exe[=]I<=>5512[=]W<=>30962[=]V<=>7, 5, 0, 1185[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>710[=]P<=>360DiagnoseScan.exe[=]I<=>4364[=]W<=>1008da[=]V<=>1, 4, 0, 1020[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>714[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>728[=]P<=>QQ.exe[=]I<=>3120[=]W<=>203b2[=]V<=>1.85.4925.0
+T<=>730[=]P<=>QPlus.exe[=]I<=>3100[=]W<=>203b6[=]V<=>0, 0, 0, 0[=]N<=>Q+[=]C<=>Tencent
+T<=>736[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0[=]N<=>Q+[=]C<=>Tencent
+T<=>740[=]P<=>QQ.exe[=]I<=>3120[=]W<=>203b2[=]V<=>1.85.4925.0
+T<=>742[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>779[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>803[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>807[=]P<=>360Safe.exe[=]I<=>3704[=]W<=>1041c[=]V<=>7, 6, 0, 1120
+T<=>809[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>815[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>901[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>909[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>911[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=372&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D372%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1035[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>1037[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=372&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D372%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1051[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>1053[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>1055[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=372&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D372%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1065[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1077[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=347&via=QZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1099[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1105[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>1107[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1109[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1982[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>1986[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>1988[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>1992[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>1994[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>1996[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml#news[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>2002[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>2004[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>2010[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007[=]N<=>鲁大师[=]C<=>www.ludashi.com
+T<=>2012[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>2030[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>2034[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>7769[=]P<=>QQ.exe[=]I<=>3120[=]W<=>d803f2[=]V<=>1.85.4925.0
+T<=>7771[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>7773[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>7775[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>7791[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>7793[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>7915[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>7917[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>7921[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>7939[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>7967[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>7969[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>7971[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>c503da[=]V<=>3.2.0.4716
+T<=>7975[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>2f703d6[=]V<=>3.2.0.4716
+T<=>7987[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>7989[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>2f703d6[=]V<=>3.2.0.4716
+T<=>7991[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>7993[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>10467[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>10477[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>10481[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://igame.qq.com/center/index.shtml#news[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>10483[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>10563[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>10565[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>11480[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>11506[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>11512[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>11514[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>11516[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>11518[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>2f703d6[=]V<=>3.2.0.4716
+T<=>11520[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>11522[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml#news[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>11524[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>11526[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://igame.qq.com/center/index.shtml#news[=]A<=>2051a[=]B<=>b05c0[=]V<=>3.2.0.4716
+T<=>11530[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>11532[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12057[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>12261[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12263[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12265[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12267[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12451[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>12457[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12465[=]P<=>360Safe.exe[=]I<=>20940[=]W<=>d303dc[=]V<=>7, 6, 0, 1120
+T<=>12467[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12481[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12483[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>12487[=]P<=>360Safe.exe[=]I<=>20940[=]W<=>d303dc[=]V<=>7, 6, 0, 1120
+T<=>12489[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12560[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>12568[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12582[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>206a4[=]V<=>3.36.12.1007
+T<=>12586[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12684[=]P<=>360Safe.exe[=]I<=>20940[=]W<=>d303dc[=]V<=>7, 6, 0, 1120
+T<=>12692[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>12848[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>12850[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12852[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>12854[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>13235[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>13237[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>16650[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>16652[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>16654[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>206a4[=]V<=>3.36.12.1007
+T<=>16656[=]P<=>QQ.exe[=]I<=>3120[=]W<=>2cc03dc[=]V<=>1.85.4925.0
+T<=>16660[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>305e2[=]V<=>3.36.12.1007
+T<=>16662[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>16672[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>16674[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>16678[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>20567[=]P<=>QQ.exe[=]I<=>3120[=]W<=>47503d6[=]V<=>1.85.4925.0
+T<=>20569[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>20573[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>20575[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>20577[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>20747[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>20751[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>21934[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>21936[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>21940[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>21944[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22054[=]P<=>explorer.exe[=]I<=>244[=]W<=>30044[=]V<=>6.00.2900.5512
+T<=>22056[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>22061[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22073[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>22075[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>22083[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>22087[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22091[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>22093[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22385[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>22389[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>206a4[=]V<=>3.36.12.1007
+T<=>22391[=]P<=>explorer.exe[=]I<=>244[=]W<=>30044[=]V<=>6.00.2900.5512
+T<=>22393[=]P<=>360Safe.exe[=]I<=>29140[=]W<=>400422[=]V<=>7, 6, 0, 1120
+T<=>22395[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>22397[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22462[=]P<=>360Safe.exe[=]I<=>29140[=]W<=>400422[=]V<=>7, 6, 0, 1120
+T<=>22468[=]P<=>explorer.exe[=]I<=>244[=]W<=>30044[=]V<=>6.00.2900.5512
+T<=>22476[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22749[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>22797[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>22801[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>22803[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>23693[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>23697[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>23706[=]P<=>360SE.exe[=]I<=>35232[=]W<=>a0554[=]V<=>5.0.7.0[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>23708[=]P<=>explorer.exe[=]I<=>244[=]W<=>30044[=]V<=>6.00.2900.5512
+T<=>23720[=]P<=>360SE.exe[=]I<=>35232[=]W<=>6047a[=]V<=>5.0.7.0
+T<=>23730[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>23732[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://www.636.com/[=]A<=>2051a[=]B<=>9044c[=]V<=>3.2.0.4716
+T<=>23734[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>23736[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>23738[=]P<=>360SE.exe[=]I<=>36836[=]W<=>a0476[=]V<=>5.0.7.0
+T<=>24403[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>27863[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>27875[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>27877[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>27880[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>27882[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>27884[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>27904[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>27924[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>28206[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>28288[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://miit.ccidnet.com/art/32559/20120810/4152193_1.html[=]A<=>2051a[=]B<=>530554[=]V<=>3.2.0.4716
+T<=>28352[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://miit.ccidnet.com/art/32559/20120810/4152193_2.html[=]A<=>2051a[=]B<=>530554[=]V<=>3.2.0.4716
+T<=>28378[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://miit.ccidnet.com/art/32559/20120810/4152193_3.html[=]A<=>2051a[=]B<=>530554[=]V<=>3.2.0.4716
+T<=>28408[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>28414[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28416[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>28418[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28442[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_1.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28446[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_2.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28456[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_3.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28460[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_1.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28822[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_2.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28854[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_3.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>28885[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>28923[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_1.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>28945[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_2.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>28951[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_3.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>28957[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_4.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>28989[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_5.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>29007[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_6.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>29015[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_7.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>29021[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_8.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>29031[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-09/0000552882s_9.shtml[=]A<=>2051a[=]B<=>3e041e[=]V<=>3.2.0.4716
+T<=>29037[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://stock.591hx.com/article/2012-08-10/0000554105s_3.shtml[=]A<=>2051a[=]B<=>c054c[=]V<=>3.2.0.4716
+T<=>29039[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>29043[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://v.sogou.com/play[=]A<=>2051a[=]B<=>3c048e[=]V<=>3.2.0.4716
+T<=>29159[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>29163[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/goto.php[=]A<=>2051a[=]B<=>1040500[=]V<=>3.2.0.4716
+T<=>29165[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pinyin.sogou.com/dict/news.php[=]A<=>2051a[=]B<=>1b041c[=]V<=>3.2.0.4716
+T<=>29167[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>1040500[=]V<=>3.2.0.4716
+T<=>29171[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29173[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29187[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29193[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29201[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29207[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29209[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29211[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29213[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29215[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29219[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29221[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29225[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29227[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29229[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29231[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29233[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29235[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29237[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29239[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29241[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29245[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29249[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29251[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29253[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29255[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29259[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29261[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29265[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29267[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29269[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29273[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29275[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29277[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>2f0498[=]V<=>3.2.0.4716
+T<=>29279[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://pic.sogou.com/d[=]A<=>2051a[=]B<=>1040500[=]V<=>3.2.0.4716
+T<=>29281[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>29287[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>29289[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>29297[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>29315[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>29317[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>30118[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>30154[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>30156[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>30158[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>30268[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>30270[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>30272[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>30274[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>30276[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>36033[=]P<=>360AutoClean.exe[=]I<=>52904[=]W<=>240492[=]V<=>1, 0, 0, 1007[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>36882[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>36888[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>305e2[=]V<=>3.36.12.1007
+T<=>36890[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>36898[=]P<=>SogouExplorer.exe[=]I<=>5740[=]W<=>20420[=]V<=>3.2.0.4716
+T<=>36954[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>36956[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>36958[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>36964[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>36970[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>37105[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>37109[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>37117[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>37223[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>37562[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38000[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38663[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38667[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38689[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38691[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38701[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>270472[=]V<=>3.2.0.4716
+T<=>38711[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38747[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38749[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38751[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38755[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38759[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38763[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38771[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38775[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>38777[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>38779[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>38797[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38847[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38849[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38851[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38853[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38865[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38909[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38911[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38913[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38915[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38975[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D376%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39031[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39243[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>37562[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38000[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38663[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38667[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38689[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38691[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38701[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>270472[=]V<=>3.2.0.4716
+T<=>38711[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38747[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38749[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38751[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38755[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38759[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38763[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38771[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38775[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>38777[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>38779[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>38797[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38847[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38849[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38851[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38853[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38865[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38909[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38911[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38913[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38915[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38975[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D376%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39031[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39243[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>37562[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38000[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38663[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38667[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38689[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38691[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38701[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>270472[=]V<=>3.2.0.4716
+T<=>38711[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38747[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38749[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38751[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38755[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38759[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38763[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38771[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38775[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>38777[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>38779[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>38797[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38847[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38849[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38851[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38853[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38865[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38909[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38911[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38913[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38915[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38975[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D376%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39031[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39243[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>37562[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38000[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38663[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38667[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38689[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38691[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>b0450[=]V<=>3.2.0.4716
+T<=>38701[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/sub/tianqi.html[=]A<=>2051a[=]B<=>270472[=]V<=>3.2.0.4716
+T<=>38711[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38747[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38749[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38751[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38755[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://123.sogou.com/[=]A<=>2051a[=]B<=>b70552[=]V<=>3.2.0.4716
+T<=>38759[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38763[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38771[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>38775[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>38777[=]P<=>ComputerZ_CN.exe[=]I<=>5992[=]W<=>205e6[=]V<=>3.36.12.1007
+T<=>38779[=]P<=>explorer.exe[=]I<=>244[=]W<=>1008e[=]V<=>6.00.2900.5512
+T<=>38797[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38847[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38849[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38851[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38853[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38865[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=353&url=http%3A%2F%2Fappbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D353%26max%3D0%26qz_height%3D600%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38909[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38911[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38913[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>38915[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fmcbase.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D358%26max%3D0%26qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26force%3D0%26via%3DQQ.FROMAPP.353%26appparams%3D353%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>38975[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=358&url=http%3A%2F%2Fappbasesh.qzone.qq.com%2Fcgi-bin%2Findex%2Fappbase_run_unity.cgi%3Fappid%3D376%26force%3D0%26via%3DQQ.FROMAPP.358%26appparams%3D358%257C[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39031[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39243[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>39281[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512
+T<=>39285[=]P<=>360SE.exe[=]I<=>56960[=]W<=>260470[=]V<=>5.0.7.0
+T<=>39309[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>39373[=]P<=>360SE.exe[=]I<=>56960[=]W<=>260470[=]V<=>5.0.7.0
+T<=>40010[=]P<=>SogouExplorer.exe[=]I<=>5740[=]U<=>http://user.qzone.qq.com/373455670/infocenter#home[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>40200[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>40202[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyGrowInfo.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>40204[=]P<=>SogouExplorer.exe[=]I<=>2372[=]U<=>http://wenwen.soso.com/z/MyTaskSummary.htm[=]A<=>2051a[=]B<=>20824[=]V<=>3.2.0.4716
+T<=>40208[=]P<=>SogouExplorer.exe[=]I<=>2020[=]U<=>http://user.qzone.qq.com/373455670/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html%23qz_width%3D760%26uin%3D373455670%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F28%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>2051a[=]B<=>60598[=]V<=>3.2.0.4716
+T<=>40298[=]P<=>QPlusApp.exe[=]I<=>2568[=]W<=>1108da[=]V<=>3, 6, 1913, 0
+T<=>40300[=]P<=>explorer.exe[=]I<=>244[=]W<=>300cc[=]V<=>6.00.2900.5512

@@ -1,0 +1,14 @@
+Last<=>3824
+L_Start<=>2012-08-09 20-55-43
+T<=>64[=]P<=>XLDaQuan.exe[=]I<=>580[=]W<=>1030c[=]V<=>1, 0, 4, 45[=]N<=>XLDaQuan[=]C<=>深圳市迅雷网络技术有限公司
+T<=>138[=]P<=>explorer.exe[=]I<=>1724[=]W<=>10198[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>146[=]P<=>Maxthon.exe[=]I<=>108[=]W<=>30194[=]V<=>2, 5, 15, 1000[=]N<=>Maxthon Browser[=]C<=>Maxthon International ltd.
+T<=>394[=]P<=>360sd.exe[=]I<=>536[=]W<=>10682[=]V<=>3, 0, 0, 3039[=]N<=>360杀毒[=]C<=>360.cn
+T<=>396[=]P<=>Maxthon.exe[=]I<=>108[=]W<=>30194[=]V<=>2, 5, 15, 1000
+T<=>1848[=]P<=>SoftupNotify.exe[=]I<=>3152[=]W<=>60528[=]V<=>2, 5, 1, 1170[=]N<=>360软件管家[=]C<=>360.cn
+T<=>1874[=]P<=>Maxthon.exe[=]I<=>108[=]W<=>403aa[=]V<=>2, 5, 15, 1000
+T<=>2144[=]P<=>360MobileMgr.exe[=]I<=>3728[=]W<=>1b054c[=]V<=>1, 7, 0, 1715[=]N<=>360手机助手[=]C<=>360.cn
+T<=>2154[=]P<=>WDCertM_CCB.exe[=]I<=>348[=]W<=>f0544[=]V<=>3, 2, 0, 0[=]N<=>建行网银盾后台管理程序v3.2[=]C<=> Beijing WatchData System Co., Ltd.
+T<=>3076[=]P<=>360sd.exe[=]I<=>536[=]W<=>120492[=]V<=>3, 0, 0, 3039
+T<=>3082[=]P<=>WDCertM_CCB.exe[=]I<=>348[=]W<=>f0544[=]V<=>3, 2, 0, 0
+T<=>3168[=]P<=>Maxthon.exe[=]I<=>108[=]W<=>403aa[=]V<=>2, 5, 15, 1000

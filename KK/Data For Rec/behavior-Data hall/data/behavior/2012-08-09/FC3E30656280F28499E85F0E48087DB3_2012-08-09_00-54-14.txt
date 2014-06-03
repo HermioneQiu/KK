@@ -1,0 +1,37 @@
+Last<=>2314
+L_Start<=>2012-08-09 00-54-14
+T<=>136[=]P<=>Thunder.exe[=]I<=>5732[=]W<=>202da[=]V<=>7.1.5.2152[=]N<=>迅雷7[=]C<=>深圳市迅雷网络技术有限公司
+T<=>1869[=]P<=>explorer.exe[=]I<=>2060[=]W<=>4012e[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>519[=]P<=>popup_QQ.exe[=]I<=>3740[=]W<=>20348[=]V<=>1.86.4770.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>528[=]P<=>explorer.exe[=]I<=>3228[=]W<=>10092[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>532[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>534[=]P<=>popup_QQ.exe[=]I<=>3740[=]W<=>20348[=]V<=>1.86.4770.0
+T<=>540[=]P<=>explorer.exe[=]I<=>3228[=]W<=>2009c[=]V<=>6.1.7600.16385
+T<=>542[=]P<=>QQ.exe[=]I<=>4756[=]W<=>50318[=]V<=>1.86.4770.0
+T<=>551[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>553[=]P<=>QQ.exe[=]I<=>4756[=]W<=>103b2[=]V<=>1.86.4770.0
+T<=>617[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>621[=]P<=>explorer.exe[=]I<=>3228[=]W<=>10092[=]V<=>6.1.7600.16385
+T<=>623[=]P<=>QQ.exe[=]I<=>4756[=]W<=>103b2[=]V<=>1.86.4770.0
+T<=>1496[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://www.pengyou.com/index.php[=]A<=>1041a[=]B<=>1045a[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>1517[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://profile.pengyou.com/index.php[=]A<=>1041a[=]B<=>1045a[=]V<=>9.00.8112.16421
+T<=>1550[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://profile.pengyou.com/index.php[=]A<=>104ae[=]B<=>104d2[=]V<=>9.00.8112.16421
+T<=>1621[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://baseapp.pengyou.com/c265e4bd629300c545b26824dab87c931099963578f4b448/photo[=]A<=>104ae[=]B<=>104d2[=]V<=>9.00.8112.16421
+T<=>1672[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://profile.pengyou.com/index.php[=]A<=>1041a[=]B<=>1045a[=]V<=>9.00.8112.16421
+T<=>1687[=]P<=>iexplore.exe[=]I<=>1316[=]U<=>http://baseapp.pengyou.com/48a5beee9d1bd4e7622923220331eee8f8e00eef155db314/photo[=]A<=>1041a[=]B<=>1045a[=]V<=>9.00.8112.16421
+T<=>1699[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>1701[=]P<=>QQ.exe[=]I<=>4756[=]W<=>103b2[=]V<=>1.86.4770.0
+T<=>1736[=]P<=>iexplore.exe[=]I<=>4188[=]U<=>http://ui.ptlogin2.qq.com/iperror.html[=]A<=>20474[=]B<=>140366[=]V<=>9.00.8112.16421
+T<=>1743[=]P<=>iexplore.exe[=]I<=>4188[=]U<=>http://kf.qq.com/info/66817.html[=]A<=>d03c0[=]B<=>7034e[=]V<=>9.00.8112.16421
+T<=>1747[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>1749[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>NULL[=]A<=>4048e[=]B<=>30448[=]V<=>9.00.8112.16421
+T<=>1751[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>http://user.qzone.qq.com/416668938/infocenter[=]A<=>4048e[=]B<=>30448[=]V<=>9.00.8112.16421
+T<=>1944[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>http://pengyou.qq.com/index.php[=]A<=>d03d8[=]B<=>503b8[=]V<=>9.00.8112.16421
+T<=>1948[=]P<=>QQ.exe[=]I<=>3740[=]W<=>504ec[=]V<=>1.86.4770.0
+T<=>1952[=]P<=>explorer.exe[=]I<=>3228[=]W<=>10092[=]V<=>6.1.7600.16385
+T<=>1959[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>http://pengyou.qq.com/index.php[=]A<=>d03d8[=]B<=>503b8[=]V<=>9.00.8112.16421
+T<=>1975[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>http://profile.pengyou.com/index.php[=]A<=>d03d8[=]B<=>503b8[=]V<=>9.00.8112.16421
+T<=>2057[=]P<=>iexplore.exe[=]I<=>5744[=]U<=>http://friend.pengyou.com/index.php[=]A<=>504b6[=]B<=>903a2[=]V<=>9.00.8112.16421
+T<=>2271[=]P<=>QQ.exe[=]I<=>3740[=]W<=>3030a[=]V<=>1.86.4770.0
+T<=>2283[=]P<=>QQMusic.exe[=]I<=>4928[=]W<=>1b0410[=]V<=>8.40.2445.717[=]N<=>QQMusic[=]C<=>Tencent
+T<=>2314[=]P<=>explorer.exe[=]I<=>3228[=]W<=>2009c[=]V<=>6.1.7600.16385

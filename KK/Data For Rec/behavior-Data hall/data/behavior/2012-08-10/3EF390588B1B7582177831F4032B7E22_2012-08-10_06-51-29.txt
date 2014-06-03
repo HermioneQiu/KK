@@ -1,0 +1,9 @@
+Last<=>372
+L_Start<=>2012-08-10 06-51-29
+T<=>294[=]P<=>explorer.exe[=]I<=>1848[=]W<=>100b0[=]V<=>6.00.2900.2180[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>314[=]P<=>E_FARNEDC.EXE[=]I<=>2272[=]W<=>210042[=]V<=>5.04[=]N<=>EPSON Status Monitor 3[=]C<=>SEIKO EPSON CORPORATION
+T<=>316[=]P<=>explorer.exe[=]I<=>1848[=]W<=>100b0[=]V<=>6.00.2900.2180
+T<=>320[=]P<=>iexplore.exe[=]I<=>2484[=]U<=>NULL[=]A<=>40266[=]B<=>NULL[=]V<=>7.00.6000.17055[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>322[=]P<=>iexplore.exe[=]I<=>2484[=]U<=>http://h.cnnicresearch.cn/u/sitelogin/un/anN6cWRAc2luYS5jb20=/pw/OWYyNzNjYWYyZjgxMWRjMmQyNzlkOTc5ZTJlYzcwYTc=/rt/1[=]A<=>40266[=]B<=>5028a[=]V<=>7.00.6000.17055
+T<=>324[=]P<=>iexplore.exe[=]I<=>2484[=]U<=>http://h.cnnicresearch.cn/[=]A<=>40266[=]B<=>5028a[=]V<=>7.00.6000.17055
+T<=>368[=]P<=>explorer.exe[=]I<=>1848[=]W<=>100b0[=]V<=>6.00.2900.2180

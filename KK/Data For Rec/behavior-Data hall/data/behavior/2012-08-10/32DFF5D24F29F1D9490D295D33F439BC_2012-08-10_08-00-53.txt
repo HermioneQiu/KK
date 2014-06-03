@@ -1,0 +1,19 @@
+Last<=>1323
+L_Start<=>2012-08-10 08-00-53
+T<=>130[=]P<=>explorer.exe[=]I<=>1716[=]V<=>6.00.2900.5512
+T<=>136[=]P<=>QQ.exe[=]I<=>2928[=]V<=>1.85.4925.0
+T<=>138[=]P<=>QQ.exe[=]I<=>3456[=]V<=>1.85.4925.0
+T<=>140[=]P<=>QQ.exe[=]I<=>2928[=]V<=>1.85.4925.0
+T<=>154[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.tszw.net/files/article/html/79/79598/2256786.html[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>170[=]P<=>QQ.exe[=]I<=>2928[=]V<=>1.85.4925.0
+T<=>316[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.tszw.net/files/article/html/79/79598/2256786.html[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>514[=]P<=>explorer.exe[=]I<=>1716[=]V<=>6.00.2900.5512
+T<=>516[=]P<=>QQ.exe[=]I<=>2928[=]V<=>1.85.4925.0
+T<=>522[=]P<=>explorer.exe[=]I<=>1716[=]V<=>6.00.2900.5512
+T<=>532[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.tszw.net/files/article/html/79/79598/2256786.html[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>910[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.tszw.net/files/article/html/79/79598/index.html[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>920[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.sharewz.com/user/[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>1098[=]P<=>桌面下雪.scr[=]I<=>2200[=]V<=>1, 0, 0, 1
+T<=>1178[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.sharewz.com/user/[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>1182[=]P<=>iexplore.exe[=]I<=>3216[=]U<=>http://www.sharewz.com/paidtoclick.asp[=]A<=>1022e[=]B<=>1028e[=]V<=>8.00.6001.18702
+T<=>1184[=]P<=>QQ.exe[=]I<=>2928[=]V<=>1.85.4925.0

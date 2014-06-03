@@ -1,0 +1,146 @@
+Last<=>11732
+L_Start<=>2012-08-09 10-09-20
+T<=>149[=]P<=>explorer.exe[=]I<=>1536[=]W<=>1013a[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>334[=]P<=>QQ.exe[=]I<=>1960[=]W<=>10226[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>390[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>402[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>456[=]P<=>360SE.exe[=]I<=>2528[=]W<=>802ba[=]V<=>5.1.1.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>520[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>526[=]P<=>360SE.exe[=]I<=>2632[=]W<=>20380[=]V<=>5.1.1.1
+T<=>694[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>774[=]P<=>360SE.exe[=]I<=>2012[=]W<=>3a0350[=]V<=>5.1.1.1
+T<=>958[=]P<=>QQ.exe[=]I<=>1960[=]W<=>1026c[=]V<=>1.85.4925.0
+T<=>1518[=]P<=>explorer.exe[=]I<=>1536[=]W<=>200ee[=]V<=>6.00.2900.5512
+T<=>1520[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>1562[=]P<=>360SE.exe[=]I<=>2300[=]W<=>70344[=]V<=>5.1.1.1
+T<=>2124[=]P<=>popup_QQ.exe[=]I<=>1960[=]W<=>80298[=]V<=>1.85.4925.0
+T<=>2211[=]P<=>explorer.exe[=]I<=>1536[=]W<=>1013a[=]V<=>6.00.2900.5512
+T<=>2213[=]P<=>QQ.exe[=]I<=>1960[=]W<=>1026c[=]V<=>1.85.4925.0
+T<=>2227[=]P<=>explorer.exe[=]I<=>1536[=]W<=>200ee[=]V<=>6.00.2900.5512
+T<=>2545[=]P<=>QQ.exe[=]I<=>1960[=]W<=>240146[=]V<=>1.85.4925.0
+T<=>3069[=]P<=>explorer.exe[=]I<=>1536[=]W<=>200ee[=]V<=>6.00.2900.5512
+T<=>3071[=]P<=>QQ.exe[=]I<=>1960[=]W<=>1026c[=]V<=>1.85.4925.0
+T<=>3095[=]P<=>360SE.exe[=]I<=>2132[=]W<=>40240[=]V<=>5.1.1.1
+T<=>3227[=]P<=>explorer.exe[=]I<=>1536[=]W<=>1013a[=]V<=>6.00.2900.5512
+T<=>3231[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>NULL[=]A<=>c02a0[=]B<=>NULL[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>3233[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://2010a.net/[=]A<=>c02a0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3313[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://www.baidu.com/s[=]A<=>803f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3317[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3321[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/html/template/version/index2_0.html[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3339[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/logon!logon.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3449[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/index.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3513[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/fee/tel-bill.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3564[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/fee/tel-bill!detail.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3590[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/fee/tel-bill-daily.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3617[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/fee/tel-bill.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3707[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/llcx/byll.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3741[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/score/new-query.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3749[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://jf.10086.cn/[=]A<=>803e0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3753[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/score/new-query.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3763[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/score/exchange-history.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3787[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://jf.10086.cn/[=]A<=>70364[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3852[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://jf.10086.cn/ware/100000000503704.html[=]A<=>70364[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3899[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://jf.10086.cn/login/login.jsp[=]A<=>70364[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3907[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/score/exchange-history.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3911[=]P<=>QQ.exe[=]I<=>1960[=]W<=>702f8[=]V<=>1.85.4925.0
+T<=>3915[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/preferential-index.action[=]A<=>90344[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3959[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/bank-preferential!detail.action[=]A<=>502fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3977[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/preferential-index.action[=]A<=>90344[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3979[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/bank-preferential!detail.action[=]A<=>802d4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4009[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/preferential-index.action[=]A<=>90344[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4017[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/bank-preferential!detail.action[=]A<=>803d6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4067[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/act/preferential-index.action[=]A<=>90344[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4079[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://service.ha.10086.cn/version/score/exchange-history.action[=]A<=>5034a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4083[=]P<=>iexplore.exe[=]I<=>3572[=]U<=>http://2010a.net/[=]A<=>c02a0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4085[=]P<=>QQ.exe[=]I<=>1960[=]W<=>702f8[=]V<=>1.85.4925.0
+T<=>4315[=]P<=>explorer.exe[=]I<=>1536[=]W<=>1013a[=]V<=>6.00.2900.5512
+T<=>270[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>288[=]P<=>FilmAcc.exe[=]I<=>4008[=]W<=>10282[=]V<=>2.0.1.2[=]N<=>加速器[=]C<=>天天看加速器
+T<=>314[=]P<=>FilmEveryday.exe[=]I<=>3924[=]W<=>7010a[=]V<=>2, 7, 4, 28[=]N<=>FilmEveryday 2.7[=]C<=>天天看
+T<=>318[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>336[=]P<=>FilmEveryday.exe[=]I<=>3924[=]W<=>7010a[=]V<=>2, 7, 4, 28
+T<=>454[=]P<=>explorer.exe[=]I<=>1704[=]W<=>202dc[=]V<=>6.00.2900.5512
+T<=>482[=]P<=>ttkupdate.exe[=]I<=>4020[=]W<=>302b6[=]V<=>2.0.0.2[=]N<=>ttkupdate 2.0[=]C<=>天天看
+T<=>488[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>500[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>40200[=]V<=>2, 7, 4, 28
+T<=>504[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>512[=]P<=>Au_.exe[=]I<=>3256[=]W<=>402dc[=]V<=>2.7.4.28[=]N<=>天天看高清影视 2.7.4.28[=]C<=>天天看
+T<=>516[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>518[=]P<=>iexplore.exe[=]I<=>1332[=]U<=>NULL[=]A<=>30324[=]B<=>NULL[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>520[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>40200[=]V<=>2, 7, 4, 28
+T<=>522[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>524[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>3032c[=]V<=>2, 7, 4, 28
+T<=>526[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>532[=]P<=>ttkupdate.exe[=]I<=>2384[=]W<=>702b2[=]V<=>2.0.0.2
+T<=>540[=]P<=>iexplore.exe[=]I<=>1332[=]U<=>http://2010a.net/[=]A<=>30324[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>544[=]P<=>ttkupdate.exe[=]I<=>2384[=]W<=>702b2[=]V<=>2.0.0.2
+T<=>552[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>554[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>40200[=]V<=>2, 7, 4, 28
+T<=>556[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>564[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>40284[=]V<=>2, 7, 4, 28
+T<=>566[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>568[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>50284[=]V<=>2, 7, 4, 28
+T<=>572[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>584[=]P<=>rundll32.exe[=]I<=>3640[=]W<=>40324[=]V<=>5.1.2600.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>616[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>620[=]P<=>FilmEveryday.exe[=]I<=>912[=]W<=>90284[=]V<=>2, 7, 4, 28
+T<=>622[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>626[=]P<=>iexplore.exe[=]I<=>788[=]W<=>60252[=]V<=>6.00.2900.5512
+T<=>628[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://2010a.net/[=]A<=>40206[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>650[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>660[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350216912.shtml[=]A<=>4036e[=]B<=>30348[=]V<=>3, 1, 1, 3810[=]N<=>SogouExplorer[=]C<=>Sogou.com
+T<=>662[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>664[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350216825.shtml[=]A<=>4036e[=]B<=>503e8[=]V<=>3, 1, 1, 3810
+T<=>670[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>717[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350216825.shtml[=]A<=>4036e[=]B<=>1a03f0[=]V<=>3, 1, 1, 3810
+T<=>719[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>725[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350278304.shtml[=]A<=>4036e[=]B<=>70428[=]V<=>3, 1, 1, 3810
+T<=>727[=]P<=>explorer.exe[=]I<=>1704[=]W<=>30040[=]V<=>6.00.2900.5512
+T<=>729[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>737[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350218084.shtml[=]A<=>4036e[=]B<=>a045c[=]V<=>3, 1, 1, 3810
+T<=>739[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>761[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350261285.shtml[=]A<=>4036e[=]B<=>404d6[=]V<=>3, 1, 1, 3810
+T<=>763[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>765[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350218346.shtml[=]A<=>4036e[=]B<=>204e8[=]V<=>3, 1, 1, 3810
+T<=>767[=]P<=>SohuNews.exe[=]I<=>1628[=]W<=>30278[=]V<=>2.3.0.1511
+T<=>846[=]P<=>SogouExplorer.exe[=]I<=>3152[=]U<=>http://pic.news.sohu.com/group-370686.shtml[=]A<=>4036e[=]B<=>604e6[=]V<=>3, 1, 1, 3810
+T<=>876[=]P<=>SogouExplorer.exe[=]I<=>3152[=]U<=>http://pic.news.sohu.com/group-370686.shtml[=]A<=>4036e[=]B<=>604e6[=]V<=>3, 1, 1, 3810
+T<=>909[=]P<=>SogouExplorer.exe[=]I<=>3152[=]U<=>http://pic.news.sohu.com/group-370686.shtml[=]A<=>4036e[=]B<=>604e6[=]V<=>3, 1, 1, 3810
+T<=>949[=]P<=>SogouExplorer.exe[=]I<=>3152[=]U<=>http://pic.news.sohu.com/group-370686.shtml[=]A<=>4036e[=]B<=>604e6[=]V<=>3, 1, 1, 3810
+T<=>978[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350218346.shtml[=]A<=>4036e[=]B<=>204e8[=]V<=>3, 1, 1, 3810
+T<=>1082[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350261285.shtml[=]A<=>4036e[=]B<=>404d6[=]V<=>3, 1, 1, 3810
+T<=>1147[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350218084.shtml[=]A<=>4036e[=]B<=>a045c[=]V<=>3, 1, 1, 3810
+T<=>1157[=]P<=>SogouExplorer.exe[=]I<=>3432[=]U<=>http://wei.sohu.com/20120809/n350278304.shtml[=]A<=>4036e[=]B<=>70428[=]V<=>3, 1, 1, 3810
+T<=>1223[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350278304.shtml[=]A<=>4036e[=]B<=>3044e[=]V<=>3, 1, 1, 3810
+T<=>1229[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350216825.shtml[=]A<=>4036e[=]B<=>1a03f0[=]V<=>3, 1, 1, 3810
+T<=>1313[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350216825.shtml[=]A<=>4036e[=]B<=>503e8[=]V<=>3, 1, 1, 3810
+T<=>1321[=]P<=>SogouExplorer.exe[=]I<=>3420[=]U<=>http://wei.sohu.com/20120809/n350216912.shtml[=]A<=>4036e[=]B<=>30348[=]V<=>3, 1, 1, 3810
+T<=>1387[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://2010a.net/[=]A<=>40206[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1391[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.baidu.com/s[=]A<=>a027e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1399[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://dl.pconline.com.cn/download/64687.html[=]A<=>11032a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1416[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.baidu.com/s[=]A<=>a027e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1424[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.onlinedown.net/soft/101233.htm[=]A<=>303ba[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1426[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.baidu.com/s[=]A<=>a027e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1430[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.onlinedown.net/soft/101233.htm[=]A<=>303ba[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1437[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.onlinedown.net/softdown/101233_2.htm[=]A<=>4034e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1441[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.onlinedown.net/soft/101233.htm[=]A<=>303ba[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1443[=]P<=>iexplore.exe[=]I<=>788[=]U<=>http://www.onlinedown.net/softdown/101233_2.htm[=]A<=>4034e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1528[=]P<=>explorer.exe[=]I<=>1704[=]W<=>70348[=]V<=>6.00.2900.5512
+T<=>1540[=]P<=>WinRAR.exe[=]I<=>1392[=]W<=>70318[=]V<=>4.20.0[=]N<=>WinRAR[=]C<=>Alexander Roshal
+T<=>1550[=]P<=>TTkvod2.8_Setup.exe[=]I<=>3396[=]W<=>603ca[=]V<=>2.8.7.21[=]N<=>天天看高清影视 2.8.7.21[=]C<=>天天看
+T<=>1581[=]P<=>FilmEveryday.exe[=]I<=>5900[=]W<=>90436[=]V<=>2, 7, 4, 28
+T<=>1695[=]P<=>iexplore.exe[=]I<=>788[=]W<=>303e4[=]V<=>6.00.2900.5512
+T<=>1697[=]P<=>FilmEveryday.exe[=]I<=>5900[=]W<=>90436[=]V<=>2, 7, 4, 28
+T<=>1701[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>1703[=]P<=>FilmEveryday.exe[=]I<=>5900[=]W<=>90436[=]V<=>2, 7, 4, 28
+T<=>1715[=]P<=>explorer.exe[=]I<=>1704[=]W<=>40250[=]V<=>6.00.2900.5512
+T<=>1719[=]P<=>FilmEveryday.exe[=]I<=>5900[=]W<=>90436[=]V<=>2, 7, 4, 28
+T<=>1721[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>1737[=]P<=>EverydayPlay.exe[=]I<=>496[=]W<=>e0250[=]V<=>1.0.0.0[=]N<=>EverydayPlay 1.0[=]C<=>天天玩
+T<=>1757[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>1765[=]P<=>FilmEveryday.exe[=]I<=>5900[=]W<=>90436[=]V<=>2, 7, 4, 28
+T<=>1793[=]P<=>explorer.exe[=]I<=>1704[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>1803[=]P<=>XMP.exe[=]I<=>4536[=]W<=>a0202[=]V<=>4, 9, 0, 1104[=]N<=>迅雷看看播放器[=]C<=>深圳市迅雷网络技术有限公司
+T<=>1931[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>728[=]W<=>60334[=]V<=>1, 0, 0, 10[=]N<=>XmpTipWnd Module[=]C<=>深圳市迅雷网络技术有限公司
+T<=>1934[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>3252[=]W<=>503d4[=]V<=>1, 0, 0, 10
+T<=>1943[=]P<=>XMP.exe[=]I<=>4536[=]W<=>a0202[=]V<=>4, 9, 0, 1104

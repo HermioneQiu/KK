@@ -1,0 +1,382 @@
+Last<=>50806
+L_Start<=>2012-08-10 08-58-05
+T<=>110[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>127[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>10430[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>141[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>147[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>10430[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>149[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>166[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>176[=]P<=>QQ.exe[=]I<=>5200[=]W<=>2061a[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>204[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>206[=]P<=>QQ.exe[=]I<=>5200[=]W<=>20660[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>216[=]P<=>bugreport.exe[=]I<=>5496[=]W<=>206ac[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>218[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>221[=]P<=>QQ.exe[=]I<=>5200[=]W<=>206b4[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>235[=]P<=>popup_QQ.exe[=]I<=>5200[=]W<=>4069c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>247[=]P<=>popup_QQ.exe[=]I<=>5200[=]W<=>4069c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>332[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>334[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>336[=]P<=>QQ.exe[=]I<=>5200[=]W<=>306b4[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>357[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>406[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>624[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>631[=]P<=>EXCEL.EXE[=]I<=>3008[=]W<=>20838[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>635[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>643[=]P<=>EXCEL.EXE[=]I<=>3008[=]W<=>20838[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>651[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>682[=]P<=>EXCEL.EXE[=]I<=>3008[=]W<=>20838[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>688[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>754[=]P<=>EXCEL.EXE[=]I<=>3008[=]W<=>20838[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>756[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>758[=]P<=>explorer.exe[=]I<=>3256[=]W<=>507d2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>760[=]P<=>EXCEL.EXE[=]I<=>4988[=]W<=>30832[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>764[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>771[=]P<=>EXCEL.EXE[=]I<=>4988[=]W<=>30832[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>779[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>841[=]P<=>explorer.exe[=]I<=>3256[=]W<=>507d2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>847[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>853[=]P<=>EXCEL.EXE[=]I<=>3292[=]W<=>40866[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>863[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>888[=]P<=>EXCEL.EXE[=]I<=>3292[=]W<=>40866[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>896[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>911[=]P<=>EXCEL.EXE[=]I<=>3292[=]W<=>40866[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>913[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>917[=]P<=>EXCEL.EXE[=]I<=>5288[=]W<=>a07da[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>927[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>972[=]P<=>EXCEL.EXE[=]I<=>4940[=]W<=>6085c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>977[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>991[=]P<=>EXCEL.EXE[=]I<=>4940[=]W<=>6085c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>997[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1024[=]P<=>EXCEL.EXE[=]I<=>4940[=]W<=>6085c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1026[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1028[=]P<=>EXCEL.EXE[=]I<=>6104[=]W<=>70846[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1036[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1069[=]P<=>EXCEL.EXE[=]I<=>6104[=]W<=>70846[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1071[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1073[=]P<=>EXCEL.EXE[=]I<=>1824[=]W<=>9085c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1082[=]P<=>explorer.exe[=]I<=>3256[=]W<=>507d2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1084[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1098[=]P<=>EXCEL.EXE[=]I<=>4776[=]W<=>90840[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1108[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1127[=]P<=>EXCEL.EXE[=]I<=>4776[=]W<=>90840[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1143[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1166[=]P<=>EXCEL.EXE[=]I<=>4776[=]W<=>90840[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1168[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1174[=]P<=>EXCEL.EXE[=]I<=>4776[=]W<=>90840[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1176[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1185[=]P<=>EXCEL.EXE[=]I<=>4328[=]W<=>7069e[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1199[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1230[=]P<=>EXCEL.EXE[=]I<=>4696[=]W<=>9069e[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1234[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1255[=]P<=>EXCEL.EXE[=]I<=>4696[=]W<=>9069e[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1257[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1259[=]P<=>EXCEL.EXE[=]I<=>5068[=]W<=>c0844[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1267[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1287[=]P<=>EXCEL.EXE[=]I<=>5068[=]W<=>c0844[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1290[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1294[=]P<=>EXCEL.EXE[=]I<=>3000[=]W<=>e0880[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1314[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1331[=]P<=>EXCEL.EXE[=]I<=>3000[=]W<=>e0880[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1337[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1353[=]P<=>EXCEL.EXE[=]I<=>5360[=]W<=>150690[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1362[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1467[=]P<=>EXCEL.EXE[=]I<=>5360[=]W<=>150690[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1469[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1471[=]P<=>EXCEL.EXE[=]I<=>1536[=]W<=>110880[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1489[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1518[=]P<=>EXCEL.EXE[=]I<=>1536[=]W<=>110880[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1535[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1617[=]P<=>EXCEL.EXE[=]I<=>740[=]W<=>100842[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1623[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1648[=]P<=>EXCEL.EXE[=]I<=>740[=]W<=>100842[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1658[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1706[=]P<=>EXCEL.EXE[=]I<=>4068[=]W<=>11069e[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1712[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1751[=]P<=>EXCEL.EXE[=]I<=>4068[=]W<=>11069e[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1753[=]P<=>explorer.exe[=]I<=>3256[=]W<=>507d2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1755[=]P<=>EXCEL.EXE[=]I<=>4268[=]W<=>1707dc[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1996[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>2021[=]P<=>EXCEL.EXE[=]I<=>4268[=]W<=>1707dc[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>2033[=]P<=>explorer.exe[=]I<=>3256[=]W<=>507d2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2037[=]P<=>EXCEL.EXE[=]I<=>4268[=]W<=>1707dc[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>2045[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>2050[=]P<=>explorer.exe[=]I<=>3256[=]W<=>406c4[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4160[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5167[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>NULL[=]A<=>307ba[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5173[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://www.2345.com/[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5177[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5183[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%80%80%E7%96%91%E4%B8%8E%E7%99%BD%E6%B3%A5%E4%B8%AD%E6%9D%82%E8%B4%A8%E5%90%AB%E9%87%8F%E5%A2%9E%E5%A4%9A%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5234[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5257[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%80%80%E7%96%91%E4%B8%8E%E7%99%BD%E6%B3%A5%E4%B8%AD%E6%9D%82%E8%B4%A8%E5%90%AB%E9%87%8F%E5%A2%9E%E5%A4%9A%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5259[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%80%80%E7%96%91%E4%B8%8E%E7%99%BD%E6%B3%A5%E4%B8%AD%E6%9D%82%E8%B4%A8%E5%90%AB%E9%87%8F%E5%A2%9E%E5%A4%9A[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5262[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%80%80%E7%96%91[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5289[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5294[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E8%AE%A4%E4%B8%BA[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5331[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E8%AE%A4%E4%B8%BA%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5344[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E8%AE%A4%E4%B8%BA[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5376[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5413[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E8%AE%A4%E4%B8%BA[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5418[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E7%9B%B8%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5427[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5453[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5551[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5554[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#en/zh-CN/%E6%9C%89%E5%85%B3[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5556[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#en/zh-CN/we%20think%20the%20dreg%20content%20in%20the%20lime%20mud%20is%20higher[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5577[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#en/zh-CN/we%20think%20the%20drug%20content%20in%20the%20lime%20mud%20is%20higher[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5582[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5728[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#en/zh-CN/we%20think%20the%20drug%20content%20in%20the%20lime%20mud%20is%20higher[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5732[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/we%20think%20the%20drug%20content%20in%20the%20lime%20mud%20is%20higher[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5737[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%9B%B4%E6%8D%A2%E6%9B%B4%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8A%A0%E8%8D%AF%E6%B3%B5%E5%90%8E%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%A0%B5%E5%A1%9E%EF%BC%8C%E5%8A%A0%E8%8D%AF%E6%AD%A3%E5%B8%B8[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>5756[=]P<=>WINWORD.EXE[=]I<=>1576[=]W<=>40758[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5982[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>5987[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://translate.google.cn/#zh-CN/en/%E6%9B%B4%E6%8D%A2%E6%9B%B4%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8A%A0%E8%8D%AF%E6%B3%B5%E5%90%8E%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%A0%B5%E5%A1%9E%EF%BC%8C%E5%8A%A0%E8%8D%AF%E6%AD%A3%E5%B8%B8[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>5989[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://www.2345.com/[=]A<=>307ba[=]B<=>20760[=]V<=>9.00.8112.16421
+T<=>6003[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://www.2345.com/[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6005[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://email.163.com/[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6009[=]P<=>360tray.exe[=]I<=>3884[=]W<=>50738[=]V<=>7, 7, 0, 1064[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>6012[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://email.163.com/[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>6024[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6026[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6086[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6123[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6130[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6144[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>6169[=]P<=>WallCal3.exe[=]I<=>3176[=]W<=>1038e[=]V<=>3.0.0.0[=]N<=>Zepsoft Wallpaper Calendar[=]C<=>Zepsoft
+T<=>6172[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>18708[=]P<=>QQ.exe[=]I<=>5200[=]W<=>18069a[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>18736[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>18738[=]P<=>QQ.exe[=]I<=>5200[=]W<=>19069a[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>19190[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>19192[=]P<=>EXCEL.EXE[=]I<=>4268[=]W<=>1707dc[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>19207[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>19209[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>19255[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>5040a[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>19257[=]P<=>EXCEL.EXE[=]I<=>2960[=]W<=>7040a[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>19298[=]P<=>explorer.exe[=]I<=>3256[=]W<=>308ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>19302[=]P<=>EXCEL.EXE[=]I<=>2960[=]W<=>7040a[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>19508[=]P<=>explorer.exe[=]I<=>3256[=]W<=>108d4[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>19510[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>19793[=]P<=>EXCEL.EXE[=]I<=>7824[=]W<=>b08e4[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>19807[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>19854[=]P<=>explorer.exe[=]I<=>3256[=]W<=>5078a[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>19858[=]P<=>EXCEL.EXE[=]I<=>1372[=]W<=>90704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>19879[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20093[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20104[=]P<=>EXCEL.EXE[=]I<=>1372[=]W<=>90704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20112[=]P<=>WallCal3.exe[=]I<=>3176[=]W<=>1038e[=]V<=>3.0.0.0[=]N<=>Zepsoft Wallpaper Calendar[=]C<=>Zepsoft
+T<=>20116[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20122[=]P<=>EXCEL.EXE[=]I<=>1372[=]W<=>90704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20124[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20127[=]P<=>EXCEL.EXE[=]I<=>1372[=]W<=>90704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20129[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20147[=]P<=>EXCEL.EXE[=]I<=>1372[=]W<=>90704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20177[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20183[=]P<=>EXCEL.EXE[=]I<=>976[=]W<=>b0704[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20189[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20191[=]P<=>EXCEL.EXE[=]I<=>976[=]W<=>308c6[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20203[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20218[=]P<=>EXCEL.EXE[=]I<=>7732[=]W<=>608a8[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20220[=]P<=>explorer.exe[=]I<=>3256[=]W<=>308ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20222[=]P<=>EXCEL.EXE[=]I<=>7732[=]W<=>608a8[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20314[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>20316[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20327[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20335[=]P<=>EXCEL.EXE[=]I<=>7364[=]W<=>1404fa[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20349[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20376[=]P<=>EXCEL.EXE[=]I<=>7364[=]W<=>1404fa[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20401[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20407[=]P<=>explorer.exe[=]I<=>3256[=]W<=>50982[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20411[=]P<=>QQ.exe[=]I<=>5200[=]W<=>4093e[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20413[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>20415[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>20477[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>20514[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://mail.163.com/errorpage/err_163.htm[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20524[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>https://reg.163.com/logins.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20526[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20532[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20541[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20559[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20580[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20582[=]P<=>WINWORD.EXE[=]I<=>6360[=]W<=>908d2[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>20782[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>20787[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>20875[=]P<=>iexplore.exe[=]I<=>2020[=]W<=>140818[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>20921[=]P<=>SndVol.exe[=]I<=>5732[=]W<=>9090a[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>20924[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>20931[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20943[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>20951[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>60784[=]V<=>9.00.8112.16421
+T<=>21038[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://twebmail.mail.163.com/js4/main.jsp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21040[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://c.newsletter.wsj.com/u.html[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21044[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://cn.wsj.com/gb/20120810/bch104705.asp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21639[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://cn.wsj.com/gb/20120810/bch104705.asp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21651[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://cn.wsj.com/gb/bch.asp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21655[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://cn.wsj.com/gb/20120810/bch104705.asp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21659[=]P<=>iexplore.exe[=]I<=>3992[=]U<=>http://cn.wsj.com/gb/life.asp[=]A<=>307ba[=]B<=>13090c[=]V<=>9.00.8112.16421
+T<=>21678[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>21682[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>26368[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>26375[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>26389[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>NULL[=]A<=>407fa[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>26391[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.2345.com/[=]A<=>407fa[=]B<=>4076e[=]V<=>9.00.8112.16421
+T<=>26403[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.fenxi.com.cn/client/home/index.jsp[=]A<=>407fa[=]B<=>4076e[=]V<=>9.00.8112.16421
+T<=>26422[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.fenxi.com.cn/client/downloading/downloading_list.jsp[=]A<=>407fa[=]B<=>4076e[=]V<=>9.00.8112.16421
+T<=>26432[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.fenxi.com.cn/client/downloading/downloading_list.jsp[=]A<=>407fa[=]B<=>707f2[=]V<=>9.00.8112.16421
+T<=>26434[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.fenxi.com.cn/commons/upload/File/poxidengjibiao00806(1).doc[=]A<=>407fa[=]B<=>707f2[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>26436[=]P<=>iexplore.exe[=]I<=>7880[=]U<=>http://www.fenxi.com.cn/client/downloading/downloading_list.jsp[=]A<=>407fa[=]B<=>4076e[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>26449[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>26451[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>26512[=]P<=>WINWORD.EXE[=]I<=>6488[=]W<=>c05d8[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>26630[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>26632[=]P<=>WINWORD.EXE[=]I<=>7892[=]W<=>706dc[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>26650[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>26708[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1307d2[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>26710[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>26712[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1407d2[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>26714[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27217[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1008d6[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27227[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27231[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>506de[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27241[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27246[=]P<=>WINWORD.EXE[=]I<=>4756[=]W<=>c073a[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>27278[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27349[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>906d0[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27365[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27367[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>14098c[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27369[=]P<=>WINWORD.EXE[=]I<=>2296[=]W<=>16098c[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>27381[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27388[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>c07ec[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27435[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27437[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>150640[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27441[=]P<=>WINWORD.EXE[=]I<=>6480[=]W<=>170640[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>27449[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27451[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>210940[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27454[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27458[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>27474[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27478[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1905d4[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27489[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27491[=]P<=>WINWORD.EXE[=]I<=>5752[=]W<=>1607e6[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>27511[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27653[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1a090c[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>27655[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>27657[=]P<=>AcroRd32.exe[=]I<=>7796[=]W<=>190822[=]V<=>10.1.3.23[=]N<=>Adobe Reader[=]C<=>Adobe Systems Incorporated
+T<=>27672[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>28117[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>28119[=]P<=>QQ.exe[=]I<=>5200[=]W<=>e07f6[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>28143[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>28666[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>28672[=]P<=>nlnotes.exe[=]I<=>5712[=]W<=>1b07de[=]V<=>8.5.00.8340[=]N<=>IBM Lotus Notes/Domino[=]C<=>IBM Corp
+T<=>28674[=]P<=>EXCEL.EXE[=]I<=>5024[=]W<=>1d07de[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>29269[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>29272[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1006f0[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>29276[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>29278[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>29329[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>NULL[=]A<=>a040a[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>29333[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>http://translate.google.cn/#[=]A<=>a040a[=]B<=>809a4[=]V<=>9.00.8112.16421
+T<=>29338[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>http://translate.google.cn/#zh-CN/en/KH%2C%0A%0AMr.%20Ma%20XianFei%2C%20a%20China%20pup%20team%20manber%2C%20he%20is%20incharge%20of%20the%20sample%20analysis.%20He%20will%20give%20the%20detail%20for%20sample%20sending%20address%20and%20follow%20up%20it.%0A%0AMa%2C%0A%0APlease%20advice%20the%20detail%20address%20the%20our%20Vietnam%20college%20can%20send%20the%20scale%20sample%20for%20analysis.%0A%20%20%20%20%20%0ABest%20Regards%2C%0A%0AChenXuXing%20%0AAmazon%20Papyrus%20Chemicals%20Limited%0APhone%EF%BC%9[=]A<=>a040a[=]B<=>809a4[=]V<=>9.00.8112.16421
+T<=>29340[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>http://translate.google.cn/#en/zh-CN/KH%2C%0A%0AMr.%20Ma%20XianFei%2C%20a%20China%20pup%20team%20manber%2C%20he%20is%20incharge%20of%20the%20sample%20analysis.%20He%20will%20give%20the%20detail%20for%20sample%20sending%20address%20and%20follow%20up%20it.%0A%0AMa%2C%0A%0APlease%20advice%20the%20detail%20address%20the%20our%20Vietnam%20college%20can%20send%20the%20scale%20sample%20for%20analysis.%0A%20%20%20%20%20%0ABest%20Regards%2C%0A%0AChenXuXing%20%0AAmazon%20Papyrus%20Chemicals%20Limited%0APhone%EF%BC%9[=]A<=>a040a[=]B<=>809a4[=]V<=>9.00.8112.16421
+T<=>29356[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>http://translate.google.cn/#en/zh-CN/KH%2C%0A%0AMr.%20Ma%20XianFei%2C%20a%20China%20pulp%20team%20manber%2C%20he%20is%20incharge%20of%20the%20sample%20analysis.%20He%20will%20give%20the%20detail%20for%20sample%20sending%20address%20and%20follow%20up%20it.%0A%0AMa%2C%0A%0APlease%20advice%20the%20detail%20address%20the%20our%20Vietnam%20college%20can%20send%20the%20scale%20sample%20for%20analysis.%0A%20%20%20%20%20%0ABest%20Regards%2C%0A%0AChenXuXing%20%0AAmazon%20Papyrus%20Chemicals%20Limited%0APhone%EF%BC%[=]A<=>a040a[=]B<=>809a4[=]V<=>9.00.8112.16421
+T<=>29414[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>29422[=]P<=>explorer.exe[=]I<=>3256[=]W<=>a0772[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>29562[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>29564[=]P<=>explorer.exe[=]I<=>3256[=]W<=>18083e[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>29690[=]P<=>AcroRd32.exe[=]I<=>7796[=]W<=>190822[=]V<=>10.1.3.23[=]N<=>Adobe Reader[=]C<=>Adobe Systems Incorporated
+T<=>29696[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>29700[=]P<=>iexplore.exe[=]I<=>1452[=]U<=>http://translate.google.cn/#en/zh-CN/KH%2C%0A%0AMr.%20Ma%20XianFei%2C%20a%20China%20pulp%20team%20manber%2C%20he%20is%20incharge%20of%20the%20sample%20analysis.%20He%20will%20give%20the%20detail%20for%20sample%20sending%20address%20and%20follow%20up%20it.%0A%0AMa%2C%0A%0APlease%20advice%20the%20detail%20address%20the%20our%20Vietnam%20college%20can%20send%20the%20scale%20sample%20for%20analysis.%0A%20%20%20%20%20%0ABest%20Regards%2C%0A%0AChenXuXing%20%0AAmazon%20Papyrus%20Chemicals%20Limited%0APhone%EF%BC%[=]A<=>a040a[=]B<=>809a4[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>29740[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>29816[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31193[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31195[=]P<=>QQ.exe[=]I<=>5200[=]W<=>130982[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>31277[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31281[=]P<=>QQ.exe[=]I<=>5200[=]W<=>2c0946[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>31283[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31292[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>NULL[=]A<=>f075c[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>31296[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>31348[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31350[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31359[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://zhidao.baidu.com/question/35380883.html[=]A<=>f075c[=]B<=>180710[=]V<=>9.00.8112.16421
+T<=>31439[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31774[=]P<=>WallCal3.exe[=]I<=>3176[=]W<=>1038e[=]V<=>3.0.0.0[=]N<=>Zepsoft Wallpaper Calendar[=]C<=>Zepsoft
+T<=>31781[=]P<=>explorer.exe[=]I<=>3256[=]W<=>1506f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31799[=]P<=>EXCEL.EXE[=]I<=>6524[=]W<=>29094c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>31881[=]P<=>explorer.exe[=]I<=>3256[=]W<=>1506f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31884[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31886[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31888[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>1e0822[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>31974[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31976[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>32031[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>20a7e[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32092[=]P<=>QQ.exe[=]I<=>5200[=]W<=>2208c4[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>32105[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32107[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>1e0822[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32109[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32185[=]P<=>dllhost.exe[=]I<=>2428[=]W<=>1508a4[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32210[=]P<=>explorer.exe[=]I<=>3256[=]W<=>24097c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32220[=]P<=>WINWORD.EXE[=]I<=>2360[=]W<=>70a50[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32230[=]P<=>explorer.exe[=]I<=>3256[=]W<=>24097c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32237[=]P<=>WINWORD.EXE[=]I<=>7160[=]W<=>1907f8[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>31193[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31195[=]P<=>QQ.exe[=]I<=>5200[=]W<=>130982[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>31277[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31281[=]P<=>QQ.exe[=]I<=>5200[=]W<=>2c0946[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>31283[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31292[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>NULL[=]A<=>f075c[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>31296[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>31348[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31350[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31359[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://zhidao.baidu.com/question/35380883.html[=]A<=>f075c[=]B<=>180710[=]V<=>9.00.8112.16421
+T<=>31439[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421
+T<=>31774[=]P<=>WallCal3.exe[=]I<=>3176[=]W<=>1038e[=]V<=>3.0.0.0[=]N<=>Zepsoft Wallpaper Calendar[=]C<=>Zepsoft
+T<=>31781[=]P<=>explorer.exe[=]I<=>3256[=]W<=>1506f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31799[=]P<=>EXCEL.EXE[=]I<=>6524[=]W<=>29094c[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>31881[=]P<=>explorer.exe[=]I<=>3256[=]W<=>1506f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31884[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>31886[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31888[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>1e0822[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>31974[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31976[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>32031[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>20a7e[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32092[=]P<=>QQ.exe[=]I<=>5200[=]W<=>2208c4[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>32105[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32107[=]P<=>WINWORD.EXE[=]I<=>3096[=]W<=>1e0822[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32109[=]P<=>explorer.exe[=]I<=>3256[=]W<=>10052[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32185[=]P<=>dllhost.exe[=]I<=>2428[=]W<=>1508a4[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32210[=]P<=>explorer.exe[=]I<=>3256[=]W<=>24097c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32220[=]P<=>WINWORD.EXE[=]I<=>2360[=]W<=>70a50[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>32230[=]P<=>explorer.exe[=]I<=>3256[=]W<=>24097c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>32237[=]P<=>WINWORD.EXE[=]I<=>7160[=]W<=>1907f8[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>33533[=]P<=>explorer.exe[=]I<=>3256[=]W<=>24097c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>33535[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>33537[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>d08c2[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>33539[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://user.qzone.qq.com/396175291/infocenter[=]A<=>f075c[=]B<=>c09ca[=]V<=>9.00.8112.16421
+T<=>33602[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>33604[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110790[=]V<=>9.00.8112.16421
+T<=>33608[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://day.2345.com/[=]A<=>f075c[=]B<=>110790[=]V<=>9.00.8112.16421
+T<=>33769[=]P<=>QQ.exe[=]I<=>5200[=]W<=>1067c[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>33771[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>33787[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>33826[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/queryHotel.html[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>33871[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/queryHotel.html[=]A<=>f075c[=]B<=>d09f0[=]V<=>9.00.8112.16421
+T<=>33873[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/queryHotel.html[=]A<=>f075c[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>33875[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/075901/hotelInfo.html[=]A<=>f075c[=]B<=>d09f0[=]V<=>9.00.8112.16421
+T<=>33974[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>33978[=]P<=>WallCal3.exe[=]I<=>3176[=]W<=>1038e[=]V<=>3.0.0.0[=]N<=>Zepsoft Wallpaper Calendar[=]C<=>Zepsoft
+T<=>33981[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>33989[=]P<=>POWERPNT.EXE[=]I<=>7956[=]W<=>110994[=]V<=>11.0.8335[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>34073[=]P<=>explorer.exe[=]I<=>3256[=]W<=>1008c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>34075[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/075901/hotelInfo.html[=]A<=>f075c[=]B<=>d09f0[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>34139[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/queryHotel.html[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>34146[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.2345.com/[=]A<=>f075c[=]B<=>110540[=]V<=>9.00.8112.16421
+T<=>34184[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>2f08c4[=]V<=>9.00.8112.16421
+T<=>34202[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>20aae[=]V<=>9.00.8112.16421
+T<=>34204[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.17u.cn/HotelQuestionAnswer-2187076.html[=]A<=>f075c[=]B<=>20aae[=]V<=>9.00.8112.16421
+T<=>34214[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>2f08c4[=]V<=>9.00.8112.16421
+T<=>34231[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://wenda.tianya.cn/question/46c22b4d1827617f[=]A<=>f075c[=]B<=>20ac8[=]V<=>9.00.8112.16421
+T<=>34256[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.baidu.com/s[=]A<=>f075c[=]B<=>2f08c4[=]V<=>9.00.8112.16421
+T<=>34262[=]P<=>iexplore.exe[=]I<=>7232[=]U<=>http://www.homeinns.com/075901/hotelInfo.html[=]A<=>f075c[=]B<=>d09f0[=]V<=>9.00.8112.16421
+T<=>41746[=]P<=>QQ.exe[=]I<=>5200[=]W<=>b0a58[=]V<=>1.84.3443.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>41757[=]P<=>explorer.exe[=]I<=>3256[=]W<=>100e6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>41767[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM
+T<=>41769[=]P<=>AcroRd32.exe[=]I<=>4000[=]W<=>70ac4[=]V<=>10.1.3.23[=]N<=>Adobe Reader[=]C<=>Adobe Systems Incorporated
+T<=>41973[=]P<=>notes2.exe[=]I<=>5776[=]W<=>104a6[=]V<=>3.4.0.0[=]N<=>Eclipse 3.4[=]C<=>IBM

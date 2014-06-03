@@ -1,0 +1,570 @@
+Last<=>8368
+L_Start<=>2012-08-09 07-11-15
+T<=>101[=]P<=>data.m[=]I<=>6040[=]W<=>20516[=]V<=>4.01.0005
+T<=>105[=]P<=>IPease.exe[=]I<=>4164[=]W<=>50068[=]V<=>1.0.0.0
+T<=>109[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>4648[=]W<=>10616[=]V<=>1, 0, 0, 10
+T<=>211[=]P<=>kxetray.exe[=]I<=>888[=]W<=>10282[=]V<=>9,0,70520,129[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>281[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>416[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>430[=]P<=>QQLogin.exe[=]I<=>2564[=]W<=>7061a[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>454[=]P<=>CFSelWorld.exe[=]I<=>2580[=]W<=>11064c[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>456[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>460[=]P<=>CFSelWorld.exe[=]I<=>2580[=]W<=>11064c[=]V<=>CFSelWord
+T<=>464[=]P<=>IPease.exe[=]I<=>4164[=]W<=>50068[=]V<=>1.0.0.0
+T<=>482[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>529[=]P<=>QQLogin.exe[=]I<=>2208[=]W<=>21060a[=]V<=>CFQQLogin
+T<=>581[=]P<=>IPease.exe[=]I<=>4164[=]W<=>50068[=]V<=>1.0.0.0
+T<=>585[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>599[=]P<=>IPease.exe[=]I<=>4164[=]W<=>50068[=]V<=>1.0.0.0
+T<=>601[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>617[=]P<=>IEXPLORE.EXE[=]I<=>5604[=]W<=>260680[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>619[=]P<=>explorer.exe[=]I<=>228[=]W<=>290244[=]V<=>6.00.2900.5512
+T<=>671[=]P<=>IEXPLORE.EXE[=]I<=>4780[=]W<=>230624[=]V<=>6.00.2900.5512
+T<=>673[=]P<=>RsTray.exe[=]I<=>156[=]W<=>a00ae[=]V<=>23.00
+T<=>679[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>723[=]P<=>RsTray.exe[=]I<=>156[=]W<=>a00ae[=]V<=>23.00
+T<=>727[=]P<=>explorer.exe[=]I<=>228[=]W<=>2e01f2[=]V<=>6.00.2900.5512
+T<=>733[=]P<=>IEXPLORE.EXE[=]I<=>2056[=]W<=>405e4[=]V<=>6.00.2900.5512
+T<=>739[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>745[=]P<=>IEXPLORE.EXE[=]I<=>6488[=]W<=>18031a[=]V<=>6.00.2900.5512
+T<=>751[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>758[=]P<=>IEXPLORE.EXE[=]I<=>4880[=]U<=>http://123.duba.net/[=]A<=>40478[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>760[=]P<=>IEXPLORE.EXE[=]I<=>6008[=]U<=>http://123.duba.net/[=]A<=>10816[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>770[=]P<=>IEXPLORE.EXE[=]I<=>6008[=]U<=>NULL[=]A<=>10816[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>772[=]P<=>IEXPLORE.EXE[=]I<=>2056[=]U<=>http://123.duba.net/[=]A<=>1082e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>782[=]P<=>IEXPLORE.EXE[=]I<=>4684[=]U<=>http://123.duba.net/[=]A<=>10b66[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>786[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>823[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://123.duba.net/[=]A<=>10b0a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>827[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>NULL[=]A<=>1155e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>832[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/[=]A<=>1155e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>870[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>20f8c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>879[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>20f8c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>979[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://123.duba.net/[=]A<=>10b0a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1037[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.soso.com/q[=]A<=>40f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1051[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://new.qqhx.qq.com/webplat/info/news_version3/607/1262/1263/m1091/201112/52761.shtml[=]A<=>2b14a2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1060[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.soso.com/q[=]A<=>40f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1088[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://jzclick.soso.com/click[=]A<=>1381484[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1090[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://ar.9yin.woniu.com/index.html[=]A<=>1381484[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1094[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.soso.com/q[=]A<=>40f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1118[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.7001.com/[=]A<=>914e6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1128[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://s.share.baidu.com/[=]A<=>1173e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1132[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://t.ifeng.com/interface.php[=]A<=>1173e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1136[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://t.ifeng.com/interface.php[=]A<=>116b4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1142[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://123.duba.net/[=]A<=>10b0a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1146[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/[=]A<=>50f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1163[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>13a1484[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1171[=]P<=>baohezi.exe[=]I<=>408[=]W<=>a14ee[=]V<=>1.0.0.0
+T<=>1175[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>13a1484[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1209[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://cdn.comment.4399pk.com/files/2012/08/01/b5f6f95c789b823ca73b43e67b0375d6.jpg[=]A<=>1015e4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1231[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>13a1484[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1233[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/[=]A<=>50f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1237[=]P<=>baohezi.exe[=]I<=>408[=]W<=>3168a[=]V<=>1.0.0.0
+T<=>1241[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>814f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1247[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>814f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1337[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>NULL[=]A<=>814f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1341[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>4399.com[=]A<=>814f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1349[=]P<=>baohezi.exe[=]I<=>408[=]W<=>4d15d6[=]V<=>1.0.0.0
+T<=>1351[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>4399.com[=]A<=>814f8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1355[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/[=]A<=>50f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1369[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>5514c2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1375[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1385[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>5514c2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1388[=]P<=>IEXPLORE.EXE[=]I<=>4496[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>715a4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1410[=]P<=>IEXPLORE.EXE[=]I<=>4496[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>416ea[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1422[=]P<=>IEXPLORE.EXE[=]I<=>4496[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>416ea[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1484[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1488[=]P<=>IEXPLORE.EXE[=]I<=>4496[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>416ea[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1490[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1498[=]P<=>IEXPLORE.EXE[=]I<=>5936[=]U<=>http://123.duba.net/[=]A<=>109ba[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1504[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1578[=]P<=>baohezi.exe[=]I<=>408[=]W<=>27207f2[=]V<=>1.0.0.0
+T<=>1638[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1658[=]P<=>IEXPLORE.EXE[=]I<=>4496[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>416ea[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1679[=]P<=>IEXPLORE.EXE[=]I<=>6104[=]U<=>http://www.4399.com/[=]A<=>50f8a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1681[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>1685[=]P<=>IEXPLORE.EXE[=]I<=>5816[=]U<=>http://123.duba.net/[=]A<=>10ab2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1687[=]P<=>IEXPLORE.EXE[=]I<=>2056[=]U<=>http://123.duba.net/[=]A<=>1082e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1689[=]P<=>IEXPLORE.EXE[=]I<=>4880[=]U<=>http://123.duba.net/[=]A<=>40478[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1692[=]P<=>IEXPLORE.EXE[=]I<=>2300[=]U<=>http://123.duba.net/[=]A<=>108e0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1694[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>1702[=]P<=>QQLogin.exe[=]I<=>5636[=]W<=>40078[=]V<=>CFQQLogin
+T<=>1778[=]P<=>baohezi.exe[=]I<=>408[=]W<=>47034e[=]V<=>1.0.0.0
+T<=>1782[=]P<=>QQLogin.exe[=]I<=>5636[=]W<=>250332[=]V<=>CFQQLogin
+T<=>1960[=]P<=>sogouexplorer.exe[=]I<=>7340[=]W<=>90548[=]V<=>3, 1, 1, 3810
+T<=>1966[=]P<=>sogouexplorer.exe[=]I<=>7340[=]U<=>http://cf.qq.com/act/a20120725recruit/[=]A<=>2f06a4[=]B<=>2b0692[=]V<=>3, 1, 1, 3810
+T<=>1968[=]P<=>QQLogin.exe[=]I<=>5636[=]W<=>40078[=]V<=>CFQQLogin
+T<=>2012[=]P<=>baohezi.exe[=]I<=>408[=]W<=>c0324[=]V<=>1.0.0.0
+T<=>2018[=]P<=>QQLogin.exe[=]I<=>5636[=]W<=>40078[=]V<=>CFQQLogin
+T<=>2074[=]P<=>CFSelWorld.exe[=]I<=>6868[=]W<=>60078[=]V<=>CFSelWord
+T<=>2088[=]P<=>ICBCEBankAssist.exe[=]I<=>1952[=]W<=>102c8[=]V<=>1.0.0.1
+T<=>2138[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>2146[=]P<=>qq炫舞.exe[=]I<=>7512[=]W<=>c006e[=]V<=>2, 0, 0, 8[=]N<=>X5 QQLogin 应用程序[=]C<=>TENCENT
+T<=>2214[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>2224[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]W<=>b0070[=]V<=>6.00.2900.5512
+T<=>2226[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>2228[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://123.duba.net/[=]A<=>c0216[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2239[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/[=]A<=>32067a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2255[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>606d6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2259[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>606d6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2727[=]P<=>baohezi.exe[=]I<=>408[=]W<=>d4078a[=]V<=>1.0.0.0
+T<=>2920[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>606d6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2984[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>3473[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/[=]A<=>32067a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3487[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/92453.htm[=]A<=>406ac[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3493[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/92453_4.htm[=]A<=>406ac[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3509[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/[=]A<=>32067a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3524[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/32979.htm[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3533[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://17roco.qq.com/i_loging.html[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3674[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://17roco.qq.com/i_goback.html[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3676[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3720[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>3728[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3745[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://news.4399.com/luoke/luokechongwu/tuxi/201206-21-170293.html[=]A<=>3079a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3763[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>5072a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3777[=]P<=>IEXPLORE.EXE[=]I<=>5556[=]U<=>http://123.duba.net/[=]A<=>c0216[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3779[=]P<=>ICBCEBankAssist.exe[=]I<=>1952[=]W<=>102c8[=]V<=>1.0.0.1
+T<=>3781[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>3791[=]P<=>QQLogin.exe[=]I<=>6352[=]W<=>1700de[=]V<=>CFQQLogin
+T<=>3925[=]P<=>CFSelWorld.exe[=]I<=>1988[=]W<=>1800de[=]V<=>CFSelWord
+T<=>3931[=]P<=>ICBCEBankAssist.exe[=]I<=>1952[=]W<=>102c8[=]V<=>1.0.0.1
+T<=>3937[=]P<=>IEXPLORE.EXE[=]I<=>2420[=]W<=>d00bc[=]V<=>6.00.2900.5512
+T<=>3939[=]P<=>IEXPLORE.EXE[=]I<=>2420[=]U<=>http://123.duba.net/[=]A<=>2a0214[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3941[=]P<=>IEXPLORE.EXE[=]I<=>6948[=]W<=>2b0696[=]V<=>6.00.2900.5512
+T<=>3944[=]P<=>IEXPLORE.EXE[=]I<=>6948[=]U<=>http://123.duba.net/[=]A<=>40718[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3948[=]P<=>IEXPLORE.EXE[=]I<=>2420[=]U<=>http://123.duba.net/[=]A<=>2a0214[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3950[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3956[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>2b0214[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3968[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>17d0796[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3970[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>20886[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3972[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>2b0214[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3974[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/special/74.htm[=]A<=>40782[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3980[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>2b0214[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3982[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>3985[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/special/74.htm[=]A<=>40782[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3989[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>308d0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3991[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>3993[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>1406be[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3999[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/special/74.htm[=]A<=>40782[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4001[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>1406be[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4003[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4005[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/8865.htm[=]A<=>1406be[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4009[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4013[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>1d01e2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4021[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/32979.htm[=]A<=>80726[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4046[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://17roco.qq.com/i_loging.html[=]A<=>80726[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4064[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>80726[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4080[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4110[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>80726[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4112[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4116[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>3f01f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4127[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/seer.htm[=]A<=>706b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4139[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>NULL[=]A<=>6079a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4141[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.adobe.com/go/getflashplayer[=]A<=>6079a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4143[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/seer.htm[=]A<=>706b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4161[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4165[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/seer.htm[=]A<=>706b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4182[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4188[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/seer.htm[=]A<=>706b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4204[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://cdn.comment.4399pk.com/files/2012/07/30/55a1b4a1fd2a9dae1b2d12c440e4c8c0.jpg[=]A<=>707b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4216[=]P<=>explorer.exe[=]I<=>228[=]W<=>4090c[=]V<=>6.00.2900.5512
+T<=>4222[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://cdn.comment.4399pk.com/files/2012/07/30/55a1b4a1fd2a9dae1b2d12c440e4c8c0.jpg[=]A<=>707b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4226[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/seer.htm[=]A<=>706b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4228[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>3f01f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4234[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/78072.htm[=]A<=>a0754[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4242[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/78072.htm[=]A<=>a07fa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4268[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>3f01f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4270[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4275[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4283[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/special/1.htm[=]A<=>1b076a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4298[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/47931.htm[=]A<=>807da[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4302[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/47931_1.htm[=]A<=>807da[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4336[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4347[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/32979.htm[=]A<=>c0754[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4367[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://17roco.qq.com/i_loging.html[=]A<=>c0754[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4387[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/flash/32979aa.htm[=]A<=>c0754[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4411[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4415[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://123.duba.net/[=]A<=>1d05d8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4417[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>4463[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4469[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>4475[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4477[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4479[=]P<=>explorer.exe[=]I<=>228[=]W<=>3007e[=]V<=>6.00.2900.5512
+T<=>4489[=]P<=>kxetray.exe[=]I<=>888[=]W<=>201c8[=]V<=>9,0,70520,129
+T<=>4491[=]P<=>kxetray.exe[=]I<=>5048[=]W<=>d06ec[=]V<=>9,0,70520,129
+T<=>4495[=]P<=>kxetray.exe[=]I<=>888[=]W<=>10282[=]V<=>9,0,70520,129
+T<=>4519[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4539[=]P<=>explorer.exe[=]I<=>228[=]W<=>7e05de[=]V<=>6.00.2900.5512
+T<=>4541[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4547[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>4616[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4668[=]P<=>explorer.exe[=]I<=>228[=]W<=>11d05de[=]V<=>6.00.2900.5512
+T<=>4676[=]P<=>baohezi.exe[=]I<=>408[=]W<=>103c0[=]V<=>1.0.0.0
+T<=>4678[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4686[=]P<=>explorer.exe[=]I<=>228[=]W<=>100ac[=]V<=>6.00.2900.5512
+T<=>4702[=]P<=>QQGame.exe[=]I<=>8104[=]W<=>1e0754[=]V<=>3, 0, 107,30[=]N<=>QQ游戏[=]C<=>深圳市腾讯计算机系统有限公司
+T<=>4712[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4716[=]P<=>QQ.exe[=]I<=>4376[=]W<=>4106ca[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>4722[=]P<=>QQ.exe[=]I<=>6548[=]W<=>1f0754[=]V<=>1.85.4925.0
+T<=>4724[=]P<=>QQ.exe[=]I<=>1616[=]W<=>1007e4[=]V<=>1.85.4925.0
+T<=>4726[=]P<=>QQ.exe[=]I<=>544[=]W<=>f0778[=]V<=>1.85.4925.0
+T<=>4728[=]P<=>IEXPLORE.EXE[=]I<=>5972[=]U<=>http://www.4399.com/[=]A<=>4001f2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>110[=]P<=>zdqst.exe[=]I<=>2964[=]W<=>20752[=]V<=>1.4.1.9
+T<=>114[=]P<=>UpdateService.exe[=]I<=>2144[=]W<=>203de[=]V<=>1.0.0.7
+T<=>118[=]P<=>data.m[=]I<=>144[=]W<=>204d4[=]V<=>4.01.0005
+T<=>124[=]P<=>IPease.exe[=]I<=>2788[=]W<=>30554[=]V<=>1.0.0.0
+T<=>128[=]P<=>explorer.exe[=]I<=>1564[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>236[=]P<=>IPease.exe[=]I<=>2788[=]W<=>30554[=]V<=>1.0.0.0
+T<=>249[=]P<=>explorer.exe[=]I<=>1564[=]W<=>b062c[=]V<=>6.00.2900.5512
+T<=>100[=]P<=>IPease.exe[=]I<=>3776[=]W<=>105ae[=]V<=>1.0.0.0
+T<=>104[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>3059e[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>106[=]P<=>data.m[=]I<=>5160[=]W<=>20632[=]V<=>4.01.0005
+T<=>108[=]P<=>zdqst.exe[=]I<=>3848[=]W<=>106ac[=]V<=>1.4.1.9
+T<=>110[=]P<=>data.m[=]I<=>5160[=]W<=>20632[=]V<=>4.01.0005
+T<=>112[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>114[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>3059e[=]V<=>CFQQLogin
+T<=>116[=]P<=>UpdateService.exe[=]I<=>4844[=]W<=>40230[=]V<=>1.0.0.7
+T<=>118[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>3059e[=]V<=>CFQQLogin
+T<=>124[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>135[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>3059e[=]V<=>CFQQLogin
+T<=>137[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>141[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>3059e[=]V<=>CFQQLogin
+T<=>157[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>159[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>604f8[=]V<=>CFQQLogin
+T<=>173[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>183[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>604f8[=]V<=>CFQQLogin
+T<=>197[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>203[=]P<=>QQLogin.exe[=]I<=>4408[=]W<=>a0684[=]V<=>CFQQLogin
+T<=>227[=]P<=>CFSelWorld.exe[=]I<=>5808[=]W<=>20596[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>233[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>235[=]P<=>CFSelWorld.exe[=]I<=>5808[=]W<=>20596[=]V<=>CFSelWord
+T<=>239[=]P<=>IPease.exe[=]I<=>3776[=]W<=>105ae[=]V<=>1.0.0.0
+T<=>245[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>279[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>284[=]P<=>launchcrossfire.exe[=]I<=>2840[=]W<=>30598[=]V<=>66.0.0.1[=]N<=>Crossfire Patcher[=]C<=>Neowiz Games
+T<=>296[=]P<=>IBrowser.exe[=]I<=>3992[=]W<=>1b00e8[=]V<=>1.0.0.0[=]N<=>NULL[=]C<=>NULL
+T<=>310[=]P<=>explorer.exe[=]I<=>1268[=]W<=>90070[=]V<=>6.00.2900.5512
+T<=>314[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>318[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>345[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>347[=]P<=>explorer.exe[=]I<=>1268[=]W<=>160458[=]V<=>6.00.2900.5512
+T<=>351[=]P<=>launchcrossfire.exe[=]I<=>2840[=]W<=>30598[=]V<=>66.0.0.1
+T<=>432[=]P<=>IPease.exe[=]I<=>3776[=]W<=>105ae[=]V<=>1.0.0.0
+T<=>436[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>480[=]P<=>baohezi.exe[=]I<=>1416[=]W<=>1032a[=]V<=>1.0.0.0
+T<=>482[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>520[=]P<=>QQLogin.exe[=]I<=>6044[=]W<=>250458[=]V<=>CFQQLogin
+T<=>596[=]P<=>CFSelWorld.exe[=]I<=>4148[=]W<=>32041a[=]V<=>CFSelWord
+T<=>610[=]P<=>IPease.exe[=]I<=>3776[=]W<=>105ae[=]V<=>1.0.0.0
+T<=>620[=]P<=>launchcrossfire.exe[=]I<=>5680[=]W<=>2604f6[=]V<=>66.0.0.1
+T<=>622[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>653[=]P<=>launchcrossfire.exe[=]I<=>5680[=]W<=>2604f6[=]V<=>66.0.0.1
+T<=>655[=]P<=>explorer.exe[=]I<=>1268[=]W<=>100a2[=]V<=>6.00.2900.5512
+T<=>2892[=]P<=>zdqst.exe[=]I<=>3848[=]W<=>106ac[=]V<=>1.4.1.9
+T<=>2958[=]P<=>kxetray.exe[=]I<=>2228[=]W<=>10254[=]V<=>9,0,70520,129[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>2964[=]P<=>RavMonD.exe[=]I<=>1512[=]W<=>20030[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>107[=]P<=>QQLogin.exe[=]I<=>5168[=]W<=>203f4[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>111[=]P<=>baohezi.exe[=]I<=>760[=]W<=>10394[=]V<=>1.0.0.0
+T<=>115[=]P<=>UpdateService.exe[=]I<=>2972[=]W<=>1057e[=]V<=>1.0.0.7
+T<=>119[=]P<=>QQLogin.exe[=]I<=>5168[=]W<=>203f4[=]V<=>CFQQLogin
+T<=>160[=]P<=>baohezi.exe[=]I<=>760[=]W<=>10394[=]V<=>1.0.0.0
+T<=>164[=]P<=>QQLogin.exe[=]I<=>5168[=]W<=>506de[=]V<=>CFQQLogin
+T<=>166[=]P<=>baohezi.exe[=]I<=>760[=]W<=>10394[=]V<=>1.0.0.0
+T<=>170[=]P<=>QQLogin.exe[=]I<=>5168[=]W<=>506de[=]V<=>CFQQLogin
+T<=>234[=]P<=>baohezi.exe[=]I<=>760[=]W<=>10394[=]V<=>1.0.0.0
+T<=>236[=]P<=>QQLogin.exe[=]I<=>5168[=]W<=>d055a[=]V<=>CFQQLogin
+T<=>300[=]P<=>IPease.exe[=]I<=>6088[=]W<=>105ca[=]V<=>1.0.0.0
+T<=>302[=]P<=>CFSelWorld.exe[=]I<=>696[=]W<=>50360[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>325[=]P<=>IPease.exe[=]I<=>6088[=]W<=>105ca[=]V<=>1.0.0.0
+T<=>339[=]P<=>baohezi.exe[=]I<=>760[=]W<=>10394[=]V<=>1.0.0.0
+T<=>341[=]P<=>explorer.exe[=]I<=>1612[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>317[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>2104[=]W<=>20908[=]V<=>1, 0, 0, 10
+T<=>319[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>323[=]P<=>explorer.exe[=]I<=>596[=]W<=>5061a[=]V<=>6.00.2900.5512
+T<=>331[=]P<=>iResearchiClick.exe[=]I<=>3460[=]W<=>30938[=]V<=>1, 1, 1, 21
+T<=>333[=]P<=>UpdateService.exe[=]I<=>5704[=]W<=>1080a[=]V<=>1.0.0.7
+T<=>338[=]P<=>IPease.exe[=]I<=>308[=]W<=>109ec[=]V<=>1.0.0.0
+T<=>343[=]P<=>IEXPLORE.EXE[=]I<=>2928[=]U<=>http://123.duba.net/[=]A<=>102b4[=]B<=>NULL[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>347[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>2104[=]W<=>3074c[=]V<=>1, 0, 0, 10
+T<=>349[=]P<=>IEXPLORE.EXE[=]I<=>2920[=]U<=>http://123.duba.net/[=]A<=>102c2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>355[=]P<=>IEXPLORE.EXE[=]I<=>2920[=]U<=>NULL[=]A<=>2086c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>357[=]P<=>IEXPLORE.EXE[=]I<=>2920[=]U<=>http://123.duba.net/[=]A<=>2035c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>359[=]P<=>IEXPLORE.EXE[=]I<=>2920[=]U<=>http://123.duba.net/[=]A<=>102c2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>361[=]P<=>IPease.exe[=]I<=>308[=]W<=>109ec[=]V<=>1.0.0.0
+T<=>363[=]P<=>91问问桌面工具.exe[=]I<=>3388[=]W<=>20910[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>365[=]P<=>IPease.exe[=]I<=>308[=]W<=>109ec[=]V<=>1.0.0.0
+T<=>367[=]P<=>explorer.exe[=]I<=>596[=]W<=>100bc[=]V<=>6.00.2900.5512
+T<=>403[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>411[=]P<=>explorer.exe[=]I<=>596[=]W<=>601d0[=]V<=>6.00.2900.5512
+T<=>431[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>457[=]P<=>explorer.exe[=]I<=>596[=]W<=>100bc[=]V<=>6.00.2900.5512
+T<=>487[=]P<=>RsTray.exe[=]I<=>2200[=]W<=>6012a[=]V<=>23.00
+T<=>493[=]P<=>explorer.exe[=]I<=>596[=]W<=>100bc[=]V<=>6.00.2900.5512
+T<=>513[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>519[=]P<=>sogouexplorer.exe[=]I<=>5608[=]U<=>http://www.3366.com/index.shtml[=]A<=>20432[=]B<=>20464[=]V<=>3, 1, 1, 3810
+T<=>537[=]P<=>sogouexplorer.exe[=]I<=>5608[=]U<=>NULL[=]A<=>20432[=]B<=>20464[=]V<=>3, 1, 1, 3810
+T<=>539[=]P<=>explorer.exe[=]I<=>596[=]W<=>100bc[=]V<=>6.00.2900.5512
+T<=>629[=]P<=>QQ.exe[=]I<=>5468[=]W<=>803a8[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>657[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>660[=]P<=>QQ.exe[=]I<=>5468[=]W<=>50310[=]V<=>1.85.4925.0
+T<=>668[=]P<=>explorer.exe[=]I<=>596[=]W<=>2007e[=]V<=>6.00.2900.5512
+T<=>670[=]P<=>QQ.exe[=]I<=>5468[=]W<=>4048e[=]V<=>1.85.4925.0
+T<=>699[=]P<=>popup_QQ.exe[=]I<=>5468[=]W<=>1f0262[=]V<=>1.85.4925.0
+T<=>781[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>783[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>846[=]P<=>explorer.exe[=]I<=>596[=]W<=>2007e[=]V<=>6.00.2900.5512
+T<=>848[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>853[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>859[=]P<=>QQBrowser.exe[=]I<=>756[=]W<=>406a0[=]V<=>6, 13, 13719, 201[=]N<=>QQ浏览器[=]C<=>Tencent Inc.
+T<=>861[=]P<=>QQBrowser.exe[=]I<=>1252[=]W<=>3065c[=]V<=>6, 13, 13719, 201
+T<=>863[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>869[=]P<=>QQBrowser.exe[=]I<=>756[=]W<=>406a0[=]V<=>6, 13, 13719, 201
+T<=>884[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>890[=]P<=>QQBrowser.exe[=]I<=>756[=]W<=>406a0[=]V<=>6, 13, 13719, 201
+T<=>892[=]P<=>zdqst.exe[=]I<=>3544[=]W<=>2056c[=]V<=>1.4.1.9
+T<=>896[=]P<=>QQBrowser.exe[=]I<=>756[=]W<=>406a0[=]V<=>6, 13, 13719, 201
+T<=>902[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>954[=]P<=>zdqst.exe[=]I<=>3544[=]W<=>2056c[=]V<=>1.4.1.9
+T<=>966[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>1069[=]P<=>baohezi.exe[=]I<=>2276[=]W<=>10284[=]V<=>1.0.0.0
+T<=>1071[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>1341[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>1353[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>1367[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>1373[=]P<=>QQBrowser.exe[=]I<=>5712[=]W<=>40778[=]V<=>6, 13, 13719, 201
+T<=>1410[=]P<=>QQ.exe[=]I<=>5468[=]W<=>f0340[=]V<=>1.85.4925.0
+T<=>1464[=]P<=>QQBrowser.exe[=]I<=>7040[=]W<=>38065a[=]V<=>6, 13, 13719, 201
+T<=>1470[=]P<=>QQBrowser.exe[=]I<=>6416[=]W<=>4079a[=]V<=>6, 13, 13719, 201
+T<=>346[=]P<=>explorer.exe[=]I<=>760[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>350[=]P<=>IEXPLORE.EXE[=]I<=>3748[=]U<=>http://123.duba.net/[=]A<=>10164[=]B<=>NULL[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>354[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>357[=]P<=>IEXPLORE.EXE[=]I<=>3748[=]U<=>http://123.duba.net/[=]A<=>20256[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>361[=]P<=>IEXPLORE.EXE[=]I<=>5420[=]U<=>http://123.duba.net/[=]A<=>10ad0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>364[=]P<=>IEXPLORE.EXE[=]I<=>3748[=]U<=>http://123.duba.net/[=]A<=>20966[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>366[=]P<=>IPease.exe[=]I<=>3048[=]W<=>208c6[=]V<=>1.0.0.0
+T<=>368[=]P<=>baohezi.exe[=]I<=>2040[=]W<=>10774[=]V<=>1.0.0.0
+T<=>370[=]P<=>91问问桌面工具.exe[=]I<=>3624[=]W<=>207d4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>372[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>374[=]P<=>IEXPLORE.EXE[=]I<=>2060[=]W<=>60276[=]V<=>6.00.2900.5512
+T<=>376[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>420[=]P<=>IEXPLORE.EXE[=]I<=>5868[=]W<=>4029a[=]V<=>6.00.2900.5512
+T<=>422[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>434[=]P<=>IEXPLORE.EXE[=]I<=>2464[=]W<=>10021c[=]V<=>6.00.2900.5512
+T<=>436[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>442[=]P<=>IPease.exe[=]I<=>3048[=]W<=>208c6[=]V<=>1.0.0.0
+T<=>444[=]P<=>explorer.exe[=]I<=>760[=]W<=>100dc[=]V<=>6.00.2900.5512
+T<=>298[=]P<=>QQLogin.exe[=]I<=>3708[=]W<=>50092[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>314[=]P<=>data.m[=]I<=>3572[=]W<=>204f6[=]V<=>4.01.0005
+T<=>322[=]P<=>explorer.exe[=]I<=>736[=]W<=>204ae[=]V<=>6.00.2900.5512
+T<=>328[=]P<=>baohezi.exe[=]I<=>2900[=]W<=>305fc[=]V<=>1.0.0.0
+T<=>336[=]P<=>explorer.exe[=]I<=>736[=]W<=>100e0[=]V<=>6.00.2900.5512
+T<=>340[=]P<=>91问问桌面工具.exe[=]I<=>4060[=]W<=>50222[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>342[=]P<=>IPease.exe[=]I<=>3376[=]W<=>10656[=]V<=>1.0.0.0
+T<=>344[=]P<=>UpdateService.exe[=]I<=>5132[=]W<=>20526[=]V<=>1.0.0.7
+T<=>346[=]P<=>IPease.exe[=]I<=>3376[=]W<=>10656[=]V<=>1.0.0.0
+T<=>348[=]P<=>explorer.exe[=]I<=>736[=]W<=>100c4[=]V<=>6.00.2900.5512
+T<=>350[=]P<=>QQLogin.exe[=]I<=>3708[=]W<=>10498[=]V<=>CFQQLogin
+T<=>419[=]P<=>CFSelWorld.exe[=]I<=>4916[=]W<=>8069a[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>425[=]P<=>DCTClient.exe[=]I<=>1392[=]W<=>303ee[=]V<=>1.0.0.0
+T<=>431[=]P<=>CFSelWorld.exe[=]I<=>4916[=]W<=>8069a[=]V<=>CFSelWord
+T<=>435[=]P<=>IPease.exe[=]I<=>3376[=]W<=>10656[=]V<=>1.0.0.0
+T<=>118[=]P<=>91问问桌面工具.exe[=]I<=>2004[=]W<=>50510[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>120[=]P<=>QQLogin.exe[=]I<=>4604[=]W<=>106a6[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>124[=]P<=>explorer.exe[=]I<=>1256[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>127[=]P<=>QQLogin.exe[=]I<=>4604[=]W<=>106a6[=]V<=>CFQQLogin
+T<=>135[=]P<=>data.m[=]I<=>6092[=]W<=>600de[=]V<=>4.01.0005
+T<=>137[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>202dc[=]V<=>1.0.0.0
+T<=>139[=]P<=>data.m[=]I<=>6092[=]W<=>503ea[=]V<=>4.01.0005
+T<=>141[=]P<=>QQLogin.exe[=]I<=>4604[=]W<=>106a6[=]V<=>CFQQLogin
+T<=>167[=]P<=>CFSelWorld.exe[=]I<=>2720[=]W<=>703a8[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>171[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>227[=]P<=>QQLive.exe[=]I<=>1984[=]W<=>90672[=]V<=>8.45.6526.0
+T<=>584[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>202dc[=]V<=>1.0.0.0
+T<=>640[=]P<=>QQLive.exe[=]I<=>1984[=]W<=>a0672[=]V<=>8.45.6526.0
+T<=>648[=]P<=>explorer.exe[=]I<=>1256[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>665[=]P<=>QQLogin.exe[=]I<=>3096[=]W<=>70634[=]V<=>CFQQLogin
+T<=>725[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>202dc[=]V<=>1.0.0.0
+T<=>729[=]P<=>QQLogin.exe[=]I<=>3096[=]W<=>3b067c[=]V<=>CFQQLogin
+T<=>747[=]P<=>CFSelWorld.exe[=]I<=>5980[=]W<=>300644[=]V<=>CFSelWord
+T<=>753[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>771[=]P<=>qqbrowser.exe[=]I<=>4364[=]W<=>20774[=]V<=>6, 13, 13719, 201[=]N<=>QQ浏览器[=]C<=>Tencent Inc.
+T<=>775[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>777[=]P<=>qqbrowser.exe[=]I<=>4644[=]W<=>4d01ec[=]V<=>6, 13, 13719, 201
+T<=>779[=]P<=>qqbrowser.exe[=]I<=>4364[=]W<=>20774[=]V<=>6, 13, 13719, 201
+T<=>781[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>783[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>202dc[=]V<=>1.0.0.0
+T<=>785[=]P<=>explorer.exe[=]I<=>1256[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>787[=]P<=>QQLogin.exe[=]I<=>5248[=]W<=>440250[=]V<=>CFQQLogin
+T<=>819[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>202dc[=]V<=>1.0.0.0
+T<=>823[=]P<=>QQLogin.exe[=]I<=>5248[=]W<=>1a0672[=]V<=>CFQQLogin
+T<=>835[=]P<=>CFSelWorld.exe[=]I<=>668[=]W<=>4f01ec[=]V<=>CFSelWord
+T<=>841[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>847[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>860[=]P<=>qqbrowser.exe[=]I<=>5176[=]W<=>3c0658[=]V<=>6, 13, 13719, 201
+T<=>864[=]P<=>qqbrowser.exe[=]I<=>4572[=]W<=>40748[=]V<=>6, 13, 13719, 201
+T<=>868[=]P<=>qqbrowser.exe[=]I<=>4052[=]W<=>450624[=]V<=>6, 13, 13719, 201
+T<=>882[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>884[=]P<=>QQLogin.exe[=]I<=>1536[=]W<=>490424[=]V<=>CFQQLogin
+T<=>912[=]P<=>CFSelWorld.exe[=]I<=>5992[=]W<=>4104d6[=]V<=>CFSelWord
+T<=>922[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>932[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>934[=]P<=>qqbrowser.exe[=]I<=>5756[=]W<=>420644[=]V<=>6, 13, 13719, 201
+T<=>938[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>944[=]P<=>qqbrowser.exe[=]I<=>5476[=]W<=>503fe[=]V<=>6, 13, 13719, 201
+T<=>946[=]P<=>explorer.exe[=]I<=>1256[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>978[=]P<=>Au_.exe[=]I<=>5896[=]W<=>60220[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>998[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>1004[=]P<=>explorer.exe[=]I<=>1256[=]W<=>100ae[=]V<=>6.00.2900.5512
+T<=>1041[=]P<=>MiniQQDL.exe[=]I<=>4884[=]W<=>5503b2[=]V<=>2, 0, 102, 400[=]N<=>QQ游戏下载器[=]C<=>Tencent
+T<=>1043[=]P<=>explorer.exe[=]I<=>1256[=]W<=>1c00d0[=]V<=>6.00.2900.5512
+T<=>1045[=]P<=>CrossFire_OBV166_Full.exe[=]I<=>1632[=]W<=>c02a6[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>1067[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>1069[=]P<=>CrossFire_OBV166_Full.exe[=]I<=>1632[=]W<=>3200c8[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>1598[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>1600[=]P<=>QQLogin.exe[=]I<=>5400[=]W<=>360520[=]V<=>CFQQLogin
+T<=>1692[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>1694[=]P<=>CFSelWorld.exe[=]I<=>2128[=]W<=>4603f4[=]V<=>CFSelWord
+T<=>1698[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>1712[=]P<=>launchcrossfire.exe[=]I<=>5380[=]W<=>2e00d6[=]V<=>66.0.0.1[=]N<=>Crossfire Patcher[=]C<=>Neowiz Games
+T<=>1854[=]P<=>RegGuide.exe[=]I<=>5916[=]W<=>be00de[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>1856[=]P<=>launchcrossfire.exe[=]I<=>5380[=]W<=>2e00d6[=]V<=>66.0.0.1
+T<=>1936[=]P<=>IPease.exe[=]I<=>2896[=]W<=>1055c[=]V<=>1.0.0.0
+T<=>6397[=]P<=>baohezi.exe[=]I<=>1112[=]W<=>10962[=]V<=>1.0.0.0
+T<=>6405[=]P<=>explorer.exe[=]I<=>1256[=]W<=>e0074[=]V<=>6.00.2900.5512
+T<=>6415[=]P<=>RavMonD.exe[=]I<=>1500[=]W<=>1048a[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>300[=]P<=>explorer.exe[=]I<=>596[=]W<=>100be[=]V<=>6.00.2900.5512
+T<=>306[=]P<=>IEXPLORE.EXE[=]I<=>5656[=]W<=>10806[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>311[=]P<=>explorer.exe[=]I<=>596[=]W<=>100be[=]V<=>6.00.2900.5512
+T<=>316[=]P<=>IEXPLORE.EXE[=]I<=>3080[=]U<=>NULL[=]A<=>10232[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>318[=]P<=>IEXPLORE.EXE[=]I<=>5500[=]W<=>10f02[=]V<=>6.00.2900.5512
+T<=>334[=]P<=>IEXPLORE.EXE[=]I<=>5612[=]U<=>NULL[=]A<=>109fe[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>343[=]P<=>IEXPLORE.EXE[=]I<=>5312[=]U<=>NULL[=]A<=>1108a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>345[=]P<=>IEXPLORE.EXE[=]I<=>5312[=]U<=>http://123.duba.net/[=]A<=>1108a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>348[=]P<=>IEXPLORE.EXE[=]I<=>4724[=]U<=>NULL[=]A<=>110a6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>350[=]P<=>IPease.exe[=]I<=>3424[=]W<=>11030[=]V<=>1.0.0.0
+T<=>352[=]P<=>UpdateService.exe[=]I<=>4880[=]W<=>307ae[=]V<=>1.0.0.7
+T<=>358[=]P<=>IPease.exe[=]I<=>3424[=]W<=>11030[=]V<=>1.0.0.0
+T<=>360[=]P<=>explorer.exe[=]I<=>596[=]W<=>100be[=]V<=>6.00.2900.5512
+T<=>366[=]P<=>baohezi.exe[=]I<=>2480[=]W<=>101c6[=]V<=>1.0.0.0
+T<=>368[=]P<=>explorer.exe[=]I<=>596[=]W<=>5033e[=]V<=>6.00.2900.5512
+T<=>374[=]P<=>IEXPLORE.EXE[=]I<=>7844[=]W<=>702c4[=]V<=>6.00.2900.5512
+T<=>377[=]P<=>IPease.exe[=]I<=>3424[=]W<=>11030[=]V<=>1.0.0.0
+T<=>379[=]P<=>explorer.exe[=]I<=>596[=]W<=>703da[=]V<=>6.00.2900.5512
+T<=>435[=]P<=>RsTray.exe[=]I<=>2372[=]W<=>10156[=]V<=>23.00
+T<=>439[=]P<=>explorer.exe[=]I<=>596[=]W<=>70284[=]V<=>6.00.2900.5512
+T<=>112[=]P<=>data.m[=]I<=>2232[=]W<=>1037e[=]V<=>4.01.0005
+T<=>116[=]P<=>ICBCEBankAssist.exe[=]I<=>4092[=]W<=>103c8[=]V<=>1.0.0.1
+T<=>120[=]P<=>explorer.exe[=]I<=>808[=]W<=>100a4[=]V<=>6.00.2900.5512
+T<=>124[=]P<=>ICBCEBankAssist.exe[=]I<=>4092[=]W<=>103c8[=]V<=>1.0.0.1
+T<=>128[=]P<=>explorer.exe[=]I<=>808[=]W<=>100d6[=]V<=>6.00.2900.5512
+T<=>132[=]P<=>data.m[=]I<=>2232[=]W<=>303a4[=]V<=>4.01.0005
+T<=>136[=]P<=>ICBCEBankAssist.exe[=]I<=>4092[=]W<=>103c8[=]V<=>1.0.0.1
+T<=>138[=]P<=>baohezi.exe[=]I<=>4028[=]W<=>2020e[=]V<=>1.0.0.0
+T<=>140[=]P<=>kxetray.exe[=]I<=>2076[=]W<=>105a2[=]V<=>9,0,70520,129[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>148[=]P<=>zdqst.exe[=]I<=>1296[=]W<=>105f2[=]V<=>1.4.1.9
+T<=>150[=]P<=>IPease.exe[=]I<=>3932[=]W<=>10634[=]V<=>1.0.0.0
+T<=>152[=]P<=>explorer.exe[=]I<=>808[=]W<=>100a4[=]V<=>6.00.2900.5512
+T<=>156[=]P<=>91问问桌面工具.exe[=]I<=>120[=]W<=>90514[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>160[=]P<=>explorer.exe[=]I<=>808[=]W<=>100d6[=]V<=>6.00.2900.5512
+T<=>164[=]P<=>QQLogin.exe[=]I<=>5804[=]W<=>3066c[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>170[=]P<=>baohezi.exe[=]I<=>4028[=]W<=>2020e[=]V<=>1.0.0.0
+T<=>174[=]P<=>QQLogin.exe[=]I<=>5804[=]W<=>3066c[=]V<=>CFQQLogin
+T<=>202[=]P<=>IPease.exe[=]I<=>3932[=]W<=>10634[=]V<=>1.0.0.0
+T<=>204[=]P<=>CFSelWorld.exe[=]I<=>5684[=]W<=>4067c[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>206[=]P<=>IPease.exe[=]I<=>3932[=]W<=>10634[=]V<=>1.0.0.0
+T<=>210[=]P<=>explorer.exe[=]I<=>808[=]W<=>100d6[=]V<=>6.00.2900.5512
+T<=>280[=]P<=>IEXPLORE.EXE[=]I<=>5280[=]W<=>10720[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>282[=]P<=>IEXPLORE.EXE[=]I<=>5332[=]W<=>10704[=]V<=>6.00.2900.5512
+T<=>284[=]P<=>QQLogin.exe[=]I<=>5748[=]W<=>40776[=]V<=>CFQQLogin
+T<=>319[=]P<=>CFSelWorld.exe[=]I<=>5352[=]W<=>6069c[=]V<=>CFSelWord
+T<=>327[=]P<=>IPease.exe[=]I<=>3932[=]W<=>10634[=]V<=>1.0.0.0
+T<=>341[=]P<=>baohezi.exe[=]I<=>4028[=]W<=>2020e[=]V<=>1.0.0.0
+T<=>349[=]P<=>explorer.exe[=]I<=>808[=]W<=>100d6[=]V<=>6.00.2900.5512
+T<=>381[=]P<=>kxetray.exe[=]I<=>2076[=]W<=>1057e[=]V<=>9,0,70520,129
+T<=>385[=]P<=>explorer.exe[=]I<=>808[=]W<=>100d6[=]V<=>6.00.2900.5512
+T<=>403[=]P<=>QQLogin.exe[=]I<=>4364[=]W<=>140600[=]V<=>CFQQLogin
+T<=>443[=]P<=>baohezi.exe[=]I<=>4028[=]W<=>2020e[=]V<=>1.0.0.0
+T<=>447[=]P<=>QQLogin.exe[=]I<=>4364[=]W<=>807a2[=]V<=>CFQQLogin
+T<=>459[=]P<=>CFSelWorld.exe[=]I<=>408[=]W<=>1303de[=]V<=>CFSelWord
+T<=>465[=]P<=>IBrowser.exe[=]I<=>4356[=]W<=>1003f2[=]V<=>1.0.0.0[=]N<=>NULL[=]C<=>NULL
+T<=>703[=]P<=>baohezi.exe[=]I<=>4028[=]W<=>2020e[=]V<=>1.0.0.0
+T<=>913[=]P<=>RavMonD.exe[=]I<=>1536[=]W<=>3006a[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>915[=]P<=>RavMonD.exe[=]I<=>1580[=]W<=>200a2[=]V<=>23.00
+T<=>316[=]P<=>DCTClient.exe[=]I<=>3780[=]W<=>304e4[=]V<=>1.0.0.0
+T<=>318[=]P<=>DCTClient.exe[=]I<=>2148[=]W<=>3035e[=]V<=>1.0.0.0
+T<=>328[=]P<=>baohezi.exe[=]I<=>3956[=]W<=>103b2[=]V<=>1.0.0.0
+T<=>330[=]P<=>IPease.exe[=]I<=>3940[=]W<=>404e4[=]V<=>1.0.0.0
+T<=>334[=]P<=>91问问桌面工具.exe[=]I<=>2988[=]W<=>702a0[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>336[=]P<=>IPease.exe[=]I<=>3940[=]W<=>404e4[=]V<=>1.0.0.0
+T<=>338[=]P<=>explorer.exe[=]I<=>880[=]W<=>100a4[=]V<=>6.00.2900.5512
+T<=>349[=]P<=>QQLogin.exe[=]I<=>4632[=]W<=>4069a[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>385[=]P<=>baohezi.exe[=]I<=>3956[=]W<=>103b2[=]V<=>1.0.0.0
+T<=>387[=]P<=>QQLogin.exe[=]I<=>4632[=]W<=>70224[=]V<=>CFQQLogin
+T<=>433[=]P<=>IPease.exe[=]I<=>3940[=]W<=>404e4[=]V<=>1.0.0.0
+T<=>435[=]P<=>CFSelWorld.exe[=]I<=>2960[=]W<=>206a4[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>439[=]P<=>IPease.exe[=]I<=>3940[=]W<=>404e4[=]V<=>1.0.0.0
+T<=>850[=]P<=>zdqst.exe[=]I<=>3164[=]W<=>2053c[=]V<=>1.4.1.9
+T<=>95[=]P<=>explorer.exe[=]I<=>856[=]W<=>100da[=]V<=>6.00.2900.5512
+T<=>97[=]P<=>QQLogin.exe[=]I<=>920[=]W<=>104a4[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>101[=]P<=>DYT.exe[=]I<=>4000[=]W<=>2044e[=]V<=>2, 0, 0, 8
+T<=>105[=]P<=>DCTClient.exe[=]I<=>3312[=]W<=>50390[=]V<=>1.0.0.0
+T<=>107[=]P<=>explorer.exe[=]I<=>856[=]W<=>100aa[=]V<=>6.00.2900.5512
+T<=>111[=]P<=>data.m[=]I<=>844[=]W<=>1058c[=]V<=>4.01.0005
+T<=>113[=]P<=>DCTClient.exe[=]I<=>3312[=]W<=>2055e[=]V<=>1.0.0.0
+T<=>121[=]P<=>DCTClient.exe[=]I<=>720[=]W<=>104ce[=]V<=>1.0.0.0
+T<=>131[=]P<=>QQLogin.exe[=]I<=>920[=]W<=>104a4[=]V<=>CFQQLogin
+T<=>133[=]P<=>91问问桌面工具.exe[=]I<=>4252[=]W<=>2058c[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>135[=]P<=>QQLogin.exe[=]I<=>920[=]W<=>104a4[=]V<=>CFQQLogin
+T<=>165[=]P<=>CFSelWorld.exe[=]I<=>5928[=]W<=>20482[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>169[=]P<=>baohezi.exe[=]I<=>3600[=]W<=>302de[=]V<=>1.0.0.0
+T<=>177[=]P<=>CFSelWorld.exe[=]I<=>5928[=]W<=>20482[=]V<=>CFSelWord
+T<=>179[=]P<=>baohezi.exe[=]I<=>3600[=]W<=>302de[=]V<=>1.0.0.0
+T<=>193[=]P<=>CFSelWorld.exe[=]I<=>5928[=]W<=>20482[=]V<=>CFSelWord
+T<=>197[=]P<=>baohezi.exe[=]I<=>3600[=]W<=>302de[=]V<=>1.0.0.0
+T<=>205[=]P<=>91问问桌面工具.exe[=]I<=>4252[=]W<=>2058e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>215[=]P<=>explorer.exe[=]I<=>856[=]W<=>100da[=]V<=>6.00.2900.5512
+T<=>6721[=]P<=>zdqst.exe[=]I<=>4288[=]W<=>20506[=]V<=>1.4.1.9
+T<=>6725[=]P<=>explorer.exe[=]I<=>856[=]W<=>100aa[=]V<=>6.00.2900.5512
+T<=>6736[=]P<=>kxetray.exe[=]I<=>1152[=]W<=>103f8[=]V<=>9,0,70520,129[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>6744[=]P<=>RavMonD.exe[=]I<=>1600[=]W<=>20044[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>6748[=]P<=>explorer.exe[=]I<=>856[=]W<=>20ea6[=]V<=>6.00.2900.5512
+T<=>109[=]P<=>explorer.exe[=]I<=>620[=]W<=>100c0[=]V<=>6.00.2900.5512
+T<=>127[=]P<=>QQLogin.exe[=]I<=>4152[=]W<=>2054a[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>131[=]P<=>explorer.exe[=]I<=>620[=]W<=>100c0[=]V<=>6.00.2900.5512
+T<=>135[=]P<=>IPease.exe[=]I<=>4040[=]W<=>502ca[=]V<=>1.0.0.0
+T<=>137[=]P<=>explorer.exe[=]I<=>620[=]W<=>1008a[=]V<=>6.00.2900.5512
+T<=>139[=]P<=>QQLogin.exe[=]I<=>4152[=]W<=>2054a[=]V<=>CFQQLogin
+T<=>169[=]P<=>CFSelWorld.exe[=]I<=>2084[=]W<=>3054a[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>173[=]P<=>baohezi.exe[=]I<=>2488[=]W<=>2067e[=]V<=>1.0.0.0
+T<=>179[=]P<=>91问问桌面工具.exe[=]I<=>3136[=]W<=>3053e[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>184[=]P<=>explorer.exe[=]I<=>620[=]W<=>100c0[=]V<=>6.00.2900.5512
+T<=>3855[=]P<=>zdqst.exe[=]I<=>3384[=]W<=>2046e[=]V<=>1.4.1.9
+T<=>3879[=]P<=>RavMonD.exe[=]I<=>1556[=]W<=>302c4[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>3883[=]P<=>explorer.exe[=]I<=>620[=]W<=>1008a[=]V<=>6.00.2900.5512
+T<=>98[=]P<=>explorer.exe[=]I<=>1284[=]W<=>7006e[=]V<=>6.00.2900.5512
+T<=>117[=]P<=>iResearchiClick.exe[=]I<=>2316[=]W<=>5043e[=]V<=>1, 1, 1, 21
+T<=>127[=]P<=>explorer.exe[=]I<=>1284[=]W<=>7006e[=]V<=>6.00.2900.5512
+T<=>133[=]P<=>91问问桌面工具.exe[=]I<=>3316[=]W<=>d0546[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>137[=]P<=>baohezi.exe[=]I<=>1116[=]W<=>10216[=]V<=>1.0.0.0
+T<=>143[=]P<=>IPease.exe[=]I<=>164[=]W<=>105e6[=]V<=>1.0.0.0
+T<=>145[=]P<=>baohezi.exe[=]I<=>1116[=]W<=>10216[=]V<=>1.0.0.0
+T<=>616[=]P<=>explorer.exe[=]I<=>1284[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>634[=]P<=>baohezi.exe[=]I<=>1116[=]W<=>10260[=]V<=>1.0.0.0
+T<=>636[=]P<=>explorer.exe[=]I<=>1284[=]W<=>7006e[=]V<=>6.00.2900.5512
+T<=>652[=]P<=>QQLogin.exe[=]I<=>3008[=]W<=>106a8[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>727[=]P<=>IPease.exe[=]I<=>164[=]W<=>105e6[=]V<=>1.0.0.0
+T<=>729[=]P<=>CFSelWorld.exe[=]I<=>5524[=]W<=>2e0656[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>733[=]P<=>IPease.exe[=]I<=>164[=]W<=>105e6[=]V<=>1.0.0.0
+T<=>858[=]P<=>kxetray.exe[=]I<=>3068[=]W<=>103a4[=]V<=>9,0,70520,129[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>860[=]P<=>explorer.exe[=]I<=>1284[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>868[=]P<=>QQLogin.exe[=]I<=>5116[=]W<=>380662[=]V<=>CFQQLogin
+T<=>944[=]P<=>CFSelWorld.exe[=]I<=>2736[=]W<=>420626[=]V<=>CFSelWord
+T<=>952[=]P<=>IPease.exe[=]I<=>164[=]W<=>105e6[=]V<=>1.0.0.0
+T<=>2187[=]P<=>explorer.exe[=]I<=>1284[=]W<=>100a6[=]V<=>6.00.2900.5512
+T<=>2191[=]P<=>QQLogin.exe[=]I<=>6892[=]W<=>390678[=]V<=>CFQQLogin
+T<=>2231[=]P<=>CFSelWorld.exe[=]I<=>7096[=]W<=>500588[=]V<=>CFSelWord
+T<=>2242[=]P<=>IPease.exe[=]I<=>164[=]W<=>105e6[=]V<=>1.0.0.0
+T<=>8350[=]P<=>baohezi.exe[=]I<=>1116[=]W<=>890794[=]V<=>1.0.0.0
+T<=>8358[=]P<=>RavMonD.exe[=]I<=>1500[=]W<=>1057c[=]V<=>23.00[=]N<=>Rising AntiVirus 2011[=]C<=>Beijing Rising Information Technology Co., Ltd.
+T<=>8360[=]P<=>RavMonD.exe[=]I<=>1520[=]W<=>7006a[=]V<=>23.00
+T<=>8362[=]P<=>explorer.exe[=]I<=>1284[=]W<=>7006e[=]V<=>6.00.2900.5512

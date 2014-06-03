@@ -1,0 +1,1401 @@
+Last<=>39283
+L_Start<=>2012-08-10 10-56-17
+T<=>296[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>5924[=]W<=>10420[=]V<=>1, 0, 0, 10[=]N<=>XmpTipWnd Module[=]C<=>深圳市迅雷网络技术有限公司
+T<=>298[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>300[=]P<=>BrowersWin.exe[=]I<=>3244[=]W<=>40302[=]V<=>1, 0, 0, 6[=]N<=>福州卓越无限软件有限公司[=]C<=>福州卓越无限软件有限公司
+T<=>334[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.google.cn[=]A<=>204bc[=]B<=>1204d4[=]V<=>14.0.835.202[=]N<=>Google Chrome[=]C<=>Google Inc.
+T<=>336[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>338[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>340[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>342[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/SysHome.do[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>350[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>402[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>404[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/update/[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>412[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>440[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/284305718/profile[=]A<=>204bc[=]B<=>502d4[=]V<=>14.0.835.202
+T<=>456[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>474[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>478[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>480[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>488[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/update/[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>492[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/update/[=]A<=>204bc[=]B<=>40314[=]V<=>14.0.835.202
+T<=>536[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/284305718/profile[=]A<=>204bc[=]B<=>502d4[=]V<=>14.0.835.202
+T<=>542[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12[=]N<=>GameLoad 应用程序[=]C<=>NULL
+T<=>604[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/284305718/profile[=]A<=>204bc[=]B<=>502d4[=]V<=>14.0.835.202
+T<=>606[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>688[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/284305718/profile[=]A<=>204bc[=]B<=>502d4[=]V<=>14.0.835.202
+T<=>692[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>694[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>744[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>746[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>772[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>40304[=]V<=>14.0.835.202
+T<=>780[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>a0378[=]V<=>14.0.835.202
+T<=>784[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>788[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>790[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>792[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>982[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>999[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1007[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>c03a4[=]V<=>14.0.835.202
+T<=>1046[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1050[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>d03a4[=]V<=>14.0.835.202
+T<=>1052[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1060[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>d03a4[=]V<=>14.0.835.202
+T<=>1064[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>d03a4[=]V<=>14.0.835.202
+T<=>1066[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.youku.com[=]A<=>204bc[=]B<=>90300[=]V<=>14.0.835.202
+T<=>1074[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>1076[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1080[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1102[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile#palbum[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1104[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#//photo/photo/302692552[=]A<=>204bc[=]B<=>10586[=]V<=>14.0.835.202
+T<=>1110[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>12036e[=]V<=>14.0.835.202
+T<=>1176[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1178[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>1180[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>1184[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1196[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>1198[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>1220[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>904a8[=]V<=>14.0.835.202
+T<=>1224[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>2044c[=]V<=>14.0.835.202
+T<=>1228[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>904a8[=]V<=>14.0.835.202
+T<=>1230[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>204e8[=]V<=>14.0.835.202
+T<=>1240[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1242[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1250[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1252[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1374[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>1376[=]P<=>QQPetAgent.exe[=]I<=>4964[=]W<=>10508[=]V<=>7, 12, 0, 1[=]N<=>QQ宠物[=]C<=>Tencent
+T<=>1378[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1380[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1386[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>1422[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1440[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>1464[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1574[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1600[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1602[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1604[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>1606[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1650[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1652[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>1662[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1687[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>1691[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1707[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1721[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1765[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1773[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1797[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1807[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1829[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1831[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1833[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1843[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1961[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1963[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>12036e[=]V<=>14.0.835.202
+T<=>1969[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1977[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>12036e[=]V<=>14.0.835.202
+T<=>1983[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>1991[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>1993[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2033[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2045[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2069[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2073[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2213[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2215[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2549[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2555[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2571[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>12036e[=]V<=>14.0.835.202
+T<=>2573[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>2575[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>2583[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2585[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>2599[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2633[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2639[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2641[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>2747[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>2767[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3103[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>3105[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3109[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>3139[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3526[=]P<=>AliIM.exe[=]I<=>972[=]W<=>8018e[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>3528[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3734[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>4552[=]W<=>2046a[=]V<=>1, 0, 0, 10
+T<=>3736[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3830[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>3892[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3894[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>3900[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>3910[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>3914[=]P<=>chrome.exe[=]I<=>5320[=]W<=>470302[=]V<=>14.0.835.202
+T<=>3920[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>3922[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>3928[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>3932[=]P<=>chrome.exe[=]I<=>5320[=]W<=>4a0302[=]V<=>14.0.835.202
+T<=>3950[=]P<=>chrome.exe[=]I<=>5320[=]W<=>28033a[=]V<=>14.0.835.202
+T<=>4065[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4067[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4071[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2b033a[=]V<=>14.0.835.202
+T<=>4210[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4212[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4214[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2d033a[=]V<=>14.0.835.202
+T<=>4298[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4300[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4302[=]P<=>chrome.exe[=]I<=>5320[=]W<=>30033a[=]V<=>14.0.835.202
+T<=>4453[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4455[=]P<=>chrome.exe[=]I<=>5320[=]W<=>32033a[=]V<=>14.0.835.202
+T<=>4556[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4558[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4560[=]P<=>chrome.exe[=]I<=>5320[=]W<=>35033a[=]V<=>14.0.835.202
+T<=>4642[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4644[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4656[=]P<=>chrome.exe[=]I<=>5320[=]W<=>11018e[=]V<=>14.0.835.202
+T<=>4699[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4701[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4733[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4735[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4751[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4753[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4791[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4801[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4803[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4805[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4819[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4821[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4835[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>4837[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>4841[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5399[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5483[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>5485[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5487[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5497[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>5501[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5637[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5641[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5724[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5726[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5728[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>5780[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5782[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>5790[=]P<=>chrome.exe[=]I<=>5320[=]W<=>1204e8[=]V<=>14.0.835.202
+T<=>5878[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>5880[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5882[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5884[=]P<=>chrome.exe[=]I<=>5320[=]W<=>1404e8[=]V<=>14.0.835.202
+T<=>5941[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>5943[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>5947[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>5975[=]P<=>chrome.exe[=]I<=>5320[=]W<=>b0510[=]V<=>14.0.835.202
+T<=>6128[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6132[=]P<=>SohuNews.exe[=]I<=>5604[=]W<=>3d018e[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>6134[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6172[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6178[=]P<=>chrome.exe[=]I<=>5320[=]W<=>260284[=]V<=>14.0.835.202
+T<=>6184[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6186[=]P<=>chrome.exe[=]I<=>5320[=]W<=>10018c[=]V<=>14.0.835.202
+T<=>6245[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6277[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6279[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6287[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6297[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6299[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6301[=]P<=>chrome.exe[=]I<=>5320[=]W<=>1c018c[=]V<=>14.0.835.202
+T<=>6554[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>6560[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6562[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6566[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6568[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6574[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>6586[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6592[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>6594[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6600[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>6610[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>6640[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>6642[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>6894[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>6896[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7000[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7036[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7042[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7110[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7112[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7116[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7124[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/ivivivi[=]A<=>204bc[=]B<=>d0496[=]V<=>14.0.835.202
+T<=>7126[=]P<=>chrome.exe[=]I<=>2864[=]U<=>verysky.taobao.com[=]A<=>204bc[=]B<=>d0496[=]V<=>14.0.835.202
+T<=>7128[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7170[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7174[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7176[=]P<=>chrome.exe[=]I<=>2864[=]U<=>verysky.taobao.com[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7184[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7200[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>6044e[=]V<=>14.0.835.202
+T<=>7232[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7244[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>70598[=]V<=>14.0.835.202
+T<=>7246[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7252[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>70598[=]V<=>14.0.835.202
+T<=>7264[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>6044e[=]V<=>14.0.835.202
+T<=>7266[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7294[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>6044e[=]V<=>14.0.835.202
+T<=>7404[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7424[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7434[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7473[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>f0460[=]V<=>14.0.835.202
+T<=>7475[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8047a[=]V<=>14.0.835.202
+T<=>7477[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>7479[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7483[=]P<=>chrome.exe[=]I<=>5320[=]W<=>d0274[=]V<=>14.0.835.202
+T<=>7517[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7523[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7527[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7675[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7733[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>7742[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7744[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>7752[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7754[=]P<=>chrome.exe[=]I<=>2864[=]U<=>xanci.deviantart.com/art/NERV-UI-Rainmeter-Suite-259921353[=]A<=>204bc[=]B<=>1104ee[=]V<=>14.0.835.202
+T<=>7756[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>7802[=]P<=>chrome.exe[=]I<=>2864[=]U<=>xanci.deviantart.com/art/NERV-UI-Rainmeter-Suite-259921353[=]A<=>204bc[=]B<=>1104ee[=]V<=>14.0.835.202
+T<=>7816[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>7818[=]P<=>chrome.exe[=]I<=>2864[=]U<=>xanci.deviantart.com/art/NERV-UI-Rainmeter-Suite-259921353[=]A<=>204bc[=]B<=>1104ee[=]V<=>14.0.835.202
+T<=>7826[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>7830[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>7866[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>7868[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7870[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>7924[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7936[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>7958[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7966[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>7988[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7990[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>7994[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>7998[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>8000[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8002[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8004[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8006[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8016[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjYxNTU2.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8066[=]P<=>QQ.exe[=]I<=>1692[=]W<=>170240[=]V<=>1.85.4925.0
+T<=>8068[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>8070[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8076[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8126[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8142[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8158[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8202[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8204[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>8222[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8224[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>8472[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>8540[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>8616[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8770[=]P<=>chrome.exe[=]I<=>5320[=]W<=>380240[=]V<=>14.0.835.202
+T<=>8879[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>8899[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8901[=]P<=>chrome.exe[=]I<=>5320[=]W<=>3e0240[=]V<=>14.0.835.202
+T<=>8939[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8943[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8945[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>8947[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>8949[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8959[=]P<=>chrome.exe[=]I<=>2864[=]U<=>about:blank[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>8961[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>8975[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>c047a[=]V<=>14.0.835.202
+T<=>8981[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>8985[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/search.htm[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>8989[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8991[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>8999[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/search.htm[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9009[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/search.htm[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9018[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/search.htm[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9022[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9040[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>e047a[=]V<=>14.0.835.202
+T<=>9042[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>9044[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>e047a[=]V<=>14.0.835.202
+T<=>9046[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9058[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>f0458[=]V<=>14.0.835.202
+T<=>9062[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>f0490[=]V<=>14.0.835.202
+T<=>9078[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9098[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9108[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9120[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576495554[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9130[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>160494[=]V<=>14.0.835.202
+T<=>9134[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9136[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576495554[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9140[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>170494[=]V<=>14.0.835.202
+T<=>9142[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576495554[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9144[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9164[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>120434[=]V<=>14.0.835.202
+T<=>9184[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9190[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9192[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576495554[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9194[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576569810[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9204[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576580298[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9206[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9222[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>130434[=]V<=>14.0.835.202
+T<=>9228[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576580298[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9230[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>12036e[=]V<=>14.0.835.202
+T<=>9245[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9247[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>9327[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9373[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9393[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9395[=]P<=>chrome.exe[=]I<=>2864[=]U<=>love0592.taobao.com[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9407[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>1704a0[=]V<=>14.0.835.202
+T<=>9421[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576580298[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9423[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9451[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>12032a[=]V<=>14.0.835.202
+T<=>9455[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9491[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1631628293#1344576580298[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9493[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9515[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9521[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/fans[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9523[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9549[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9563[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9579[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9597[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>9620[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9662[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1658658821/fans[=]A<=>204bc[=]B<=>1a058a[=]V<=>14.0.835.202
+T<=>9672[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1658658821/fans[=]A<=>204bc[=]B<=>1a058a[=]V<=>14.0.835.202
+T<=>9688[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>9738[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1658658821/fans[=]A<=>204bc[=]B<=>1a058a[=]V<=>14.0.835.202
+T<=>9740[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>9742[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>9748[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>9752[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>9756[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1900150527[=]A<=>204bc[=]B<=>150458[=]V<=>14.0.835.202
+T<=>9758[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1900150527#1344577134736[=]A<=>204bc[=]B<=>150458[=]V<=>14.0.835.202
+T<=>9774[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>9776[=]P<=>chrome.exe[=]I<=>5320[=]W<=>bdd0282[=]V<=>14.0.835.202
+T<=>10320[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>10324[=]P<=>chrome.exe[=]I<=>5320[=]W<=>14f0532[=]V<=>14.0.835.202
+T<=>10806[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>10808[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>10810[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>10828[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>10856[=]P<=>chrome.exe[=]I<=>5320[=]W<=>170472[=]V<=>14.0.835.202
+T<=>10927[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>10931[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>10949[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>10953[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>10959[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>10967[=]P<=>chrome.exe[=]I<=>5320[=]W<=>a6040c[=]V<=>14.0.835.202
+T<=>10971[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>10983[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>10987[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>10999[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>11003[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>11037[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>11045[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>11183[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.37wanwan.com/app/passport/pay/dhyxb.php[=]A<=>204bc[=]B<=>17059e[=]V<=>14.0.835.202
+T<=>11185[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>11241[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>11245[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>11389[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>11391[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>11401[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>11403[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003/friends[=]A<=>204bc[=]B<=>1b0412[=]V<=>14.0.835.202
+T<=>11405[=]P<=>chrome.exe[=]I<=>2864[=]U<=>e.weibo.com/1658658821/ywv6bygOZ[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>11407[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>11409[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>11411[=]P<=>chrome.exe[=]I<=>5320[=]W<=>280170[=]V<=>14.0.835.202
+T<=>11616[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>11618[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>11628[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>11636[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>11646[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>11870[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>11927[=]P<=>chrome.exe[=]I<=>5320[=]W<=>8804b2[=]V<=>14.0.835.202
+T<=>12181[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>12185[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>12201[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>12211[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12213[=]P<=>chrome.exe[=]I<=>5320[=]W<=>9b904a0[=]V<=>14.0.835.202
+T<=>12686[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XNDM3MjY3MTA4.html[=]A<=>204bc[=]B<=>404f6[=]V<=>14.0.835.202
+T<=>12688[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.soku.com/search_video/q_爱情公寓3[=]A<=>204bc[=]B<=>4041e[=]V<=>14.0.835.202
+T<=>12692[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12700[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12702[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12822[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12869[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>12909[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12915[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>12921[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12923[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12937[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12945[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>12976[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12986[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1020792662[=]A<=>204bc[=]B<=>2e045a[=]V<=>14.0.835.202
+T<=>12988[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>12994[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>13466[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>13504[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>13506[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>13514[=]P<=>chrome.exe[=]I<=>2864[=]U<=>about:blank[=]A<=>204bc[=]B<=>6600510[=]V<=>14.0.835.202
+T<=>13516[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>13518[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6341143174[=]A<=>204bc[=]B<=>6600510[=]V<=>14.0.835.202
+T<=>13528[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>13614[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/285821355/13954628627[=]A<=>204bc[=]B<=>6b04e6[=]V<=>14.0.835.202
+T<=>13622[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/435692363/photo-6373847944[=]A<=>204bc[=]B<=>6b04e6[=]V<=>14.0.835.202
+T<=>13626[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/435692363/photo-6373847944#/435692363/photo-6373847942[=]A<=>204bc[=]B<=>6b04e6[=]V<=>14.0.835.202
+T<=>13628[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>13644[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14137[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>10648[=]V<=>14.0.835.202
+T<=>14141[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>10648[=]V<=>14.0.835.202
+T<=>14145[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/sleepingdogs/[=]A<=>204bc[=]B<=>ae50634[=]V<=>14.0.835.202
+T<=>14173[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14175[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>10648[=]V<=>14.0.835.202
+T<=>14177[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/sleepingdogs/[=]A<=>204bc[=]B<=>13065a[=]V<=>14.0.835.202
+T<=>14181[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14183[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>14208[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14310[=]P<=>chrome.exe[=]I<=>5320[=]W<=>11c605e8[=]V<=>14.0.835.202
+T<=>14739[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14767[=]P<=>chrome.exe[=]I<=>5320[=]W<=>19a067e[=]V<=>14.0.835.202
+T<=>14779[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14787[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14789[=]P<=>chrome.exe[=]I<=>5320[=]W<=>460698[=]V<=>14.0.835.202
+T<=>14805[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14813[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>10648[=]V<=>14.0.835.202
+T<=>14815[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>131069e[=]V<=>14.0.835.202
+T<=>14822[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>131069e[=]V<=>14.0.835.202
+T<=>14830[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>131069e[=]V<=>14.0.835.202
+T<=>14834[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14840[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>131069e[=]V<=>14.0.835.202
+T<=>14842[=]P<=>chrome.exe[=]I<=>2864[=]U<=>love0592.taobao.com[=]A<=>204bc[=]B<=>13065e[=]V<=>14.0.835.202
+T<=>14848[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>13065e[=]V<=>14.0.835.202
+T<=>14870[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>13065e[=]V<=>14.0.835.202
+T<=>14882[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>10648[=]V<=>14.0.835.202
+T<=>14884[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/sleepingdogs/[=]A<=>204bc[=]B<=>47068c[=]V<=>14.0.835.202
+T<=>14894[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/Soft/Special/sleepingdogs/[=]A<=>204bc[=]B<=>30646[=]V<=>14.0.835.202
+T<=>14900[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14902[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/263399953/13954835038[=]A<=>204bc[=]B<=>7304e6[=]V<=>14.0.835.202
+T<=>14904[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>14936[=]P<=>chrome.exe[=]I<=>5320[=]W<=>30648[=]V<=>14.0.835.202
+T<=>14966[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15038[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>15046[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15072[=]P<=>chrome.exe[=]I<=>5320[=]W<=>84e047a[=]V<=>14.0.835.202
+T<=>15102[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15112[=]P<=>chrome.exe[=]I<=>5320[=]W<=>853047a[=]V<=>14.0.835.202
+T<=>15171[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15181[=]P<=>chrome.exe[=]I<=>5320[=]W<=>854047a[=]V<=>14.0.835.202
+T<=>15227[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/sleepingdogs/[=]A<=>204bc[=]B<=>47068c[=]V<=>14.0.835.202
+T<=>15229[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>15257[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15261[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>15263[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15277[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>15293[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15309[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15325[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15327[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15329[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15339[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15379[=]P<=>chrome.exe[=]I<=>2864[=]U<=>ww4.sinaimg.cn/large/61add42ajw1dvrllu62u5j.jpg[=]A<=>204bc[=]B<=>7404e6[=]V<=>14.0.835.202
+T<=>15383[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15385[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676#1344582760436[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15469[=]P<=>explorer.exe[=]I<=>1624[=]W<=>ebc0418[=]V<=>6.00.2900.5512
+T<=>15473[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15483[=]P<=>explorer.exe[=]I<=>1624[=]W<=>ebc0418[=]V<=>6.00.2900.5512
+T<=>15525[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15529[=]P<=>explorer.exe[=]I<=>1624[=]W<=>102be[=]V<=>6.00.2900.5512
+T<=>15531[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>15551[=]P<=>explorer.exe[=]I<=>1624[=]W<=>102be[=]V<=>6.00.2900.5512
+T<=>15555[=]P<=>rads_user_kernel.exe[=]I<=>7160[=]W<=>805d6[=]V<=>1.0.0.228[=]N<=>PVP.net Patcher Kernel[=]C<=>NULL
+T<=>15557[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676#1344582760436[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15559[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>32045a[=]V<=>14.0.835.202
+T<=>15561[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>14c063c[=]V<=>14.0.835.202
+T<=>15585[=]P<=>LoLLauncher.exe[=]I<=>5028[=]W<=>9041e[=]V<=>1.0.1.19[=]N<=>PVP.net Patcher[=]C<=>NULL
+T<=>15587[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>15589[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15591[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>14c063c[=]V<=>14.0.835.202
+T<=>15605[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15607[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>14c063c[=]V<=>14.0.835.202
+T<=>15647[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>14c063c[=]V<=>14.0.835.202
+T<=>15649[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.ct10000.com[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15667[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15675[=]P<=>LoLLauncher.exe[=]I<=>5028[=]W<=>9041e[=]V<=>1.0.1.19
+T<=>15679[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15818[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/bill[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15820[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/account[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15826[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15840[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/bill[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15860[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15878[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/bill[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15890[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/order[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15899[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15901[=]P<=>LoLLauncher.exe[=]I<=>5028[=]W<=>9041e[=]V<=>1.0.1.19
+T<=>15905[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/order[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15907[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15909[=]P<=>chrome.exe[=]I<=>2864[=]U<=>js.189.cn/service/order[=]A<=>204bc[=]B<=>240504[=]V<=>14.0.835.202
+T<=>15911[=]P<=>TrianglePlayer.exe[=]I<=>5504[=]W<=>90188[=]V<=>1, 0, 0, 12
+T<=>15913[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>15917[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15944[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2[=]N<=>A[=]C<=>Adobe Systems Inc.
+T<=>15968[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>15970[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>15976[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>106cc[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15978[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>15980[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>15985[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676#1344582760436[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15987[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>15995[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>16001[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>16011[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16027[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8051c[=]V<=>14.0.835.202
+T<=>16029[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16045[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16058[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16064[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16084[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16088[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16174[=]P<=>explorer.exe[=]I<=>1624[=]W<=>20094[=]V<=>6.00.2900.5512
+T<=>16176[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16184[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16192[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16194[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16196[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16200[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16202[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>16210[=]P<=>explorer.exe[=]I<=>1624[=]W<=>e05e6[=]V<=>6.00.2900.5512
+T<=>16216[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144[=]N<=>League of Legends (TM) Client[=]C<=>NULL
+T<=>16228[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16230[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16248[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16254[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>16879[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16881[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16883[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>16887[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16893[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>16895[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>16901[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>17177[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>17183[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>17185[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>17203[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>17221[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>17225[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>17460[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>17462[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>17468[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>1b07b4[=]V<=>14.0.835.202
+T<=>17478[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>1b07b4[=]V<=>14.0.835.202
+T<=>17482[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>17484[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>18084[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>6608[=]W<=>200740[=]V<=>1, 0, 0, 10
+T<=>18088[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>18339[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>18343[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>18349[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>18351[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>18493[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>18499[=]P<=>League of Legends.exe[=]I<=>7784[=]W<=>98018c[=]V<=>1.0.0.144
+T<=>18679[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>18683[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>18687[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>18693[=]P<=>explorer.exe[=]I<=>1624[=]W<=>d3204fa[=]V<=>6.00.2900.5512
+T<=>18697[=]P<=>TBBrowserDownload.exe[=]I<=>3888[=]W<=>2005d8[=]V<=>1.0.0.1[=]N<=>淘宝浏览器[=]C<=>Taobao
+T<=>18699[=]P<=>explorer.exe[=]I<=>1624[=]W<=>d3204fa[=]V<=>6.00.2900.5512
+T<=>18705[=]P<=>chrome.exe[=]I<=>2864[=]U<=>127.0.0.1:1231/auth/283DB0EB082446BB8ABFE7BE794A1008[=]A<=>204bc[=]B<=>4905a6[=]V<=>14.0.835.202
+T<=>18707[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>18755[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/detail/trade_item_detail.htm[=]A<=>204bc[=]B<=>4905a6[=]V<=>14.0.835.202
+T<=>18759[=]P<=>chrome.exe[=]I<=>2864[=]U<=>about:blank[=]A<=>204bc[=]B<=>307f2[=]V<=>14.0.835.202
+T<=>18761[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>307f2[=]V<=>14.0.835.202
+T<=>18763[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>1021e[=]V<=>1, 0, 0, 1
+T<=>18777[=]P<=>chrome.exe[=]I<=>2864[=]U<=>127.0.0.1:1231/auth/ED5AC029A64D47939266126E9569FBD8[=]A<=>204bc[=]B<=>407b8[=]V<=>14.0.835.202
+T<=>18779[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/tradeStatusDispatcher.htm[=]A<=>204bc[=]B<=>407b8[=]V<=>14.0.835.202
+T<=>18783[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>18785[=]P<=>KwMusic.exe[=]I<=>1428[=]W<=>206b4[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>18787[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/tradeStatusDispatcher.htm[=]A<=>204bc[=]B<=>407b8[=]V<=>14.0.835.202
+T<=>18799[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/trade_success.htm[=]A<=>204bc[=]B<=>407b8[=]V<=>14.0.835.202
+T<=>18807[=]P<=>chrome.exe[=]I<=>2864[=]U<=>rate.taobao.com/remarkSeller4C.htm[=]A<=>204bc[=]B<=>407b8[=]V<=>14.0.835.202
+T<=>18809[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>1021e[=]V<=>1, 0, 0, 1
+T<=>18813[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/tradeStatusDispatcher.htm[=]A<=>204bc[=]B<=>690684[=]V<=>14.0.835.202
+T<=>18825[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/trade_success.htm[=]A<=>204bc[=]B<=>690684[=]V<=>14.0.835.202
+T<=>18835[=]P<=>chrome.exe[=]I<=>2864[=]U<=>rate.taobao.com/remarkSeller4C.htm[=]A<=>204bc[=]B<=>690684[=]V<=>14.0.835.202
+T<=>18839[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>27051c[=]V<=>1, 0, 0, 1
+T<=>18843[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>18873[=]P<=>chrome.exe[=]I<=>2864[=]U<=>trade.taobao.com/trade/detail/trade_item_detail.htm[=]A<=>204bc[=]B<=>4905a6[=]V<=>14.0.835.202
+T<=>18875[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>1b07b4[=]V<=>14.0.835.202
+T<=>18877[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>18902[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>a0414[=]V<=>14.0.835.202
+T<=>18954[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/2114874422[=]A<=>204bc[=]B<=>170d0632[=]V<=>14.0.835.202
+T<=>18960[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>a0414[=]V<=>14.0.835.202
+T<=>18986[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>18990[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>18996[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>19010[=]P<=>chrome.exe[=]I<=>2864[=]U<=>about:blank[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>19012[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>19020[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>1021e[=]V<=>1, 0, 0, 1
+T<=>19030[=]P<=>LolClient.exe[=]I<=>6624[=]W<=>5031a[=]V<=>2.0.2
+T<=>19038[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>19050[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>19080[=]P<=>chrome.exe[=]I<=>5320[=]W<=>b0226[=]V<=>14.0.835.202
+T<=>20793[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>20807[=]P<=>chrome.exe[=]I<=>5320[=]W<=>3b031a[=]V<=>14.0.835.202
+T<=>20821[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>20891[=]P<=>chrome.exe[=]I<=>5320[=]W<=>3b031a[=]V<=>14.0.835.202
+T<=>21027[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>307ea[=]V<=>1, 0, 0, 1
+T<=>21029[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21031[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21037[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21039[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21041[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21085[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21097[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>21099[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21107[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21109[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/home[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21111[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21124[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/discuz[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21134[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21142[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21148[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21150[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21156[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.weibo.com/weibo/%25E5%25A4%25A7%25E7%258B%25AC%25E8%25A3%2581%25E8%2580%2585[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21164[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21172[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21188[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21190[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21214[=]P<=>IFoxInstall_3.0.0.0-c1027.exe[=]I<=>6660[=]W<=>75068c[=]V<=>1,1,0,5[=]N<=>SHOnlineInstall Application[=]C<=>搜狐
+T<=>21228[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21240[=]P<=>SoHuVA_3.0.0.0-c1027.tmp[=]I<=>8024[=]W<=>7a0692[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>21272[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21283[=]P<=>SoHuVA_3.0.0.0-c1027.tmp[=]I<=>8024[=]W<=>4f05ca[=]V<=>NULL
+T<=>21287[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum-5-1.html[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21293[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21295[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum-5-1.html[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21303[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>21305[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21307[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21327[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2c0648[=]V<=>14.0.835.202
+T<=>20793[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>20807[=]P<=>chrome.exe[=]I<=>5320[=]W<=>3b031a[=]V<=>14.0.835.202
+T<=>20821[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>20891[=]P<=>chrome.exe[=]I<=>5320[=]W<=>3b031a[=]V<=>14.0.835.202
+T<=>21027[=]P<=>AliIM.exe[=]I<=>1776[=]W<=>307ea[=]V<=>1, 0, 0, 1
+T<=>21029[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21031[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21037[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21039[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21041[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21085[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21097[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>21099[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21107[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21109[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/home[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21111[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21124[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/discuz[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21134[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21142[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21148[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21150[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21156[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.weibo.com/weibo/%25E5%25A4%25A7%25E7%258B%25AC%25E8%25A3%2581%25E8%2580%2585[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21164[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21172[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21188[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21190[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21214[=]P<=>IFoxInstall_3.0.0.0-c1027.exe[=]I<=>6660[=]W<=>75068c[=]V<=>1,1,0,5[=]N<=>SHOnlineInstall Application[=]C<=>搜狐
+T<=>21228[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/dzhooooooo/profile[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>21240[=]P<=>SoHuVA_3.0.0.0-c1027.tmp[=]I<=>8024[=]W<=>7a0692[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>21272[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum.php[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21283[=]P<=>SoHuVA_3.0.0.0-c1027.tmp[=]I<=>8024[=]W<=>4f05ca[=]V<=>NULL
+T<=>21287[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum-5-1.html[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21293[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>21295[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bbs.u4dy.com/forum-5-1.html[=]A<=>204bc[=]B<=>185069e[=]V<=>14.0.835.202
+T<=>21303[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>21305[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>21307[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21327[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2c0648[=]V<=>14.0.835.202
+T<=>21866[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>21870[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21872[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>21912[=]P<=>SHPlayer.exe[=]I<=>7080[=]W<=>5705ca[=]V<=>1, 2, 0, 2[=]N<=>搜狐影音[=]C<=>搜狐公司 SOHU .COM INC
+T<=>21924[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>21932[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21978[=]P<=>chrome.exe[=]I<=>5320[=]W<=>a00a2[=]V<=>14.0.835.202
+T<=>21982[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>21994[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>21996[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>22046[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2500a2[=]V<=>14.0.835.202
+T<=>22138[=]P<=>chrome.exe[=]I<=>5320[=]W<=>2900a2[=]V<=>14.0.835.202
+T<=>22847[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>22853[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/darksiders2/[=]A<=>204bc[=]B<=>18b069e[=]V<=>14.0.835.202
+T<=>22855[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>3420532[=]V<=>14.0.835.202
+T<=>22857[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>22869[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/darksiders2/[=]A<=>204bc[=]B<=>18b069e[=]V<=>14.0.835.202
+T<=>22893[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>22921[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>22969[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>22987[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23039[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23058[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23092[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23114[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23126[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23138[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23140[=]P<=>chrome.exe[=]I<=>5320[=]W<=>1306b0[=]V<=>14.0.835.202
+T<=>23158[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23160[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23162[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23172[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23184[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23210[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23212[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23256[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23306[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23308[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/news/201208/208658.shtml[=]A<=>204bc[=]B<=>e0702[=]V<=>14.0.835.202
+T<=>23310[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23314[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/news/201208/208658.shtml[=]A<=>204bc[=]B<=>e0702[=]V<=>14.0.835.202
+T<=>23344[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/news/201208/208658_2.shtml[=]A<=>204bc[=]B<=>e0702[=]V<=>14.0.835.202
+T<=>23354[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/news/201208/208658_3.shtml[=]A<=>204bc[=]B<=>e0702[=]V<=>14.0.835.202
+T<=>23372[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>23374[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23388[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23416[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23418[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>23420[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23452[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/darksiders2/[=]A<=>204bc[=]B<=>3007ae[=]V<=>14.0.835.202
+T<=>23466[=]P<=>chrome.exe[=]I<=>2864[=]U<=>about:blank[=]A<=>204bc[=]B<=>190782[=]V<=>14.0.835.202
+T<=>23468[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>23470[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23476[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/Soft/Special/Darksiders2/[=]A<=>204bc[=]B<=>190782[=]V<=>14.0.835.202
+T<=>23482[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23492[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/darksiders2/[=]A<=>204bc[=]B<=>3007ae[=]V<=>14.0.835.202
+T<=>23506[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23627[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.gamersky.com/z/darksiders2/[=]A<=>204bc[=]B<=>3007ae[=]V<=>14.0.835.202
+T<=>23649[=]P<=>chrome.exe[=]I<=>2864[=]U<=>search.discuz.qq.com/f/search[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>23657[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/home[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>23659[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.weibo.com/weibo/%25E7%258B%25AC%2520%25E8%2580%2585[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>23661[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>23663[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.weibo.com/weibo/%25E7%258B%25AC%2520%25E8%2580%2585[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>23665[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/home[=]A<=>204bc[=]B<=>1606a6[=]V<=>14.0.835.202
+T<=>23667[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.weibo.com/weibo/%25E7%258B%25AC%2520%25E8%2580%2585[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>23669[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23719[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23723[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23735[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23757[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23769[=]P<=>chrome.exe[=]I<=>2864[=]U<=>movie.douban.com/subject/4845728/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23773[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>23793[=]P<=>chrome.exe[=]I<=>2864[=]U<=>movie.douban.com/subject/4845728/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23809[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23841[=]P<=>chrome.exe[=]I<=>2864[=]U<=>movie.douban.com/subject/4845728/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23863[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23897[=]P<=>chrome.exe[=]I<=>2864[=]U<=>movie.douban.com/subject/4845728/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>23903[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23905[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>23907[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>23987[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>24043[=]P<=>chrome.exe[=]I<=>5320[=]W<=>47049c[=]V<=>14.0.835.202
+T<=>24067[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>26188[=]P<=>chrome.exe[=]I<=>5320[=]W<=>47049c[=]V<=>14.0.835.202
+T<=>26190[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>26194[=]P<=>chrome.exe[=]I<=>2864[=]U<=>my.tv.sohu.com/u/vw/28886835[=]A<=>204bc[=]B<=>fb0654[=]V<=>14.0.835.202
+T<=>26196[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>26374[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>26382[=]P<=>360sd.exe[=]I<=>1736[=]W<=>1085c[=]V<=>3, 0, 0, 3039[=]N<=>360杀毒[=]C<=>360.cn
+T<=>26384[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>26390[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>26432[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>26526[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>26582[=]P<=>chrome.exe[=]I<=>2864[=]U<=>movie.douban.com/subject/4845728/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>26584[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>26588[=]P<=>QQ.exe[=]I<=>1692[=]W<=>bf50282[=]V<=>1.85.4925.0
+T<=>26604[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>26616[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>26631[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>26641[=]P<=>_iu14D2N.tmp[=]I<=>8664[=]W<=>19105aa[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>26645[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26651[=]P<=>_iu14D2N.tmp[=]I<=>8664[=]W<=>19105aa[=]V<=>NULL
+T<=>26657[=]P<=>chrome.exe[=]I<=>2864[=]U<=>p2p.hd.sohu.com.cn/dcs.do[=]A<=>204bc[=]B<=>86c047a[=]V<=>14.0.835.202
+T<=>26659[=]P<=>chrome.exe[=]I<=>2864[=]U<=>tv.sohu.com/feedback/[=]A<=>204bc[=]B<=>86c047a[=]V<=>14.0.835.202
+T<=>26661[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26663[=]P<=>chrome.exe[=]I<=>2864[=]U<=>tv.sohu.com/feedback/[=]A<=>204bc[=]B<=>86c047a[=]V<=>14.0.835.202
+T<=>26675[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26677[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>26681[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26685[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>26699[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26701[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>26711[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/search.htm[=]A<=>204bc[=]B<=>13c405f2[=]V<=>14.0.835.202
+T<=>26715[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>26717[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26721[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>26723[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>26739[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>28017[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>28027[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>28059[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>28061[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>28063[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>28123[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>28232[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>28282[=]P<=>chrome.exe[=]I<=>5320[=]W<=>290067a[=]V<=>14.0.835.202
+T<=>28639[=]P<=>chrome.exe[=]I<=>5320[=]W<=>293067a[=]V<=>14.0.835.202
+T<=>29478[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>29598[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>29659[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>29698[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>29724[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>29894[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>29898[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30039[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30041[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>30045[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30051[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>e4305f4[=]V<=>14.0.835.202
+T<=>30059[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30061[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30069[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30088[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30092[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30094[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30096[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30098[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30102[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30104[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30112[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30120[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30142[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103_1.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30146[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>e4305f4[=]V<=>14.0.835.202
+T<=>30154[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/[=]A<=>204bc[=]B<=>e4305f4[=]V<=>14.0.835.202
+T<=>30180[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>2c0752[=]V<=>14.0.835.202
+T<=>30200[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/[=]A<=>204bc[=]B<=>e4305f4[=]V<=>14.0.835.202
+T<=>30222[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30234[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30236[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30244[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>110786[=]V<=>14.0.835.202
+T<=>30256[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/[=]A<=>204bc[=]B<=>e4305f4[=]V<=>14.0.835.202
+T<=>30260[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30282[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>30284[=]P<=>chrome.exe[=]I<=>2864[=]U<=>doc2012.com/fv103_1.aspx[=]A<=>204bc[=]B<=>46065c[=]V<=>14.0.835.202
+T<=>30286[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>30356[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>124068e[=]V<=>14.0.835.202
+T<=>30362[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>30364[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>30370[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>30382[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30390[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30424[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>20914[=]V<=>14.0.835.202
+T<=>30426[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>2092e[=]V<=>14.0.835.202
+T<=>30470[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop65606548.taobao.com/[=]A<=>204bc[=]B<=>2092e[=]V<=>14.0.835.202
+T<=>30488[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop65606548.taobao.com/search.htm[=]A<=>204bc[=]B<=>2092e[=]V<=>14.0.835.202
+T<=>30492[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>c0916[=]V<=>14.0.835.202
+T<=>30504[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop65606548.taobao.com/search.htm[=]A<=>204bc[=]B<=>c0916[=]V<=>14.0.835.202
+T<=>30506[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop65606548.taobao.com/search.htm[=]A<=>204bc[=]B<=>c0916[=]V<=>14.0.835.202
+T<=>30512[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop65606548.taobao.com/search.htm[=]A<=>204bc[=]B<=>2092e[=]V<=>14.0.835.202
+T<=>30516[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>10920[=]V<=>14.0.835.202
+T<=>30548[=]P<=>chrome.exe[=]I<=>2864[=]U<=>3q3q100.taobao.com/search.htm[=]A<=>204bc[=]B<=>10920[=]V<=>14.0.835.202
+T<=>30556[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30568[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>30573[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30575[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30601[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30625[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3091a[=]V<=>14.0.835.202
+T<=>30631[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>30637[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3091e[=]V<=>14.0.835.202
+T<=>30647[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/update/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>30653[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30657[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>30665[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30677[=]P<=>chrome.exe[=]I<=>2864[=]U<=>share.renren.com/share/352064407/13956942799[=]A<=>204bc[=]B<=>70936[=]V<=>14.0.835.202
+T<=>30685[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/311514609/photo-6395874092[=]A<=>204bc[=]B<=>70936[=]V<=>14.0.835.202
+T<=>30687[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/311514609/photo-6395874092#/311514609/photo-6378126909[=]A<=>204bc[=]B<=>70936[=]V<=>14.0.835.202
+T<=>30689[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/311514609/photo-6395874092#/311514609/photo-6370417722[=]A<=>204bc[=]B<=>70936[=]V<=>14.0.835.202
+T<=>30691[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30707[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>30711[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>30721[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>30723[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30739[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30741[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30759[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30765[=]P<=>chrome.exe[=]I<=>2864[=]U<=>zhan.renren.com/reveriegeneration1[=]A<=>204bc[=]B<=>70942[=]V<=>14.0.835.202
+T<=>30791[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>30839[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30845[=]P<=>chrome.exe[=]I<=>2864[=]U<=>zhan.renren.com/fengzimen[=]A<=>204bc[=]B<=>20946[=]V<=>14.0.835.202
+T<=>30864[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>1f073c[=]V<=>14.0.835.202
+T<=>30874[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/update/[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>30876[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>a0612[=]V<=>14.0.835.202
+T<=>30878[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>30974[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/n/庐山花开[=]A<=>204bc[=]B<=>3d05b4[=]V<=>14.0.835.202
+T<=>30984[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31012[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31018[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>31022[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>31028[=]P<=>chrome.exe[=]I<=>2864[=]U<=>baike.baidu.com/view/964027.htm[=]A<=>204bc[=]B<=>3805d6[=]V<=>14.0.835.202
+T<=>31036[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>5093e[=]V<=>14.0.835.202
+T<=>31038[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/group/frosty-eve/[=]A<=>204bc[=]B<=>2b30616[=]V<=>14.0.835.202
+T<=>31050[=]P<=>chrome.exe[=]I<=>2864[=]U<=>site.douban.com/frosty-eve/[=]A<=>204bc[=]B<=>2b30616[=]V<=>14.0.835.202
+T<=>31056[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31068[=]P<=>chrome.exe[=]I<=>2864[=]U<=>site.douban.com/frosty-eve/[=]A<=>204bc[=]B<=>2b30616[=]V<=>14.0.835.202
+T<=>31070[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>31072[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31102[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31106[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31123[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31125[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/site/[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31127[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/30478197/minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31133[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/dzhoooooooo//minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31139[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/dzhoooooooo//minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31149[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/dzhoooooooo//minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31155[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/dzhoooooooo//minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31167[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.douban.com/people/dzhoooooooo//minisite[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31219[=]P<=>chrome.exe[=]I<=>2864[=]U<=>site.douban.com/queenseabigshark/[=]A<=>204bc[=]B<=>edd0418[=]V<=>14.0.835.202
+T<=>31231[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31235[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/specialAttention[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31237[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/hot[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31255[=]P<=>chrome.exe[=]I<=>2864[=]U<=>zhan.renren.com/fengzimen[=]A<=>204bc[=]B<=>706bc[=]V<=>14.0.835.202
+T<=>31269[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/hot[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31277[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>31294[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31296[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>31300[=]P<=>explorer.exe[=]I<=>1624[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>31346[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>31348[=]P<=>BrowersWin.exe[=]I<=>8744[=]W<=>d10628[=]V<=>1, 0, 0, 6
+T<=>31366[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>31368[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31378[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>31402[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31406[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31416[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31418[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31430[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31438[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31440[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31458[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31460[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31464[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>31478[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31488[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>31494[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31538[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>31548[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31606[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31618[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/hot[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31638[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31712[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31726[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>31742[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31756[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31766[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31778[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31800[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31852[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31870[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31882[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>31886[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>31925[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/hot[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>31947[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32043[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>32045[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32243[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#feed/hot[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>32253[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32255[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32271[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32321[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>d0938[=]V<=>14.0.835.202
+T<=>32325[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>d0938[=]V<=>14.0.835.202
+T<=>32331[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>32333[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32349[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32351[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32355[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32361[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32371[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32385[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32387[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32417[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32427[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32437[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32441[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32477[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32481[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32513[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32521[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1738467322/ywxmQ5Tdj[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32531[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32537[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1738467322/ywxmQ5Tdj[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32539[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1738467322[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32541[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32543[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/1738467322[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32547[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32552[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32556[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32558[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32560[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32562[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32564[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32566[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.weibo.com/1738467322/talbum/detail/photo_id/3399299540512243[=]A<=>204bc[=]B<=>8104e6[=]V<=>14.0.835.202
+T<=>32572[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>32574[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32576[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32598[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32600[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32612[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32620[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32622[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32624[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32648[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32654[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32710[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32720[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32744[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>32854[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>32928[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32930[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/at/weibo[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32948[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/n/李玉馨_[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>32978[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/n/嬉麗妹XILIMEI[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>33008[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/u/2021582807[=]A<=>204bc[=]B<=>b067c[=]V<=>14.0.835.202
+T<=>33036[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>33054[=]P<=>chrome.exe[=]I<=>2864[=]U<=>zhan.renren.com/fengzimen[=]A<=>204bc[=]B<=>7093e[=]V<=>14.0.835.202
+T<=>33056[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>33066[=]P<=>chrome.exe[=]I<=>2864[=]U<=>zhan.renren.com/fengzimen[=]A<=>204bc[=]B<=>7093e[=]V<=>14.0.835.202
+T<=>33095[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.tudou.com/programs/view/T-83PyYPGS0/[=]A<=>204bc[=]B<=>40976[=]V<=>14.0.835.202
+T<=>33113[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>33159[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.tudou.com/programs/view/T-83PyYPGS0/[=]A<=>204bc[=]B<=>40976[=]V<=>14.0.835.202
+T<=>33167[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>33169[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.tudou.com/programs/view/T-83PyYPGS0/[=]A<=>204bc[=]B<=>40976[=]V<=>14.0.835.202
+T<=>33173[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>33175[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33193[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>33214[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33236[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33252[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/fav[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33256[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33292[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33296[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33306[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/fav[=]A<=>204bc[=]B<=>4096a[=]V<=>14.0.835.202
+T<=>33350[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33354[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>33590[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33602[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33622[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>33624[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34187[=]P<=>QQ.exe[=]I<=>1692[=]W<=>40334[=]V<=>1.85.4925.0
+T<=>34223[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34235[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>34239[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34243[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>34265[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34311[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>34339[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34373[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>34411[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>34485[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>34516[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av331644/[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>34518[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>260930[=]V<=>14.0.835.202
+T<=>34520[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av331644/[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>34538[=]P<=>chrome.exe[=]I<=>5320[=]W<=>10094c[=]V<=>14.0.835.202
+T<=>34542[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>34550[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av331644/[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>34562[=]P<=>chrome.exe[=]I<=>5320[=]W<=>ab04e4[=]V<=>14.0.835.202
+T<=>34610[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/game.html[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>34618[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent.html[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>34636[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328159/[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34638[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>34642[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328159/[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34644[=]P<=>chrome.exe[=]I<=>5320[=]W<=>8095c[=]V<=>14.0.835.202
+T<=>34745[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>34747[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328159/[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34807[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>34809[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328159/[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34813[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34838[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av327890/[=]A<=>204bc[=]B<=>d097a[=]V<=>14.0.835.202
+T<=>34884[=]P<=>chrome.exe[=]I<=>5320[=]W<=>130938[=]V<=>14.0.835.202
+T<=>34936[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34948[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>34962[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av326755/[=]A<=>204bc[=]B<=>a095c[=]V<=>14.0.835.202
+T<=>34985[=]P<=>chrome.exe[=]I<=>2864[=]U<=>https://secure.bilibili.tv/register[=]A<=>204bc[=]B<=>109bc[=]V<=>14.0.835.202
+T<=>34989[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av326755/[=]A<=>204bc[=]B<=>a095c[=]V<=>14.0.835.202
+T<=>34995[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328498/[=]A<=>204bc[=]B<=>40998[=]V<=>14.0.835.202
+T<=>35061[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com[=]A<=>204bc[=]B<=>109bc[=]V<=>14.0.835.202
+T<=>35067[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av326755/[=]A<=>204bc[=]B<=>a095c[=]V<=>14.0.835.202
+T<=>35093[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>35098[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>35144[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>35148[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>35164[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av326805/[=]A<=>204bc[=]B<=>409b2[=]V<=>14.0.835.202
+T<=>35166[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35168[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av326805/[=]A<=>204bc[=]B<=>409b2[=]V<=>14.0.835.202
+T<=>35202[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>35204[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>35254[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>35256[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35280[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>35282[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329528/[=]A<=>204bc[=]B<=>c095c[=]V<=>14.0.835.202
+T<=>35284[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35288[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329528/[=]A<=>204bc[=]B<=>c095c[=]V<=>14.0.835.202
+T<=>35294[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35312[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329528/[=]A<=>204bc[=]B<=>c095c[=]V<=>14.0.835.202
+T<=>35321[=]P<=>chrome.exe[=]I<=>2864[=]U<=>service.weibo.com/share/share.php[=]A<=>109ce[=]B<=>309c6[=]V<=>14.0.835.202
+T<=>35333[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329528/[=]A<=>204bc[=]B<=>c095c[=]V<=>14.0.835.202
+T<=>35335[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35389[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329528/[=]A<=>204bc[=]B<=>c095c[=]V<=>14.0.835.202
+T<=>35411[=]P<=>chrome.exe[=]I<=>2864[=]U<=>space.bilibili.tv/27758[=]A<=>204bc[=]B<=>509ac[=]V<=>14.0.835.202
+T<=>35421[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328498/[=]A<=>204bc[=]B<=>40998[=]V<=>14.0.835.202
+T<=>35423[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35542[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>2905e6[=]V<=>14.0.835.202
+T<=>35544[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>35546[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>35566[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>35570[=]P<=>chrome.exe[=]I<=>2864[=]U<=>fanyi.baidu.com/translate#zh2jp|%E7%AB%9F%E7%84%B6%E6%98%AF[=]A<=>204bc[=]B<=>2a05e6[=]V<=>14.0.835.202
+T<=>35576[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>35584[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>35594[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35610[=]P<=>explorer.exe[=]I<=>1624[=]W<=>102be[=]V<=>6.00.2900.5512
+T<=>35642[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>35648[=]P<=>explorer.exe[=]I<=>1624[=]W<=>ef30418[=]V<=>6.00.2900.5512
+T<=>35652[=]P<=>ACDSee5.exe[=]I<=>9496[=]W<=>10a8c[=]V<=>5, 0, 1, 6[=]N<=>ACDSee[=]C<=>ACD Systems, Ltd.
+T<=>35654[=]P<=>explorer.exe[=]I<=>1624[=]W<=>ef30418[=]V<=>6.00.2900.5512
+T<=>35666[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36007[=]P<=>chrome.exe[=]I<=>2864[=]W<=>6033c[=]V<=>14.0.835.202
+T<=>36009[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/1706010003[=]A<=>204bc[=]B<=>e09ac[=]V<=>14.0.835.202
+T<=>36011[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36013[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36087[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>9036[=]W<=>b0a30[=]V<=>1, 0, 0, 10
+T<=>36089[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36111[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329808/[=]A<=>204bc[=]B<=>2b60616[=]V<=>14.0.835.202
+T<=>36135[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36155[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329808/[=]A<=>204bc[=]B<=>2b60616[=]V<=>14.0.835.202
+T<=>36160[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36166[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329808/[=]A<=>204bc[=]B<=>2b60616[=]V<=>14.0.835.202
+T<=>36176[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36232[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329808/[=]A<=>204bc[=]B<=>2b60616[=]V<=>14.0.835.202
+T<=>36236[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36242[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329808/[=]A<=>204bc[=]B<=>2b60616[=]V<=>14.0.835.202
+T<=>36244[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36260[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36286[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av330997/[=]A<=>204bc[=]B<=>29094c[=]V<=>14.0.835.202
+T<=>36318[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36332[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av330997/[=]A<=>204bc[=]B<=>29094c[=]V<=>14.0.835.202
+T<=>36374[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>36384[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av330997/[=]A<=>204bc[=]B<=>29094c[=]V<=>14.0.835.202
+T<=>36461[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36489[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36493[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36503[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36509[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36531[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36539[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/part-coordinate-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36541[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36557[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/part-coordinate-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>36563[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36577[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>36589[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36593[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>36613[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/287804214/profile[=]A<=>204bc[=]B<=>100932[=]V<=>14.0.835.202
+T<=>36621[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36635[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/287804214/profile[=]A<=>204bc[=]B<=>100932[=]V<=>14.0.835.202
+T<=>36643[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>36645[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36653[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>22930458[=]V<=>14.0.835.202
+T<=>36659[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36661[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36667[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/comment/inbox[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36671[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36677[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36695[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36721[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36737[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36781[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>36797[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>310762[=]V<=>14.0.835.202
+T<=>36819[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>36821[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>36825[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>36831[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>36841[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36863[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36897[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36899[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36905[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>100a82[=]V<=>14.0.835.202
+T<=>36911[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>280a06[=]V<=>14.0.835.202
+T<=>36915[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>90a34[=]V<=>14.0.835.202
+T<=>36918[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>60a94[=]V<=>14.0.835.202
+T<=>36922[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36930[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36934[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36936[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>80a46[=]V<=>14.0.835.202
+T<=>36940[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3c0910[=]V<=>14.0.835.202
+T<=>36942[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>36946[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>36954[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com/[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>36960[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>36972[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>36974[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>36976[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>90a46[=]V<=>14.0.835.202
+T<=>37016[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>37018[=]P<=>chrome.exe[=]I<=>2864[=]U<=>s.taobao.com/search[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>37020[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>37026[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37100[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>37102[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>90a46[=]V<=>14.0.835.202
+T<=>37104[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>3d0910[=]V<=>14.0.835.202
+T<=>37106[=]P<=>chrome.exe[=]I<=>2864[=]U<=>item.taobao.com/item.htm[=]A<=>204bc[=]B<=>90a46[=]V<=>14.0.835.202
+T<=>37108[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>37110[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37130[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37132[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37142[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37164[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37206[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37238[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37260[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37290[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37292[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37300[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37306[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37326[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37374[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37402[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37406[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37431[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37451[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37491[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37507[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37513[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37543[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37545[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37547[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37549[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37551[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37553[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37555[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37557[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37559[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37561[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37563[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37565[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37567[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37571[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37575[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37577[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37581[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37583[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37585[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37587[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37595[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37597[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37605[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37607[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37609[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37611[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37613[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37615[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37623[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37625[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37631[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37633[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37637[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37639[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37641[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37645[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37647[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6332117133[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37651[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>a804e6[=]V<=>14.0.835.202
+T<=>37675[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>590788[=]V<=>14.0.835.202
+T<=>37681[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/at/weibo[=]A<=>204bc[=]B<=>590788[=]V<=>14.0.835.202
+T<=>37689[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>37691[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>5205b4[=]V<=>14.0.835.202
+T<=>37693[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>1cd0674[=]V<=>14.0.835.202
+T<=>37697[=]P<=>TrianglePlayer.exe[=]I<=>8280[=]W<=>906bc[=]V<=>1, 0, 0, 12
+T<=>37699[=]P<=>explorer.exe[=]I<=>1624[=]W<=>30054[=]V<=>6.00.2900.5512
+T<=>37703[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/home[=]A<=>204bc[=]B<=>590788[=]V<=>14.0.835.202
+T<=>37705[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37737[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>1cd0674[=]V<=>14.0.835.202
+T<=>37739[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37743[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>1cd0674[=]V<=>14.0.835.202
+T<=>37745[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>1cd0674[=]V<=>14.0.835.202
+T<=>37747[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37755[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37773[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37831[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37835[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552#//photo/photo/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37847[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/album-385056539[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37859[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37865[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/album-357588277[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37871[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37881[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/album-357588277[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37887[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37893[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/album-357588277[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37897[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent.html[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>37901[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/part-coordinate-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>37903[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>37939[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328498/[=]A<=>204bc[=]B<=>40998[=]V<=>14.0.835.202
+T<=>37941[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37943[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>37971[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>37973[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38059[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/397620999/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>38085[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>38184[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>38196[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>38202[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38262[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>23a05a2[=]V<=>14.0.835.202
+T<=>38272[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38284[=]P<=>chrome.exe[=]I<=>2864[=]U<=>shop64263291.taobao.com[=]A<=>204bc[=]B<=>2440672[=]V<=>14.0.835.202
+T<=>38286[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38296[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38298[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38300[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38310[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38336[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38338[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38350[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38374[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38402[=]P<=>FlashPlayer.exe[=]I<=>9544[=]W<=>11098a[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>38414[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38426[=]P<=>FlashPlayer.exe[=]I<=>9544[=]W<=>11098a[=]V<=>1.85.4925.0
+T<=>38428[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38454[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552/profile[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38458[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38480[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38482[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38484[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38492[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38494[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38496[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38498[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38500[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38502[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38504[=]P<=>chrome.exe[=]I<=>2864[=]U<=>photo.renren.com/photo/302692552/photo-6350621520[=]A<=>204bc[=]B<=>23f05a2[=]V<=>14.0.835.202
+T<=>38506[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38508[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38610[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38684[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38772[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38819[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38859[=]P<=>chrome.exe[=]I<=>2864[=]U<=>weibo.com/547018676[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38867[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>1cd0674[=]V<=>14.0.835.202
+T<=>38869[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.renren.com/302692552[=]A<=>204bc[=]B<=>37041e[=]V<=>14.0.835.202
+T<=>38887[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>1a0942[=]V<=>14.0.835.202
+T<=>38889[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>3f05e6[=]V<=>14.0.835.202
+T<=>38891[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38895[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>3f05e6[=]V<=>14.0.835.202
+T<=>38901[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>38921[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>3f05e6[=]V<=>14.0.835.202
+T<=>38925[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent.html[=]A<=>204bc[=]B<=>c0980[=]V<=>14.0.835.202
+T<=>38929[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av328498/[=]A<=>204bc[=]B<=>40998[=]V<=>14.0.835.202
+T<=>38935[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>38955[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/part-coordinate-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>38961[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>38969[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av330997/[=]A<=>204bc[=]B<=>2c067c[=]V<=>14.0.835.202
+T<=>38971[=]P<=>QQ.exe[=]I<=>1692[=]W<=>2039a[=]V<=>1.85.4925.0
+T<=>38990[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>39000[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>39012[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/ent-Kichiku-1.html[=]A<=>204bc[=]B<=>7096c[=]V<=>14.0.835.202
+T<=>39014[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>39028[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329853/[=]A<=>204bc[=]B<=>430946[=]V<=>14.0.835.202
+T<=>39034[=]P<=>QQ.exe[=]I<=>1692[=]W<=>250094[=]V<=>1.85.4925.0
+T<=>39191[=]P<=>chrome.exe[=]I<=>2864[=]U<=>bilibili.kankanews.com/video/av329853/[=]A<=>204bc[=]B<=>430946[=]V<=>14.0.835.202
+T<=>39193[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/index.php[=]A<=>204bc[=]B<=>3f05e6[=]V<=>14.0.835.202
+T<=>39197[=]P<=>chrome.exe[=]I<=>2864[=]U<=>www.baidu.com/s[=]A<=>204bc[=]B<=>3f05e6[=]V<=>14.0.835.202
+T<=>39199[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XMTcwNzYwNjc2.html[=]A<=>204bc[=]B<=>440946[=]V<=>14.0.835.202
+T<=>39201[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>39227[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XMTcwNzYwNjc2.html[=]A<=>204bc[=]B<=>440946[=]V<=>14.0.835.202
+T<=>39235[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0
+T<=>39237[=]P<=>chrome.exe[=]I<=>2864[=]U<=>v.youku.com/v_show/id_XMTcwNzYwNjc2.html[=]A<=>204bc[=]B<=>440946[=]V<=>14.0.835.202
+T<=>39241[=]P<=>QQ.exe[=]I<=>1692[=]W<=>12092a[=]V<=>1.85.4925.0

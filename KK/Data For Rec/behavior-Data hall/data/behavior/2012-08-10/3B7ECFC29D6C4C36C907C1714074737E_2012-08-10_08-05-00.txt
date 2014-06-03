@@ -1,0 +1,70 @@
+Last<=>25871
+L_Start<=>2012-08-10 08-05-00
+T<=>780[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://123.sogou.com/[=]A<=>20266[=]B<=>20240[=]V<=>3.2.0.4021[=]N<=>搜狗高速浏览器3.2[=]C<=>Sogou.com
+T<=>784[=]P<=>sogouexplorer.exe[=]I<=>128[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>1230[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1015c[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>2594[=]P<=>Mysitfy.scr[=]I<=>3184[=]W<=>a033e[=]V<=>6.0.6001.18000[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4708[=]P<=>sogouexplorer.exe[=]I<=>128[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>4710[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1009e[=]V<=>6.00.2900.5512
+T<=>4712[=]P<=>IEXPLORE.EXE[=]I<=>708[=]W<=>200272[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>4717[=]P<=>IEXPLORE.EXE[=]I<=>708[=]U<=>http://www.hao123.com/[=]A<=>70374[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4723[=]P<=>IEXPLORE.EXE[=]I<=>708[=]U<=>http://www.hao123.com/xingzuonew.html[=]A<=>1052e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4727[=]P<=>IEXPLORE.EXE[=]I<=>708[=]U<=>http://www.xingzuowu.com/[=]A<=>105c4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4735[=]P<=>IEXPLORE.EXE[=]I<=>708[=]U<=>http://www.xingzuowu.com/fortune/Taurus/[=]A<=>106b6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4787[=]P<=>IEXPLORE.EXE[=]I<=>708[=]U<=>http://www.hao123.com/xingzuonew.html[=]A<=>1052e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4789[=]P<=>sogouexplorer.exe[=]I<=>128[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>5391[=]P<=>Mysitfy.scr[=]I<=>3608[=]W<=>1702d4[=]V<=>6.0.6001.18000
+T<=>6485[=]P<=>sogouexplorer.exe[=]I<=>128[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>6487[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1009e[=]V<=>6.00.2900.5512
+T<=>6491[=]P<=>TdxW.exe[=]I<=>728[=]W<=>403b8[=]V<=>1, 0, 0, 1[=]N<=>TDX 应用程序[=]C<=>(通达信)深圳市财富趋势科技有限责任公司
+T<=>6509[=]P<=>sogouexplorer.exe[=]I<=>128[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>6511[=]P<=>TdxW.exe[=]I<=>728[=]W<=>b0344[=]V<=>1, 0, 0, 1
+T<=>6711[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1009e[=]V<=>6.00.2900.5512
+T<=>6717[=]P<=>hypmain.exe[=]I<=>3736[=]W<=>205b4[=]V<=>1.0.0.0[=]N<=>???[=]C<=>GreatWise
+T<=>8169[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>9597[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1015c[=]V<=>6.00.2900.5512
+T<=>10251[=]P<=>Mysitfy.scr[=]I<=>3780[=]W<=>11905b8[=]V<=>6.0.6001.18000
+T<=>19551[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>20665[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1015c[=]V<=>6.00.2900.5512
+T<=>20667[=]P<=>sogouexplorer.exe[=]I<=>2760[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>20813[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://finance.eastmoney.com/news/1344,20120810244157710.html[=]A<=>20266[=]B<=>a50632[=]V<=>3.2.0.4021
+T<=>20968[=]P<=>sogouexplorer.exe[=]I<=>2760[=]U<=>http://www.eastmoney.com/[=]A<=>20266[=]B<=>60206[=]V<=>3.2.0.4021
+T<=>20992[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://123.sogou.com/[=]A<=>20266[=]B<=>20240[=]V<=>3.2.0.4021
+T<=>20996[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://123.sogou.com/qita/youxiang.html[=]A<=>20266[=]B<=>50150[=]V<=>3.2.0.4021
+T<=>20998[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://www.126.com/[=]A<=>20266[=]B<=>30300[=]V<=>3.2.0.4021
+T<=>21000[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://webmail.mail.126.com/js4/main.jsp[=]A<=>20266[=]B<=>30300[=]V<=>3.2.0.4021
+T<=>21002[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://webmail.mail.126.com/js4/main.jsp[=]A<=>20266[=]B<=>30300[=]V<=>3.2.0.4021
+T<=>21018[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://club.mail.163.com/jifen/mission/detail.do[=]A<=>20266[=]B<=>302ce[=]V<=>3.2.0.4021
+T<=>21028[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://webmail.mail.126.com/js4/main.jsp[=]A<=>20266[=]B<=>30300[=]V<=>3.2.0.4021
+T<=>21056[=]P<=>sogouexplorer.exe[=]I<=>564[=]U<=>http://webmail.mail.126.com/js4/main.jsp[=]A<=>20266[=]B<=>30300[=]V<=>3.2.0.4021
+T<=>21064[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]W<=>60150[=]V<=>6.00.2900.5512
+T<=>21066[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.hao123.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21072[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://xyk.cebbank.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21079[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>https://xyk.cebbank.com/home/usr/login.htm[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21105[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>https://xyk.cebbank.com/home/usr/login.htm[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21156[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://xyk.cebbank.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21176[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://xyk.cebbank.com/home/game/game_index.htm[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21180[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://xyk.cebbank.com/home/game/develop_game.htm[=]A<=>30212[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21225[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://xyk.cebbank.com/home/game/game_index.htm[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21229[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.china.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21245[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>21309[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.china.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21375[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://news.china.com/zh_cn/domestic/945/20120810/17365914.html[=]A<=>402cc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21407[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.china.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21597[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.sohu.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21710[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://mil.sohu.com/20120810/n350321218.shtml[=]A<=>702f0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21767[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://www.sohu.com/[=]A<=>3026c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21885[=]P<=>IEXPLORE.EXE[=]I<=>3764[=]U<=>http://business.sohu.com/20120810/n350340165.shtml[=]A<=>4d0362[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21891[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>25601[=]P<=>explorer.exe[=]I<=>2016[=]W<=>1015c[=]V<=>6.00.2900.5512
+T<=>25605[=]P<=>yfdown.exe[=]I<=>3308[=]W<=>2059c[=]V<=>1.0.0.0[=]N<=>NULL[=]C<=>联合证券
+T<=>25619[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>25625[=]P<=>yfdown.exe[=]I<=>3308[=]W<=>2059c[=]V<=>1.0.0.0
+T<=>25657[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>25659[=]P<=>explorer.exe[=]I<=>2016[=]W<=>3005e[=]V<=>6.00.2900.5512
+T<=>25661[=]P<=>hypmain.exe[=]I<=>3736[=]W<=>205b4[=]V<=>1.0.0.0
+T<=>25825[=]P<=>TdxW.exe[=]I<=>728[=]W<=>503b8[=]V<=>1, 0, 0, 1
+T<=>25827[=]P<=>explorer.exe[=]I<=>2016[=]W<=>3005e[=]V<=>6.00.2900.5512
+T<=>25831[=]P<=>sogouexplorer.exe[=]I<=>3332[=]U<=>http://h.cnnicresearch.cn/u/sitelogin/un/cXdlOTYzMkAxMjYuY29t/pw/ZTEwYWRjMzk0OWJhNTlhYmJlNTZlMDU3ZjIwZjg4M2U=/rt/1[=]A<=>a02f2[=]B<=>9b03f4[=]V<=>3.2.0.4021
+T<=>25833[=]P<=>sogouexplorer.exe[=]I<=>2532[=]U<=>http://h.cnnicresearch.cn/[=]A<=>a02f2[=]B<=>9b03f4[=]V<=>3.2.0.4021
+T<=>25847[=]P<=>sogouexplorer.exe[=]I<=>2532[=]U<=>http://s.cnnicresearch.cn/portal/index.php[=]A<=>a02f2[=]B<=>9b03f4[=]V<=>3.2.0.4021

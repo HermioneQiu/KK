@@ -1,0 +1,216 @@
+Last<=>5974
+L_Start<=>2012-08-10 07-50-40
+T<=>2954[=]P<=>360chrome.exe[=]I<=>240[=]U<=>u.leyoo.com/index.php/Reg/index/type/3/pid/100050/uid/0/sid/0[=]A<=>601a0[=]B<=>7020e[=]V<=>5.3.0.930[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>2974[=]P<=>360chrome.exe[=]I<=>240[=]U<=>u.leyoo.com/index.php/Reg/index/type/3/pid/100050/uid/0/sid/0#[=]A<=>601a0[=]B<=>802a2[=]V<=>5.3.0.930
+T<=>2978[=]P<=>360chrome.exe[=]I<=>240[=]U<=>u.leyoo.com/index.php/Reg/index/type/3/pid/100050/uid/0/sid/0[=]A<=>601a0[=]B<=>7020e[=]V<=>5.3.0.930
+T<=>3068[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.17173.com[=]A<=>601a0[=]B<=>401f8[=]V<=>5.3.0.930
+T<=>3072[=]P<=>360chrome.exe[=]I<=>240[=]U<=>shop.17173.com[=]A<=>601a0[=]B<=>40262[=]V<=>5.3.0.930
+T<=>3078[=]P<=>360chrome.exe[=]I<=>240[=]U<=>shop.17173.com/pshop/mem/mygood.php[=]A<=>601a0[=]B<=>40262[=]V<=>5.3.0.930
+T<=>3086[=]P<=>360chrome.exe[=]I<=>240[=]U<=>my.17173.com/app/gcoin/index.jsp[=]A<=>601a0[=]B<=>a0212[=]V<=>5.3.0.930
+T<=>3119[=]P<=>360chrome.exe[=]I<=>240[=]U<=>shop.17173.com/pshop/mem/mygood.php[=]A<=>601a0[=]B<=>40262[=]V<=>5.3.0.930
+T<=>3121[=]P<=>360chrome.exe[=]I<=>240[=]U<=>NULL[=]A<=>601a0[=]B<=>50262[=]V<=>5.3.0.930
+T<=>3125[=]P<=>360chrome.exe[=]I<=>240[=]U<=>h.cnnicresearch.cn/u/sitelogin/un/bHZrZTc3MDQyOEBzaW5hLmNvbQ==/pw/MWY2YjZkMzVmYWM0NDBkYWQ5MzRmOGQxMzg4MDJiMDE=/rt/1[=]A<=>601a0[=]B<=>50200[=]V<=>5.3.0.930
+T<=>3127[=]P<=>360chrome.exe[=]I<=>240[=]U<=>h.cnnicresearch.cn[=]A<=>601a0[=]B<=>50200[=]V<=>5.3.0.930
+T<=>3133[=]P<=>360chrome.exe[=]I<=>240[=]U<=>NULL[=]A<=>601a0[=]B<=>50262[=]V<=>5.3.0.930
+T<=>3135[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taojifen.net/index.xpt[=]A<=>601a0[=]B<=>7025c[=]V<=>5.3.0.930
+T<=>3151[=]P<=>360chrome.exe[=]I<=>240[=]U<=>gm.taojifen.net[=]A<=>601a0[=]B<=>7025c[=]V<=>5.3.0.930
+T<=>3153[=]P<=>360chrome.exe[=]I<=>240[=]U<=>gm.taojifen.net/hall/Hallv2.aspx[=]A<=>601a0[=]B<=>7025c[=]V<=>5.3.0.930
+T<=>3159[=]P<=>360chrome.exe[=]I<=>240[=]U<=>gm.taojifen.net/jyd/main.aspx[=]A<=>601a0[=]B<=>5022a[=]V<=>5.3.0.930
+T<=>3163[=]P<=>360chrome.exe[=]I<=>240[=]U<=>gm.taojifen.net/jyd/main.aspx[=]A<=>601a0[=]B<=>5022a[=]V<=>5.3.0.930
+T<=>3189[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taojifen.net/lucky100.xpt[=]A<=>601a0[=]B<=>a020e[=]V<=>5.3.0.930
+T<=>3193[=]P<=>360chrome.exe[=]I<=>240[=]U<=>gm.taojifen.net/hall/Hallv2.aspx[=]A<=>601a0[=]B<=>7025c[=]V<=>5.3.0.930
+T<=>3195[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>6022a[=]V<=>5.3.0.930
+T<=>3199[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com[=]A<=>601a0[=]B<=>8025c[=]V<=>5.3.0.930
+T<=>3201[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com/user_questionnaire.html[=]A<=>601a0[=]B<=>8025c[=]V<=>5.3.0.930
+T<=>3207[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>6022a[=]V<=>5.3.0.930
+T<=>3211[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3213[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com/user_questionnaire.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3217[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>6022a[=]V<=>5.3.0.930
+T<=>3219[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>3223[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com/user_questionnaire.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3227[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.ipanelonline.com/assign2.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3229[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.ipanelonline.com/gotosurvey.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3241[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>3243[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/home/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3249[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/msg/sys.php[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3259[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/msg/sys.php[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3263[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.ipanelonline.com/gotosurvey.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3265[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>3273[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/msg/sys.php[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3279[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/home/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3291[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/kxhuati/repaste/107950192_7090272783.html[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3491[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/user/login.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>3495[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/kxhuati/repaste/107950192_7090272783.html[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3499[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/home/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3503[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3513[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.diaochatong.com/user_questionnaire.html[=]A<=>601a0[=]B<=>6021a[=]V<=>5.3.0.930
+T<=>3515[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/user/login.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>3521[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3533[=]P<=>360chrome.exe[=]I<=>240[=]U<=>i.tao123.com/earn.php[=]A<=>601a0[=]B<=>60254[=]V<=>5.3.0.930
+T<=>3563[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3631[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>1716[=]W<=>503d4[=]V<=>1, 0, 0, 10[=]N<=>XmpTipWnd Module[=]C<=>深圳市迅雷网络技术有限公司
+T<=>3635[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>3995[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/user/account.htm[=]A<=>601a0[=]B<=>60230[=]V<=>5.3.0.930
+T<=>4011[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>4013[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.taidu8.com/index.htm[=]A<=>601a0[=]B<=>70222[=]V<=>5.3.0.930
+T<=>4019[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>5573[=]P<=>360chrome.exe[=]I<=>240[=]U<=>pvz.youkia.com/index.php/ksmedal[=]A<=>601a0[=]B<=>80226[=]V<=>5.3.0.930
+T<=>5577[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>6198[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/home/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>6200[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>6230[=]P<=>explorer.exe[=]I<=>416[=]W<=>100b0[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>6234[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>a0254[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>6236[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>7431[=]P<=>360chrome.exe[=]I<=>240[=]U<=>pvz.youkia.com/index.php/ksmedal[=]A<=>601a0[=]B<=>14028e[=]V<=>5.3.0.930
+T<=>7435[=]P<=>360chrome.exe[=]I<=>240[=]U<=>www.kaixin001.com/!app_pvzonline/[=]A<=>601a0[=]B<=>e0200[=]V<=>5.3.0.930
+T<=>7605[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>8023e[=]V<=>1, 0, 0, 1
+T<=>7611[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7615[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#1[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7633[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#2[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7635[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#3[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7641[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#4[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7651[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#5[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7653[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#7[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7665[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#8[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7667[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#10[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7671[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#12[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7673[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#14[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7675[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#16[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7677[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#17[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7691[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#18[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7693[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#19[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7697[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#20[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7699[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#21[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7703[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#23[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7705[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#25[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7707[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#27[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7709[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#29[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7717[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#30[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7721[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#31[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7723[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#32[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7725[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#33[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7727[=]P<=>360chrome.exe[=]I<=>3180[=]U<=>sports.cn.yahoo.com/t/newspic/sports/28981/#34[=]A<=>40224[=]B<=>50206[=]V<=>5.3.0.930
+T<=>7729[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>a0254[=]V<=>1, 0, 0, 1
+T<=>7737[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#1[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7747[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#2[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7751[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#3[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7753[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#4[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7755[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#5[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7757[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#6[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7759[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#8[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7761[=]P<=>360chrome.exe[=]I<=>2716[=]U<=>ent.cn.yahoo.com/t/newspic/ent/60903/#10[=]A<=>502a4[=]B<=>c0262[=]V<=>5.3.0.930
+T<=>7765[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>8023e[=]V<=>1, 0, 0, 1
+T<=>7775[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>127.0.0.1:3009/auth/E4D2253516D14A0CA3C961554CF72C3D[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>7777[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>7821[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>mission.jianghu.taobao.com/umission_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>7825[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>taojinbi.taobao.com/home/award_exchange_home.htm[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>7827[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>mission.jianghu.taobao.com/umission_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>7829[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>act.ju.taobao.com/go/act/juhuasuan/anniversary2012.php>[=]A<=>e02a2[=]B<=>b0248[=]V<=>5.3.0.930
+T<=>7965[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://auth.alipay.com/login/trust_login.do[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>7967[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://auth.alipay.com/login/certCheck.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>7969[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8049[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8065[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>uam.js.ct10000.com/LoginIn[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8069[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service/account[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8081[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service/bill[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8123[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8127[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service/bill[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8137[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8161[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>c027c[=]V<=>5.3.0.930
+T<=>8175[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/couponactivedetail.htm[=]A<=>e02a2[=]B<=>f0374[=]V<=>5.3.0.930
+T<=>8217[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>c027c[=]V<=>5.3.0.930
+T<=>8221[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8225[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/q/index.htm[=]A<=>e02a2[=]B<=>4037e[=]V<=>5.3.0.930
+T<=>8257[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8283[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service/bill[=]A<=>e02a2[=]B<=>NULL[=]V<=>5.3.0.930
+T<=>8301[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>js.189.cn/service/account[=]A<=>e02a2[=]B<=>503dc[=]V<=>5.3.0.930
+T<=>8311[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/couponactivedetail.htm[=]A<=>e02a2[=]B<=>f0374[=]V<=>5.3.0.930
+T<=>8319[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>c027c[=]V<=>5.3.0.930
+T<=>8321[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/jj/index.htm[=]A<=>e02a2[=]B<=>a01f4[=]V<=>5.3.0.930
+T<=>8327[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>act.ju.taobao.com/go/act/juhuasuan/anniversary2012.php>[=]A<=>e02a2[=]B<=>b0248[=]V<=>5.3.0.930
+T<=>8579[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>8585[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/couponactivedetail.htm[=]A<=>e02a2[=]B<=>17022a[=]V<=>5.3.0.930
+T<=>8601[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>8603[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/couponactivedetail.htm[=]A<=>e02a2[=]B<=>18022a[=]V<=>5.3.0.930
+T<=>8611[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>8613[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>act.ju.taobao.com/go/act/juhuasuan/anniversary2012.php>[=]A<=>e02a2[=]B<=>b0248[=]V<=>5.3.0.930
+T<=>8699[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>8701[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>mission.jianghu.taobao.com/umission_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>8705[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>act.ju.taobao.com/go/act/juhuasuan/anniversary2012.php>[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>8707[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>mission.jianghu.taobao.com/umission_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>8713[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>act.ju.taobao.com/go/act/juhuasuan/anniversary2012.php>[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>8715[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>ju.taobao.com/tg/today_items.htm[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>8739[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>ju.taobao.com/tg/today_items.htm[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>8771[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>ju.taobao.com/tg/today_items.htm[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>8777[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>8785[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/hongbao2/index.htm[=]A<=>e02a2[=]B<=>d02ba[=]V<=>5.3.0.930
+T<=>8903[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>about:blank[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>8905[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/payment/cashier.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>8925[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/gateway/promotionAndPointPay.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>8955[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/result/rnPaymentResult.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>8975[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>about:blank[=]A<=>e02a2[=]B<=>1303c8[=]V<=>5.3.0.930
+T<=>8977[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>jf.etao.com/[=]A<=>e02a2[=]B<=>1303c8[=]V<=>5.3.0.930
+T<=>8987[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/result/rnPaymentResult.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>9021[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>jf.etao.com/[=]A<=>e02a2[=]B<=>80360[=]V<=>5.3.0.930
+T<=>9025[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/result/rnPaymentResult.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>9029[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>about:blank[=]A<=>e02a2[=]B<=>90360[=]V<=>5.3.0.930
+T<=>9031[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://jiaofei.alipay.com/fare/chargeEntering.htm[=]A<=>e02a2[=]B<=>90360[=]V<=>5.3.0.930
+T<=>9041[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://cashier.alipay.com/standard/result/rnPaymentResult.htm[=]A<=>e02a2[=]B<=>b0386[=]V<=>5.3.0.930
+T<=>9049[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>jf.etao.com/[=]A<=>e02a2[=]B<=>1303c8[=]V<=>5.3.0.930
+T<=>9051[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>fun.alipay.com/hongbao2/index.htm[=]A<=>e02a2[=]B<=>d02ba[=]V<=>5.3.0.930
+T<=>9079[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>jf.etao.com/[=]A<=>e02a2[=]B<=>1303c8[=]V<=>5.3.0.930
+T<=>9081[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://hongbao.alipay.com/coupon/index.htm[=]A<=>e02a2[=]B<=>120236[=]V<=>5.3.0.930
+T<=>9095[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>ju.taobao.com/tg/today_items.htm[=]A<=>e02a2[=]B<=>902a6[=]V<=>5.3.0.930
+T<=>9097[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>mission.jianghu.taobao.com/umission_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9099[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/app_center.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9101[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/recent_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9103[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/show.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9113[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/recent_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9115[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/show.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9131[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>yingyong.taobao.com/recent_list.htm[=]A<=>e02a2[=]B<=>702ac[=]V<=>5.3.0.930
+T<=>9137[=]P<=>360chrome.exe[=]I<=>2088[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>e02a2[=]B<=>150248[=]V<=>5.3.0.930
+T<=>9147[=]P<=>explorer.exe[=]I<=>416[=]W<=>100b0[=]V<=>6.00.2900.5512
+T<=>9151[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>a0254[=]V<=>1, 0, 0, 1
+T<=>9269[=]P<=>360tray.exe[=]I<=>800[=]W<=>10174[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>9271[=]P<=>traderoom.exe[=]I<=>4064[=]W<=>702a4[=]V<=>1.0.0.1[=]N<=>国联通宝[=]C<=>国联证券股份有限公司
+T<=>9281[=]P<=>jd208.exe[=]I<=>2324[=]W<=>a0274[=]V<=>5, 80, 0, 0[=]N<=>钱龙金典版[=]C<=>上海乾隆高科技有限公司
+T<=>9283[=]P<=>traderoom.exe[=]I<=>4064[=]W<=>702a4[=]V<=>1.0.0.1
+T<=>9285[=]P<=>jd208.exe[=]I<=>2324[=]W<=>b0274[=]V<=>5, 80, 0, 0
+T<=>9691[=]P<=>AliIM.exe[=]I<=>3160[=]W<=>a0254[=]V<=>1, 0, 0, 1
+T<=>9695[=]P<=>traderoom.exe[=]I<=>4064[=]W<=>9024e[=]V<=>1.0.0.1
+T<=>9697[=]P<=>360tray.exe[=]I<=>800[=]W<=>10174[=]V<=>7, 7, 0, 1071
+T<=>9701[=]P<=>explorer.exe[=]I<=>416[=]W<=>10082[=]V<=>6.00.2900.5512
+T<=>9711[=]P<=>BigFoot.exe[=]I<=>2816[=]W<=>16006e[=]V<=>3.0.1.9[=]N<=>魔兽大脚[=]C<=>北京智珠网络技术有限公司
+T<=>10537[=]P<=>explorer.exe[=]I<=>416[=]W<=>100b0[=]V<=>6.00.2900.5512
+T<=>10541[=]P<=>Launcher.exe[=]I<=>3792[=]W<=>39029c[=]V<=>4, 2, 1, 2746[=]N<=>Blizzard Launcher[=]C<=>Blizzard Entertainment
+T<=>10569[=]P<=>Wow.exe[=]I<=>2936[=]W<=>1a020a[=]V<=>Version 4.3[=]N<=>World of Warcraft[=]C<=>Blizzard Entertainment
+T<=>10597[=]P<=>explorer.exe[=]I<=>416[=]W<=>88025a[=]V<=>6.00.2900.5512
+T<=>10599[=]P<=>Wow.exe[=]I<=>2936[=]W<=>1a020a[=]V<=>Version 4.3
+T<=>10603[=]P<=>explorer.exe[=]I<=>416[=]W<=>88025a[=]V<=>6.00.2900.5512
+T<=>10609[=]P<=>Wow.exe[=]I<=>2936[=]W<=>1a020a[=]V<=>Version 4.3
+T<=>10615[=]P<=>explorer.exe[=]I<=>416[=]W<=>88025a[=]V<=>6.00.2900.5512
+T<=>10617[=]P<=>Wow.exe[=]I<=>2936[=]W<=>1a020a[=]V<=>Version 4.3
+T<=>10987[=]P<=>explorer.exe[=]I<=>416[=]W<=>88025a[=]V<=>6.00.2900.5512
+T<=>255[=]P<=>360chrome.exe[=]I<=>4000[=]U<=>wow.178.com/201208/138562973516.html[=]A<=>2028e[=]B<=>202f8[=]V<=>5.3.0.930[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>299[=]P<=>BigFoot.exe[=]I<=>3740[=]W<=>700b8[=]V<=>3.0.1.9[=]N<=>魔兽大脚[=]C<=>北京智珠网络技术有限公司
+T<=>309[=]P<=>360MobileMgr.exe[=]I<=>3152[=]W<=>25025a[=]V<=>1, 7, 0, 1715[=]N<=>360手机助手[=]C<=>360.cn
+T<=>315[=]P<=>BigFoot.exe[=]I<=>3740[=]W<=>700b8[=]V<=>3.0.1.9
+T<=>600[=]P<=>explorer.exe[=]I<=>420[=]W<=>10204[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>602[=]P<=>Launcher.exe[=]I<=>764[=]W<=>30290[=]V<=>4, 2, 1, 2746[=]N<=>Blizzard Launcher[=]C<=>Blizzard Entertainment
+T<=>610[=]P<=>explorer.exe[=]I<=>420[=]W<=>10204[=]V<=>6.00.2900.5512
+T<=>620[=]P<=>Wow.exe[=]I<=>740[=]W<=>5300d0[=]V<=>Version 4.3[=]N<=>World of Warcraft[=]C<=>Blizzard Entertainment
+T<=>658[=]P<=>explorer.exe[=]I<=>420[=]W<=>10204[=]V<=>6.00.2900.5512
+T<=>660[=]P<=>Wow.exe[=]I<=>740[=]W<=>5300d0[=]V<=>Version 4.3
+T<=>3668[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>772[=]W<=>30270[=]V<=>1, 0, 0, 10[=]N<=>XmpTipWnd Module[=]C<=>深圳市迅雷网络技术有限公司
+T<=>3674[=]P<=>Wow.exe[=]I<=>740[=]W<=>5300d0[=]V<=>Version 4.3
+T<=>5384[=]P<=>explorer.exe[=]I<=>420[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>5388[=]P<=>BigFoot.exe[=]I<=>3740[=]W<=>700b8[=]V<=>3.0.1.9
+T<=>5392[=]P<=>360tray.exe[=]I<=>792[=]W<=>1016a[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>5408[=]P<=>explorer.exe[=]I<=>420[=]W<=>1009e[=]V<=>6.00.2900.5512
+T<=>5414[=]P<=>360SE.exe[=]I<=>3764[=]W<=>500b2[=]V<=>5.0.7.0[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>5530[=]P<=>360sd.exe[=]I<=>864[=]W<=>2202f6[=]V<=>3, 1, 0, 3074[=]N<=>360杀毒[=]C<=>360.cn
+T<=>5532[=]P<=>360SE.exe[=]I<=>3764[=]W<=>502da[=]V<=>5.0.7.0
+T<=>5778[=]P<=>urlproc.exe[=]I<=>3440[=]W<=>105cc[=]V<=>2.6.5.1007[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>5788[=]P<=>360SE.exe[=]I<=>3764[=]W<=>6032e[=]V<=>5.0.7.0
+T<=>5826[=]P<=>urlproc.exe[=]I<=>3440[=]W<=>30592[=]V<=>2.6.5.1007
+T<=>5828[=]P<=>360SE.exe[=]I<=>3764[=]W<=>7032e[=]V<=>5.0.7.0

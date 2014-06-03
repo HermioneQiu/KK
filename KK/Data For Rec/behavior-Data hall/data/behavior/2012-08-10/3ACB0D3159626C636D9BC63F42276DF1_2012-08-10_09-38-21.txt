@@ -1,0 +1,12 @@
+Last<=>6097
+L_Start<=>2012-08-10 09-38-21
+T<=>230[=]P<=>Launch.bin[=]I<=>3200[=]W<=>30146[=]V<=>1.0.3.61
+T<=>265[=]P<=>explorer.exe[=]I<=>2012[=]W<=>10092[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>347[=]P<=>Game.exe[=]I<=>4044[=]W<=>6010e[=]V<=>0, 85, 0, 0[=]N<=>TianLongBaBu[=]C<=>Changyou.com limited
+T<=>1214[=]P<=>explorer.exe[=]I<=>2012[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>1223[=]P<=>360tray.exe[=]I<=>348[=]W<=>100ee[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>4289[=]P<=>Launch.bin[=]I<=>1776[=]W<=>80148[=]V<=>1.0.3.61
+T<=>4305[=]P<=>explorer.exe[=]I<=>188[=]W<=>10092[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>4311[=]P<=>Launch.bin[=]I<=>3348[=]W<=>400ec[=]V<=>1.0.3.61
+T<=>4327[=]P<=>explorer.exe[=]I<=>188[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>4397[=]P<=>Game.exe[=]I<=>3376[=]W<=>d0148[=]V<=>0, 85, 0, 0[=]N<=>TianLongBaBu[=]C<=>Changyou.com limited

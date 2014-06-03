@@ -1,0 +1,428 @@
+Last<=>1872
+L_Start<=>2012-08-10 08-14-14
+T<=>75[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>79[=]P<=>360tray.exe[=]I<=>972[=]W<=>1018e[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>89[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>99[=]P<=>Fetion.exe[=]I<=>1776[=]W<=>2024c[=]V<=>4, 7, 3800, 0[=]N<=>Fetion[=]C<=>China Mobile
+T<=>121[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>127[=]P<=>QQ.exe[=]I<=>3236[=]W<=>102e6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>191[=]P<=>popup_QQ.exe[=]I<=>3236[=]W<=>11031a[=]V<=>1.85.4925.0
+T<=>203[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>205[=]P<=>popup_Fetion.exe[=]I<=>1776[=]W<=>503b0[=]V<=>4, 7, 3800, 0
+T<=>225[=]P<=>popup_QQ.exe[=]I<=>3236[=]W<=>11031a[=]V<=>1.85.4925.0
+T<=>227[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>231[=]P<=>QQ.exe[=]I<=>3236[=]W<=>402a8[=]V<=>1.85.4925.0
+T<=>253[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>259[=]P<=>QQ.exe[=]I<=>4780[=]W<=>30386[=]V<=>1.85.4925.0
+T<=>327[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>333[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>352[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>356[=]P<=>QQ.exe[=]I<=>5100[=]W<=>29031c[=]V<=>1.85.4925.0
+T<=>410[=]P<=>popup_QQ.exe[=]I<=>5100[=]W<=>40458[=]V<=>1.85.4925.0
+T<=>422[=]P<=>popup_QQ.exe[=]I<=>5100[=]W<=>40458[=]V<=>1.85.4925.0
+T<=>434[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>668[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>672[=]P<=>QQ.exe[=]I<=>4180[=]W<=>6045e[=]V<=>1.85.4925.0
+T<=>684[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>694[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>696[=]P<=>QQ.exe[=]I<=>4180[=]W<=>23042e[=]V<=>1.85.4925.0
+T<=>704[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>712[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>726[=]P<=>popup_QQ.exe[=]I<=>4180[=]W<=>e0296[=]V<=>1.85.4925.0
+T<=>730[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>736[=]P<=>popup_QQ.exe[=]I<=>4180[=]W<=>e0296[=]V<=>1.85.4925.0
+T<=>752[=]P<=>QQ.exe[=]I<=>4780[=]W<=>303fc[=]V<=>1.85.4925.0
+T<=>786[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>792[=]P<=>QQ.exe[=]I<=>2068[=]W<=>803ca[=]V<=>1.85.4925.0
+T<=>818[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>822[=]P<=>QQ.exe[=]I<=>6680[=]W<=>30566[=]V<=>1.85.4925.0
+T<=>842[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>856[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>898[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>904[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>NULL[=]A<=>105de[=]B<=>NULL[=]V<=>8.00.6001.18702[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>910[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://site.baidu.com/[=]A<=>105de[=]B<=>1062c[=]V<=>8.00.6001.18702
+T<=>922[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.boc.cn/[=]A<=>106d8[=]B<=>1071c[=]V<=>8.00.6001.18702
+T<=>1846[=]P<=>SDUpdate.exe[=]I<=>10184[=]W<=>4081c[=]V<=>1, 0, 0, 100[=]N<=>SDClient Software[=]C<=>SDClient Co.Ltd
+T<=>1852[=]P<=>iexplore.exe[=]I<=>7384[=]W<=>20774[=]V<=>8.00.6001.18702
+T<=>2040[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.boc.cn/#[=]A<=>106d8[=]B<=>1071c[=]V<=>8.00.6001.18702
+T<=>2042[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://site.baidu.com/[=]A<=>105de[=]B<=>1062c[=]V<=>8.00.6001.18702
+T<=>2046[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>105de[=]B<=>1062c[=]V<=>8.00.6001.18702
+T<=>2094[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>about:blank[=]A<=>406ec[=]B<=>90708[=]V<=>8.00.6001.18702
+T<=>2100[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>406ec[=]B<=>90708[=]V<=>8.00.6001.18702
+T<=>2102[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>105de[=]B<=>1062c[=]V<=>8.00.6001.18702
+T<=>2112[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>about:blank[=]A<=>50702[=]B<=>507f2[=]V<=>8.00.6001.18702
+T<=>2116[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>50702[=]B<=>507f2[=]V<=>8.00.6001.18702
+T<=>2122[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>105de[=]B<=>1062c[=]V<=>8.00.6001.18702
+T<=>2160[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>about:blank[=]A<=>706ce[=]B<=>12071a[=]V<=>8.00.6001.18702
+T<=>2166[=]P<=>iexplore.exe[=]I<=>7384[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>706ce[=]B<=>12071a[=]V<=>8.00.6001.18702
+T<=>2184[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>2194[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>NULL[=]A<=>2064c[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>2198[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/TTLogin.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>2214[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>2314[=]P<=>explorer.exe[=]I<=>556[=]W<=>19052a[=]V<=>6.00.2900.5512
+T<=>2316[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>2324[=]P<=>QQ.exe[=]I<=>5100[=]W<=>1044a[=]V<=>1.85.4925.0
+T<=>2366[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>2376[=]P<=>QQ.exe[=]I<=>6680[=]W<=>105b4[=]V<=>1.85.4925.0
+T<=>2382[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>NULL[=]A<=>406a6[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>2388[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://user.qzone.qq.com/1963829728/infocenter[=]A<=>406a6[=]B<=>306f2[=]V<=>8.00.6001.18702
+T<=>2494[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>2546[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>2586[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>2594[=]P<=>QQ.exe[=]I<=>4780[=]W<=>203f8[=]V<=>1.85.4925.0
+T<=>2602[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>606a4[=]V<=>2,5,201,93[=]N<=>QQ游戏[=]C<=>深圳市腾讯计算机系统有限公司
+T<=>2620[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>2622[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>2632[=]P<=>ddzrpg.exe[=]I<=>10620[=]W<=>40772[=]V<=>2, 1, 132, 10[=]N<=>斗地主角色版[=]C<=>Tencent
+T<=>2642[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>2644[=]P<=>ddzrpg.exe[=]I<=>10620[=]W<=>40772[=]V<=>2, 1, 132, 10
+T<=>2648[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>2650[=]P<=>ddzrpg.exe[=]I<=>10620[=]W<=>40772[=]V<=>2, 1, 132, 10
+T<=>2652[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>2656[=]P<=>ddzrpg.exe[=]I<=>11052[=]W<=>50772[=]V<=>2, 1, 132, 10
+T<=>2660[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>2662[=]P<=>ddzrpg.exe[=]I<=>10340[=]W<=>60772[=]V<=>2, 1, 132, 10
+T<=>3714[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>3722[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>3734[=]P<=>ddzrpg.exe[=]I<=>10340[=]W<=>60772[=]V<=>2, 1, 132, 10
+T<=>5286[=]P<=>QQGame.exe[=]I<=>11668[=]W<=>b07d0[=]V<=>2,5,201,93
+T<=>5288[=]P<=>iexplore.exe[=]I<=>5580[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>2064c[=]B<=>20608[=]V<=>8.00.6001.18702
+T<=>5372[=]P<=>QQ.exe[=]I<=>4180[=]W<=>304de[=]V<=>1.85.4925.0
+T<=>5386[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>5394[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>NULL[=]A<=>3067c[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>5398[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>http://www.51book.com/liantuo/manage/signon2.in[=]A<=>3067c[=]B<=>305d8[=]V<=>8.00.6001.18702
+T<=>5412[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>http://caigou.51book.com/liantuo/html/signonOk.htm[=]A<=>3067c[=]B<=>305d8[=]V<=>8.00.6001.18702
+T<=>5414[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>http://caigou.51book.com/liantuo/manage/index.in[=]A<=>3067c[=]B<=>305d8[=]V<=>8.00.6001.18702
+T<=>5418[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>http://caigou.51book.com/liantuo/manage/policyOrderManage.in[=]A<=>3067c[=]B<=>305d8[=]V<=>8.00.6001.18702
+T<=>5454[=]P<=>iexplore.exe[=]I<=>15384[=]U<=>http://caigou.51book.com/liantuo/manage/listRefundOfPolicyOrder.in[=]A<=>50710[=]B<=>5077c[=]V<=>8.00.6001.18702
+T<=>5485[=]P<=>explorer.exe[=]I<=>556[=]W<=>2a0296[=]V<=>6.00.2900.5512
+T<=>5501[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>5583[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>5589[=]P<=>WINWORD.EXE[=]I<=>11120[=]W<=>78048a[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>5623[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>5625[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>5671[=]P<=>WINWORD.EXE[=]I<=>11120[=]W<=>78048a[=]V<=>11.0.8345
+T<=>5679[=]P<=>QQ.exe[=]I<=>3236[=]W<=>b0640[=]V<=>1.85.4925.0
+T<=>5905[=]P<=>explorer.exe[=]I<=>556[=]W<=>30046[=]V<=>6.00.2900.5512
+T<=>5907[=]P<=>Fetion.exe[=]I<=>1776[=]W<=>2024c[=]V<=>4, 7, 3800, 0
+T<=>5941[=]P<=>WINWORD.EXE[=]I<=>11120[=]W<=>78048a[=]V<=>11.0.8345
+T<=>5963[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>5967[=]P<=>EXCEL.EXE[=]I<=>8008[=]W<=>b30502[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>6011[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>6015[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>NULL[=]A<=>7062a[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>6019[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>http://site.baidu.com/[=]A<=>7062a[=]B<=>6065c[=]V<=>8.00.6001.18702
+T<=>6023[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>7062a[=]B<=>6065c[=]V<=>8.00.6001.18702
+T<=>6097[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>about:blank[=]A<=>f07cc[=]B<=>70756[=]V<=>8.00.6001.18702
+T<=>6103[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>f07cc[=]B<=>70756[=]V<=>8.00.6001.18702
+T<=>6125[=]P<=>iexplore.exe[=]I<=>16540[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>7062a[=]B<=>6065c[=]V<=>8.00.6001.18702
+T<=>6129[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>6133[=]P<=>QQ.exe[=]I<=>3236[=]W<=>10354[=]V<=>1.85.4925.0
+T<=>6195[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>6207[=]P<=>QQ.exe[=]I<=>5100[=]W<=>1044a[=]V<=>1.85.4925.0
+T<=>6223[=]P<=>iexplore.exe[=]I<=>16232[=]U<=>NULL[=]A<=>190610[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>6227[=]P<=>iexplore.exe[=]I<=>16232[=]U<=>http://user.qzone.qq.com/1429386816/infocenter[=]A<=>190610[=]B<=>a0694[=]V<=>8.00.6001.18702
+T<=>6291[=]P<=>iexplore.exe[=]I<=>16232[=]U<=>http://user.qzone.qq.com/1429386816/infocenter#!app=311&url=http%3A%2F%2Fcnc.qzs.qq.com%2Fqzone%2Fapp%2Fmood_v6%2Fhtml%2Findex.html%23uin%3D1429386816%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D0%26qz_style%3Dv6%2F1%26params%3D%26canvastype%3D[=]A<=>190610[=]B<=>a0694[=]V<=>8.00.6001.18702
+T<=>6301[=]P<=>iexplore.exe[=]I<=>16232[=]U<=>http://user.qzone.qq.com/1429386816/infocenter#!app=311&url=http%3A%2F%2Fcnc.qzs.qq.com%2Fqzone%2Fapp%2Fmood_v6%2Fhtml%2Fprofile.html%3Fuin%3D1429386816[=]A<=>190610[=]B<=>a0694[=]V<=>8.00.6001.18702
+T<=>6435[=]P<=>explorer.exe[=]I<=>556[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>75[=]P<=>360tray.exe[=]I<=>1144[=]W<=>1019c[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>79[=]P<=>explorer.exe[=]I<=>444[=]W<=>3004e[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>81[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>NULL[=]A<=>102cc[=]B<=>NULL[=]V<=>8.00.6001.18702[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>93[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://site.baidu.com/[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>105[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://try.taobao.com/index.htm[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>111[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://try.taobao.com/item/my_try_item.htm[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>119[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>159[=]P<=>explorer.exe[=]I<=>444[=]W<=>b0278[=]V<=>6.00.2900.5512
+T<=>161[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>173[=]P<=>explorer.exe[=]I<=>444[=]W<=>b0278[=]V<=>6.00.2900.5512
+T<=>181[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>NULL[=]A<=>1042a[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>185[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/TTLogin.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>195[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>263[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>102cc[=]B<=>10308[=]V<=>8.00.6001.18702
+T<=>267[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>269[=]P<=>explorer.exe[=]I<=>444[=]W<=>603a4[=]V<=>6.00.2900.5512
+T<=>271[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>275[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>NULL[=]A<=>403b4[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>281[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://site.baidu.com/[=]A<=>403b4[=]B<=>203d2[=]V<=>8.00.6001.18702
+T<=>285[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://try.taobao.com/index.htm[=]A<=>403b4[=]B<=>203d2[=]V<=>8.00.6001.18702
+T<=>291[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>403b4[=]B<=>203d2[=]V<=>8.00.6001.18702
+T<=>315[=]P<=>explorer.exe[=]I<=>444[=]W<=>3004e[=]V<=>6.00.2900.5512
+T<=>317[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>NULL[=]A<=>40328[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>321[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://site.baidu.com/[=]A<=>40328[=]B<=>30362[=]V<=>8.00.6001.18702
+T<=>327[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://try.taobao.com/index.htm[=]A<=>40328[=]B<=>30362[=]V<=>8.00.6001.18702
+T<=>367[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>40328[=]B<=>30362[=]V<=>8.00.6001.18702
+T<=>379[=]P<=>explorer.exe[=]I<=>444[=]W<=>3004e[=]V<=>6.00.2900.5512
+T<=>397[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>402fa[=]V<=>2,5,201,93[=]N<=>QQ游戏[=]C<=>深圳市腾讯计算机系统有限公司
+T<=>409[=]P<=>explorer.exe[=]I<=>444[=]W<=>3004e[=]V<=>6.00.2900.5512
+T<=>411[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>503c0[=]V<=>2,5,201,93
+T<=>419[=]P<=>explorer.exe[=]I<=>444[=]W<=>20092[=]V<=>6.00.2900.5512
+T<=>423[=]P<=>ddzrpg.exe[=]I<=>5248[=]W<=>10524[=]V<=>2, 1, 132, 10[=]N<=>斗地主角色版[=]C<=>Tencent
+T<=>433[=]P<=>QQ.exe[=]I<=>5392[=]W<=>3053e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>448[=]P<=>ddzrpg.exe[=]I<=>5248[=]W<=>10524[=]V<=>2, 1, 132, 10
+T<=>454[=]P<=>QQ.exe[=]I<=>5392[=]W<=>2033a[=]V<=>1.85.4925.0
+T<=>456[=]P<=>ddzrpg.exe[=]I<=>5248[=]W<=>10524[=]V<=>2, 1, 132, 10
+T<=>458[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>503c0[=]V<=>2,5,201,93
+T<=>460[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>466[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>503c0[=]V<=>2,5,201,93
+T<=>468[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>470[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>503c0[=]V<=>2,5,201,93
+T<=>472[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>508[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>NULL[=]A<=>1061c[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>510[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>526[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://2012.qq.com/jingcai/[=]A<=>1061c[=]B<=>10662[=]V<=>8.00.6001.18702
+T<=>530[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>540[=]P<=>popup_QQ.exe[=]I<=>5392[=]W<=>f0296[=]V<=>1.85.4925.0
+T<=>542[=]P<=>ddzrpg.exe[=]I<=>4696[=]W<=>2051e[=]V<=>2, 1, 132, 10
+T<=>1128[=]P<=>QQGame.exe[=]I<=>3204[=]W<=>503c0[=]V<=>2,5,201,93
+T<=>1132[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://2012.qq.com/jingcai/[=]A<=>1061c[=]B<=>10662[=]V<=>8.00.6001.18702
+T<=>1136[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>1170[=]P<=>explorer.exe[=]I<=>444[=]W<=>10090[=]V<=>6.00.2900.5512
+T<=>1184[=]P<=>Fetion.exe[=]I<=>5476[=]W<=>502ce[=]V<=>4, 7, 3800, 0[=]N<=>Fetion[=]C<=>China Mobile
+T<=>1283[=]P<=>popup_Fetion.exe[=]I<=>5476[=]W<=>1702c4[=]V<=>4, 7, 3800, 0
+T<=>1400[=]P<=>iexplore.exe[=]I<=>4000[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1042a[=]B<=>10472[=]V<=>8.00.6001.18702
+T<=>1444[=]P<=>explorer.exe[=]I<=>444[=]W<=>20092[=]V<=>6.00.2900.5512
+T<=>74[=]P<=>360tray.exe[=]I<=>168[=]W<=>101ac[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>80[=]P<=>explorer.exe[=]I<=>608[=]W<=>10092[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>92[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>NULL[=]A<=>10308[=]B<=>NULL[=]V<=>8.00.6001.18702[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>100[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>104[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/TTLogin.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>120[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>222[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>NULL[=]A<=>3040a[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>226[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://site.baidu.com/[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>232[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>288[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>104fa[=]B<=>10536[=]V<=>8.00.6001.18702
+T<=>294[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>104fa[=]B<=>10536[=]V<=>8.00.6001.18702
+T<=>298[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>308[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>1204ce[=]B<=>204fe[=]V<=>8.00.6001.18702
+T<=>314[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>1204ce[=]B<=>204fe[=]V<=>8.00.6001.18702
+T<=>360[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>368[=]P<=>explorer.exe[=]I<=>608[=]W<=>50512[=]V<=>6.00.2900.5512
+T<=>386[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>NULL[=]A<=>9051c[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>390[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://site.baidu.com/[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>398[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://try.taobao.com/index.htm[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>404[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>428[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>https://login.taobao.com/member/login.jhtml[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>430[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://trade.taobao.com/trade/itemlist/list_bought_items.htm[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>440[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://trade.taobao.com/trade/itemlist/list_bought_items.htm[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>448[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>454[=]P<=>360MobileMgr.exe[=]I<=>3660[=]W<=>505d0[=]V<=>1, 7, 0, 1715[=]N<=>360手机助手[=]C<=>360.cn
+T<=>462[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>9051c[=]B<=>c04e6[=]V<=>8.00.6001.18702
+T<=>468[=]P<=>explorer.exe[=]I<=>608[=]W<=>300f6[=]V<=>6.00.2900.5512
+T<=>590[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>658[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>3049a[=]B<=>5052e[=]V<=>8.00.6001.18702
+T<=>664[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>3049a[=]B<=>5052e[=]V<=>8.00.6001.18702
+T<=>682[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>688[=]P<=>explorer.exe[=]I<=>608[=]W<=>50512[=]V<=>6.00.2900.5512
+T<=>692[=]P<=>eTerm3.exe[=]I<=>5264[=]W<=>2058c[=]V<=>3, 7, 3, 0[=]N<=>NULL[=]C<=>TravelSky
+T<=>731[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>809[=]P<=>explorer.exe[=]I<=>608[=]W<=>50512[=]V<=>6.00.2900.5512
+T<=>833[=]P<=>Fetion.exe[=]I<=>5032[=]W<=>9057e[=]V<=>4, 7, 3800, 0[=]N<=>Fetion[=]C<=>China Mobile
+T<=>885[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>961[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>10704[=]B<=>1073a[=]V<=>8.00.6001.18702
+T<=>967[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>10704[=]B<=>1073a[=]V<=>8.00.6001.18702
+T<=>975[=]P<=>Fetion.exe[=]I<=>5032[=]W<=>705ea[=]V<=>4, 7, 3800, 0
+T<=>1115[=]P<=>popup_Fetion.exe[=]I<=>5032[=]W<=>1006ce[=]V<=>4, 7, 3800, 0
+T<=>1123[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>10704[=]B<=>1073a[=]V<=>8.00.6001.18702
+T<=>1125[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1133[=]P<=>explorer.exe[=]I<=>608[=]W<=>50512[=]V<=>6.00.2900.5512
+T<=>1139[=]P<=>QQ.exe[=]I<=>3808[=]W<=>20652[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1172[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1178[=]P<=>explorer.exe[=]I<=>608[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>1180[=]P<=>QQ.exe[=]I<=>7088[=]W<=>506be[=]V<=>1.85.4925.0
+T<=>1205[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1277[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>4071c[=]B<=>20756[=]V<=>8.00.6001.18702
+T<=>1283[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>4071c[=]B<=>20756[=]V<=>8.00.6001.18702
+T<=>1295[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1335[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>30792[=]B<=>40758[=]V<=>8.00.6001.18702
+T<=>1341[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>30792[=]B<=>40758[=]V<=>8.00.6001.18702
+T<=>1347[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1413[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>207b6[=]B<=>a0732[=]V<=>8.00.6001.18702
+T<=>1419[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>207b6[=]B<=>a0732[=]V<=>8.00.6001.18702
+T<=>1459[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1463[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>1465[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>1493[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>1497[=]P<=>QQ.exe[=]I<=>3808[=]W<=>20676[=]V<=>1.85.4925.0
+T<=>1505[=]P<=>QQGame.exe[=]I<=>7016[=]W<=>6070c[=]V<=>2,5,201,93[=]N<=>QQ游戏[=]C<=>深圳市腾讯计算机系统有限公司
+T<=>1536[=]P<=>ddzrpg.exe[=]I<=>7648[=]W<=>1081a[=]V<=>2, 1, 132, 10[=]N<=>斗地主角色版[=]C<=>Tencent
+T<=>1700[=]P<=>QQGame.exe[=]I<=>7016[=]W<=>70702[=]V<=>2,5,201,93
+T<=>1702[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1704[=]P<=>QQGame.exe[=]I<=>7016[=]W<=>70702[=]V<=>2,5,201,93
+T<=>1708[=]P<=>ddzrpg.exe[=]I<=>7648[=]W<=>1081a[=]V<=>2, 1, 132, 10
+T<=>1710[=]P<=>QQGame.exe[=]I<=>7016[=]W<=>70702[=]V<=>2,5,201,93
+T<=>1712[=]P<=>ddzrpg.exe[=]I<=>7648[=]W<=>1081a[=]V<=>2, 1, 132, 10
+T<=>1718[=]P<=>QQGame.exe[=]I<=>7016[=]W<=>70702[=]V<=>2,5,201,93
+T<=>1722[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1724[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>1726[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>1896[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1940[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>a07c8[=]B<=>506d0[=]V<=>8.00.6001.18702
+T<=>1946[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>a07c8[=]B<=>506d0[=]V<=>8.00.6001.18702
+T<=>1950[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>1952[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>2128[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2140[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>9070c[=]B<=>f070e[=]V<=>8.00.6001.18702
+T<=>2146[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>9070c[=]B<=>f070e[=]V<=>8.00.6001.18702
+T<=>2162[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2166[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>2168[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>2188[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>2218[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>2236[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>2430[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>2536[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2550[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>807c0[=]B<=>150794[=]V<=>8.00.6001.18702
+T<=>2560[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>807c0[=]B<=>150794[=]V<=>8.00.6001.18702
+T<=>2564[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2582[=]P<=>Fetion.exe[=]I<=>5032[=]W<=>9057e[=]V<=>4, 7, 3800, 0
+T<=>2666[=]P<=>eTerm3.exe[=]I<=>5264[=]W<=>40584[=]V<=>3, 7, 3, 0
+T<=>2696[=]P<=>QQ.exe[=]I<=>7088[=]W<=>b05f2[=]V<=>1.85.4925.0
+T<=>2766[=]P<=>eTerm3.exe[=]I<=>5264[=]W<=>40584[=]V<=>3, 7, 3, 0
+T<=>2768[=]P<=>Fetion.exe[=]I<=>5032[=]W<=>16071a[=]V<=>4, 7, 3800, 0
+T<=>2774[=]P<=>eTerm3.exe[=]I<=>5264[=]W<=>40584[=]V<=>3, 7, 3, 0
+T<=>2776[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2788[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>906ea[=]B<=>9c0790[=]V<=>8.00.6001.18702
+T<=>2794[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>906ea[=]B<=>9c0790[=]V<=>8.00.6001.18702
+T<=>2798[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>2804[=]P<=>QQ.exe[=]I<=>3808[=]W<=>20676[=]V<=>1.85.4925.0
+T<=>2806[=]P<=>QQGame.exe[=]I<=>9256[=]W<=>120762[=]V<=>2,5,201,93
+T<=>2816[=]P<=>ddzrpg.exe[=]I<=>6384[=]W<=>2085e[=]V<=>2, 1, 132, 10
+T<=>2928[=]P<=>QQGame.exe[=]I<=>9256[=]W<=>906e0[=]V<=>2,5,201,93
+T<=>2930[=]P<=>ddzrpg.exe[=]I<=>6384[=]W<=>2085e[=]V<=>2, 1, 132, 10
+T<=>3174[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3188[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>1e0732[=]B<=>4e06c0[=]V<=>8.00.6001.18702
+T<=>3196[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>1e0732[=]B<=>4e06c0[=]V<=>8.00.6001.18702
+T<=>3202[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3204[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3312[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3328[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>1d071a[=]B<=>ee0706[=]V<=>8.00.6001.18702
+T<=>3334[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>1d071a[=]B<=>ee0706[=]V<=>8.00.6001.18702
+T<=>3339[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3347[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3395[=]P<=>QQ.exe[=]I<=>3808[=]W<=>20676[=]V<=>1.85.4925.0
+T<=>3397[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>3399[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>3427[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>3441[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>3483[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3499[=]P<=>eTerm3.exe[=]I<=>5264[=]W<=>40584[=]V<=>3, 7, 3, 0
+T<=>3509[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3557[=]P<=>Timwp.exe[=]I<=>11552[=]W<=>a04de[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>3561[=]P<=>QQ.exe[=]I<=>7088[=]W<=>19071e[=]V<=>1.85.4925.0
+T<=>3597[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3601[=]P<=>explorer.exe[=]I<=>608[=]W<=>300f6[=]V<=>6.00.2900.5512
+T<=>3605[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>NULL[=]A<=>e052a[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>3609[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.51book.com/liantuo/manage/signon2.in[=]A<=>e052a[=]B<=>405d6[=]V<=>8.00.6001.18702
+T<=>3623[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://caigou.51book.com/liantuo/manage/index.in[=]A<=>e052a[=]B<=>405d6[=]V<=>8.00.6001.18702
+T<=>3627[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://caigou.51book.com/liantuo/manage/policyOrderManage.in[=]A<=>e052a[=]B<=>405d6[=]V<=>8.00.6001.18702
+T<=>3647[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://caigou.51book.com/liantuo/manage/listRefundOfPolicyOrder.in[=]A<=>1006de[=]B<=>2207fa[=]V<=>8.00.6001.18702
+T<=>3655[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://caigou.51book.com/liantuo/manage/policyOrderManage.in[=]A<=>e052a[=]B<=>405d6[=]V<=>8.00.6001.18702
+T<=>3657[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>3663[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3677[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>202cc[=]B<=>a053e[=]V<=>8.00.6001.18702
+T<=>3683[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>202cc[=]B<=>a053e[=]V<=>8.00.6001.18702
+T<=>3685[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3693[=]P<=>explorer.exe[=]I<=>608[=]W<=>20094[=]V<=>6.00.2900.5512
+T<=>3695[=]P<=>QQGame.exe[=]I<=>11816[=]W<=>702d4[=]V<=>2,5,201,93
+T<=>3707[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>3741[=]P<=>QQ.exe[=]I<=>7088[=]W<=>19071e[=]V<=>1.85.4925.0
+T<=>3749[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>3777[=]P<=>QQ.exe[=]I<=>7088[=]W<=>19071e[=]V<=>1.85.4925.0
+T<=>3779[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>3785[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>3859[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>3865[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>3879[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>3987[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>3997[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>2507ea[=]B<=>60806[=]V<=>8.00.6001.18702
+T<=>4001[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>4183[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4185[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>4215[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4229[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>2507ea[=]B<=>60806[=]V<=>8.00.6001.18702
+T<=>4231[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>4545[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4549[=]P<=>ddzrpg.exe[=]I<=>7312[=]W<=>f06d4[=]V<=>2, 1, 132, 10
+T<=>4655[=]P<=>QQGame.exe[=]I<=>11816[=]W<=>11052a[=]V<=>2,5,201,93
+T<=>4657[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4671[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>2507ea[=]B<=>60806[=]V<=>8.00.6001.18702
+T<=>4673[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4677[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>4687[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4689[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>4693[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>4695[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>4713[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>4719[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>4727[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>4817[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>4819[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>4829[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>4843[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5065[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>5067[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>5079[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5105[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>5117[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>about:blank[=]A<=>1d0526[=]B<=>60586[=]V<=>8.00.6001.18702
+T<=>5123[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>1d0526[=]B<=>60586[=]V<=>8.00.6001.18702
+T<=>5127[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>5129[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5474[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>10308[=]B<=>10346[=]V<=>8.00.6001.18702
+T<=>5496[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5552[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>5554[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5568[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>5574[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5814[=]P<=>QQ.exe[=]I<=>7088[=]W<=>20740[=]V<=>1.85.4925.0
+T<=>5816[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>5938[=]P<=>QQ.exe[=]I<=>7088[=]W<=>2a0522[=]V<=>1.85.4925.0
+T<=>5950[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>6116[=]P<=>QQ.exe[=]I<=>7088[=]W<=>40682[=]V<=>1.85.4925.0
+T<=>6118[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>6124[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>6142[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>6144[=]P<=>QQ.exe[=]I<=>3808[=]W<=>20676[=]V<=>1.85.4925.0
+T<=>6152[=]P<=>explorer.exe[=]I<=>608[=]W<=>30048[=]V<=>6.00.2900.5512
+T<=>6156[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>6350[=]P<=>iexplore.exe[=]I<=>3516[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>3040a[=]B<=>10446[=]V<=>8.00.6001.18702
+T<=>6352[=]P<=>QQ.exe[=]I<=>3808[=]W<=>b033c[=]V<=>1.85.4925.0
+T<=>6507[=]P<=>explorer.exe[=]I<=>608[=]W<=>20094[=]V<=>6.00.2900.5512
+T<=>78[=]P<=>360speedld.exe[=]I<=>3564[=]W<=>2028c[=]V<=>3, 1, 1, 1225[=]N<=>360软件管家[=]C<=>360.cn
+T<=>88[=]P<=>360tray.exe[=]I<=>3340[=]W<=>20180[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>92[=]P<=>explorer.exe[=]I<=>1940[=]W<=>20052[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>94[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>NULL[=]A<=>102ac[=]B<=>NULL[=]V<=>8.00.6001.18702[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>106[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://site.baidu.com/[=]A<=>102ac[=]B<=>102e8[=]V<=>8.00.6001.18702
+T<=>120[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>102ac[=]B<=>102e8[=]V<=>8.00.6001.18702
+T<=>122[=]P<=>AdvPopup.exe[=]I<=>1932[=]W<=>90352[=]V<=>2, 0, 0, 1[=]N<=>AdvPopup Module[=]C<=>NULL
+T<=>128[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>102ac[=]B<=>102e8[=]V<=>8.00.6001.18702
+T<=>158[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>about:blank[=]A<=>603ba[=]B<=>203e8[=]V<=>8.00.6001.18702
+T<=>164[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>603ba[=]B<=>203e8[=]V<=>8.00.6001.18702
+T<=>194[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.travelsky.com/travelsky/static/home/index.html[=]A<=>102ac[=]B<=>102e8[=]V<=>8.00.6001.18702
+T<=>200[=]P<=>explorer.exe[=]I<=>1940[=]W<=>50256[=]V<=>6.00.2900.5512
+T<=>260[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>NULL[=]A<=>1049e[=]B<=>NULL[=]V<=>8.00.6001.18702
+T<=>264[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.kkkk.com.cn/TTLogin.aspx[=]A<=>1049e[=]B<=>104ea[=]V<=>8.00.6001.18702
+T<=>276[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.kkkk.com.cn/Main/Default.aspx[=]A<=>1049e[=]B<=>104ea[=]V<=>8.00.6001.18702
+T<=>636[=]P<=>explorer.exe[=]I<=>1940[=]W<=>40442[=]V<=>6.00.2900.5512
+T<=>638[=]P<=>iexplore.exe[=]I<=>3736[=]U<=>http://www.travelsky.com/TravelskyET/validateET.do[=]A<=>603ba[=]B<=>203e8[=]V<=>8.00.6001.18702
+T<=>646[=]P<=>explorer.exe[=]I<=>1940[=]W<=>100a4[=]V<=>6.00.2900.5512
+T<=>650[=]P<=>QQ.exe[=]I<=>1664[=]W<=>20472[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>725[=]P<=>explorer.exe[=]I<=>1940[=]W<=>20052[=]V<=>6.00.2900.5512
+T<=>739[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>746[=]P<=>Fetion.exe[=]I<=>5744[=]W<=>20538[=]V<=>4, 7, 3800, 0[=]N<=>Fetion[=]C<=>China Mobile
+T<=>748[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>874[=]P<=>explorer.exe[=]I<=>1940[=]W<=>20052[=]V<=>6.00.2900.5512
+T<=>878[=]P<=>QQ.exe[=]I<=>4916[=]W<=>304f2[=]V<=>1.85.4925.0
+T<=>888[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>908[=]P<=>QQ.exe[=]I<=>4916[=]W<=>805a8[=]V<=>1.85.4925.0
+T<=>914[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>1116[=]P<=>explorer.exe[=]I<=>1940[=]W<=>20052[=]V<=>6.00.2900.5512
+T<=>1120[=]P<=>QQ.exe[=]I<=>4916[=]W<=>19058e[=]V<=>1.85.4925.0
+T<=>1124[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>1152[=]P<=>QQ.exe[=]I<=>4916[=]W<=>19058e[=]V<=>1.85.4925.0
+T<=>1180[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>1550[=]P<=>QQ.exe[=]I<=>4916[=]W<=>130540[=]V<=>1.85.4925.0
+T<=>1586[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>1626[=]P<=>QQ.exe[=]I<=>4916[=]W<=>130540[=]V<=>1.85.4925.0
+T<=>1648[=]P<=>QQ.exe[=]I<=>1664[=]W<=>6046c[=]V<=>1.85.4925.0
+T<=>1762[=]P<=>QQ.exe[=]I<=>4916[=]W<=>130540[=]V<=>1.85.4925.0
+T<=>1766[=]P<=>QQ.exe[=]I<=>1664[=]W<=>604c4[=]V<=>1.85.4925.0
+T<=>1866[=]P<=>QQ.exe[=]I<=>4916[=]W<=>130540[=]V<=>1.85.4925.0

@@ -1,0 +1,66 @@
+Last<=>5799
+L_Start<=>2012-08-10 13-02-45
+T<=>104[=]P<=>QQ.exe[=]I<=>2188[=]W<=>20292[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>2566[=]P<=>360sd.exe[=]I<=>1828[=]W<=>1049a[=]V<=>3, 0, 0, 3039[=]N<=>360杀毒[=]C<=>360.cn
+T<=>2970[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>3570[=]P<=>pps影讯屏保.scr[=]I<=>2840[=]W<=>60390[=]V<=>2, 0, 0, 0[=]N<=>PPS影讯屏保[=]C<=>www.pps.tv
+T<=>4600[=]P<=>QQ.exe[=]I<=>2188[=]W<=>206a4[=]V<=>1.85.4925.0
+T<=>4612[=]P<=>pps影讯屏保.scr[=]I<=>2840[=]W<=>60390[=]V<=>2, 0, 0, 0
+T<=>5082[=]P<=>kxetray.exe[=]I<=>472[=]W<=>2026a[=]V<=>9,0,73039,189[=]N<=>Kingsoft Internet Security[=]C<=>Kingsoft Corporation
+T<=>5084[=]P<=>explorer.exe[=]I<=>1836[=]W<=>10096[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>5096[=]P<=>360tray.exe[=]I<=>488[=]W<=>10334[=]V<=>7, 7, 0, 1071[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>5098[=]P<=>explorer.exe[=]I<=>1836[=]W<=>10096[=]V<=>6.00.2900.5512
+T<=>5104[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>5106[=]P<=>sogouexplorer.exe[=]I<=>5392[=]W<=>206ba[=]V<=>3, 1, 1, 3810[=]N<=>SogouExplorer[=]C<=>Sogou.com
+T<=>5108[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5117[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5129[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5131[=]P<=>explorer.exe[=]I<=>1836[=]W<=>30066[=]V<=>6.00.2900.5512
+T<=>5133[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5143[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>5145[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>se://favor.sogou.com/newtab/[=]A<=>106f8[=]B<=>107ae[=]V<=>3, 1, 1, 3810
+T<=>5149[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5163[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://www.gezi-shop.cn/[=]A<=>106f8[=]B<=>107ae[=]V<=>3, 1, 1, 3810
+T<=>5165[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://saas.gezi-shop.cn/[=]A<=>106f8[=]B<=>107ae[=]V<=>3, 1, 1, 3810
+T<=>5171[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5173[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>5197[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5217[=]P<=>explorer.exe[=]I<=>1836[=]W<=>30066[=]V<=>6.00.2900.5512
+T<=>5223[=]P<=>AliIM.exe[=]I<=>5472[=]W<=>40758[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>5229[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5253[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5257[=]P<=>AliIM.exe[=]I<=>5472[=]W<=>807d6[=]V<=>1, 0, 0, 1
+T<=>5259[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://login.taobao.com/member/loginByIm.do[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5261[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://sell.taobao.com/auction/goods/goods_on_sale.htm[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5275[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5283[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/auction/goods/goods_on_sale.htm[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5285[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.htm[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5295[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.jhtml[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5297[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5317[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.jhtml[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5327[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.jhtml#[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5329[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.jhtml[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5343[=]P<=>AliIM.exe[=]I<=>5472[=]W<=>40758[=]V<=>1, 0, 0, 1
+T<=>5347[=]P<=>QQ.exe[=]I<=>2188[=]W<=>3024c[=]V<=>1.85.4925.0
+T<=>5349[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5351[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5363[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://sell.taobao.com/mytaobao/recommend/search_recommend_item.jhtml[=]A<=>106f8[=]B<=>707fc[=]V<=>3, 1, 1, 3810
+T<=>5365[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5381[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5385[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5389[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/detail/trade_item_detail.htm[=]A<=>106f8[=]B<=>60784[=]V<=>3, 1, 1, 3810
+T<=>5575[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5585[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>5599[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5631[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html%23qz_width%3D760%26uin%3D358148587%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D1%26qz_style%3Dv6%2F34%26params%3D%26canvastype%3Dhome%26via%3DQZ.MYAPP[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5633[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5635[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/detail/trade_item_detail.htm[=]A<=>106f8[=]B<=>60784[=]V<=>3, 1, 1, 3810
+T<=>5639[=]P<=>QQ.exe[=]I<=>2188[=]W<=>1046c[=]V<=>1.85.4925.0
+T<=>5645[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/logistics_status.htm[=]A<=>106f8[=]B<=>908a0[=]V<=>3, 1, 1, 3810
+T<=>5647[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://wuliu.taobao.com/user/consign.htm[=]A<=>106f8[=]B<=>908a0[=]V<=>3, 1, 1, 3810
+T<=>5689[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://wuliu.taobao.com/user/order_detail_old.htm[=]A<=>106f8[=]B<=>908a0[=]V<=>3, 1, 1, 3810
+T<=>5697[=]P<=>sogouexplorer.exe[=]I<=>5392[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5701[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://wuliu.taobao.com/user/order_detail_new.htm[=]A<=>106f8[=]B<=>208d4[=]V<=>3, 1, 1, 3810
+T<=>5705[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://trade.taobao.com/trade/itemlist/list_sold_items.htm[=]A<=>106f8[=]B<=>5080c[=]V<=>3, 1, 1, 3810
+T<=>5707[=]P<=>sogouexplorer.exe[=]I<=>900[=]U<=>http://user.qzone.qq.com/358148587/infocenter#!app=365&url=http%3A%2F%2Fappimg2.qq.com%2Fcard%2Findex_v3.html[=]A<=>106f8[=]B<=>10718[=]V<=>3, 1, 1, 3810
+T<=>5723[=]P<=>explorer.exe[=]I<=>1836[=]W<=>10096[=]V<=>6.00.2900.5512

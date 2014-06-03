@@ -1,0 +1,39 @@
+Last<=>1872
+L_Start<=>2012-08-10 14-52-51
+T<=>98[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>20216[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>121[=]P<=>dwm.exe[=]I<=>2032[=]W<=>20292[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>123[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>20216[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>133[=]P<=>avnotify.exe[=]I<=>4752[=]W<=>201e6[=]V<=>12.1.0.17[=]N<=>Avira Free Antivirus[=]C<=>Avira Operations GmbH & Co. KG
+T<=>138[=]P<=>360tray.exe[=]I<=>3540[=]W<=>102e6[=]V<=>7, 7, 0, 1064[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>182[=]P<=>explorer.exe[=]I<=>364[=]W<=>10132[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>185[=]P<=>360tray.exe[=]I<=>3540[=]W<=>102e6[=]V<=>7, 7, 0, 1064[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>187[=]P<=>PPLive.exe[=]I<=>2780[=]W<=>20362[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>189[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>1026c[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>192[=]P<=>avgnt.exe[=]I<=>3584[=]W<=>203ee[=]V<=>12.1.0.17[=]N<=>Avira Free Antivirus[=]C<=>Avira Operations GmbH & Co. KG
+T<=>194[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>201f4[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>199[=]P<=>sogouexplorer.exe[=]I<=>2604[=]U<=>http://login.taobao.com/member/loginByIm.do[=]A<=>40328[=]B<=>b032a[=]V<=>3.1.0.3846[=]N<=>搜狗高速浏览器3.1[=]C<=>Sogou.com
+T<=>211[=]P<=>SohuNews.exe[=]I<=>340[=]W<=>30292[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>226[=]P<=>sogouexplorer.exe[=]I<=>2604[=]U<=>http://www.taobao.com/[=]A<=>40328[=]B<=>b032a[=]V<=>3.1.0.3846[=]N<=>搜狗高速浏览器3.1[=]C<=>Sogou.com
+T<=>229[=]P<=>sogouexplorer.exe[=]I<=>3552[=]U<=>http://trade.taobao.com/trade/itemlist/list_bought_items.htm[=]A<=>40328[=]B<=>b032a[=]V<=>3.1.0.3846[=]N<=>搜狗高速浏览器3.1[=]C<=>Sogou.com
+T<=>252[=]P<=>explorer.exe[=]I<=>364[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>500[=]P<=>PPAP.exe[=]I<=>3420[=]W<=>50212[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>560[=]P<=>PPLive.exe[=]I<=>5204[=]W<=>3034a[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>605[=]P<=>PPAP.exe[=]I<=>3420[=]W<=>50212[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>677[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>201f4[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>1472[=]P<=>explorer.exe[=]I<=>364[=]W<=>10132[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1481[=]P<=>QQ.exe[=]I<=>6796[=]W<=>50330[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1506[=]P<=>PPAP.exe[=]I<=>7252[=]W<=>40236[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>1508[=]P<=>QQ.exe[=]I<=>6796[=]W<=>30120[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1584[=]P<=>popup_QQ.exe[=]I<=>6796[=]W<=>30256[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1586[=]P<=>sogouexplorer.exe[=]I<=>7800[=]U<=>http://www.soso.com/[=]A<=>40328[=]B<=>204cc[=]V<=>3.1.0.3846[=]N<=>搜狗高速浏览器3.1[=]C<=>Sogou.com
+T<=>1631[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>60100[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>1660[=]P<=>QQ.exe[=]I<=>6796[=]W<=>1402f6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1662[=]P<=>AliIM.exe[=]I<=>3644[=]W<=>60100[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>1672[=]P<=>popup_QQ.exe[=]I<=>6796[=]W<=>30256[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1737[=]P<=>360tray.exe[=]I<=>3540[=]W<=>102e6[=]V<=>7, 7, 0, 1064[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>1739[=]P<=>QQ.exe[=]I<=>6796[=]W<=>b01dc[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1759[=]P<=>explorer.exe[=]I<=>364[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1766[=]P<=>QQ.exe[=]I<=>6796[=]W<=>b01dc[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1859[=]P<=>explorer.exe[=]I<=>364[=]W<=>c026a[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1865[=]P<=>PPAP.exe[=]I<=>6364[=]W<=>e050a[=]V<=>3,1,5,3827[=]N<=>PPTV网络电视[=]C<=>PPLive Corporation
+T<=>1869[=]P<=>QQ.exe[=]I<=>6796[=]W<=>b01dc[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent

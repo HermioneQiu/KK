@@ -1,0 +1,39 @@
+Last<=>35104
+L_Start<=>2012-08-10 08-34-07
+T<=>85[=]P<=>explorer.exe[=]I<=>1820[=]W<=>102fe[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2521[=]P<=>QQ.exe[=]I<=>1028[=]W<=>30362[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>2525[=]P<=>QQ.exe[=]I<=>2228[=]W<=>8007c[=]V<=>1.85.4925.0
+T<=>2577[=]P<=>popup_QQ.exe[=]I<=>2228[=]W<=>a01ac[=]V<=>1.85.4925.0
+T<=>5073[=]P<=>popup_QQ.exe[=]I<=>2228[=]W<=>a01ac[=]V<=>1.85.4925.0
+T<=>14689[=]P<=>explorer.exe[=]I<=>1820[=]W<=>102fe[=]V<=>6.1.7600.16385
+T<=>14693[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>NULL[=]A<=>b0062[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>14695[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.discoverbing.com/msestart[=]A<=>b0062[=]B<=>8031c[=]V<=>9.00.8112.16421
+T<=>14736[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.2345.com/[=]A<=>b0062[=]B<=>8031c[=]V<=>9.00.8112.16421
+T<=>14740[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.2345.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>14742[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>14749[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>14753[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>14768[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://2012.sohu.com/20120810/n350306341.shtml[=]A<=>b0062[=]B<=>a031e[=]V<=>9.00.8112.16421
+T<=>14917[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>14940[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://2012.sohu.com/olympicvideo/[=]A<=>b0062[=]B<=>90462[=]V<=>9.00.8112.16421
+T<=>14961[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://video.2012.sohu.com/20120810/n350299551.shtml[=]A<=>b0062[=]B<=>1901c8[=]V<=>9.00.8112.16421
+T<=>14963[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://2012.sohu.com/olympicvideo/[=]A<=>b0062[=]B<=>90462[=]V<=>9.00.8112.16421
+T<=>14969[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://video.2012.sohu.com/20120810/n350299551.shtml[=]A<=>b0062[=]B<=>1901c8[=]V<=>9.00.8112.16421
+T<=>14975[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://2012.sohu.com/olympicvideo/[=]A<=>b0062[=]B<=>90462[=]V<=>9.00.8112.16421
+T<=>14984[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://video.2012.sohu.com/20120810/n350299551.shtml[=]A<=>b0062[=]B<=>1901c8[=]V<=>9.00.8112.16421
+T<=>14995[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>15025[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://video.2012.sohu.com/20120810/n350299551.shtml[=]A<=>b0062[=]B<=>1901c8[=]V<=>9.00.8112.16421
+T<=>15035[=]P<=>iexplore.exe[=]I<=>3068[=]W<=>1f04c2[=]V<=>9.00.8112.16421
+T<=>15090[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://video.2012.sohu.com/20120804/n349852629.shtml[=]A<=>b0062[=]B<=>1901c8[=]V<=>9.00.8112.16421
+T<=>15114[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://2012.sohu.com/olympicvideo/[=]A<=>b0062[=]B<=>90462[=]V<=>9.00.8112.16421
+T<=>15126[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>15221[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://db.auto.sohu.com/model_2762/pic_g1667317.shtml[=]A<=>b0062[=]B<=>2d0400[=]V<=>9.00.8112.16421
+T<=>15230[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://db.auto.sohu.com/model_2762/pic_g362733.shtml[=]A<=>b0062[=]B<=>2d0400[=]V<=>9.00.8112.16421
+T<=>15249[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://db.auto.sohu.com/model_2762/pic_g1667268.shtml[=]A<=>b0062[=]B<=>2d0400[=]V<=>9.00.8112.16421
+T<=>15251[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://db.auto.sohu.com/model_2762/pic_g1667267.shtml[=]A<=>b0062[=]B<=>2d0400[=]V<=>9.00.8112.16421
+T<=>15253[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://db.auto.sohu.com/model_2762/pic_g1667265.shtml[=]A<=>b0062[=]B<=>2d0400[=]V<=>9.00.8112.16421
+T<=>19983[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>19988[=]P<=>QQ.exe[=]I<=>2228[=]W<=>11032a[=]V<=>1.85.4925.0
+T<=>20015[=]P<=>iexplore.exe[=]I<=>4088[=]U<=>http://www.sohu.com/[=]A<=>b0062[=]B<=>b025e[=]V<=>9.00.8112.16421
+T<=>20020[=]P<=>explorer.exe[=]I<=>1820[=]W<=>10158[=]V<=>6.1.7600.16385
+T<=>33285[=]P<=>QQ.exe[=]I<=>2228[=]W<=>11032a[=]V<=>1.85.4925.0

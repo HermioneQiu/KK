@@ -1,0 +1,68 @@
+Last<=>23798
+L_Start<=>2012-08-10 16-34-23
+T<=>90[=]P<=>QQ.exe[=]I<=>3480[=]W<=>20360[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>145[=]P<=>explorer.exe[=]I<=>1792[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>172[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>183[=]P<=>popup_QQ.exe[=]I<=>3480[=]W<=>2015a[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>206[=]P<=>360seNotify.exe[=]I<=>5728[=]W<=>50556[=]V<=>2.4.3.1238[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>249[=]P<=>QQProtectUpd.exe[=]I<=>5168[=]W<=>10604[=]V<=>1.0.0.2[=]N<=>QQProtect Update[=]C<=>Tencent
+T<=>260[=]P<=>popup_QQ.exe[=]I<=>3480[=]W<=>2015a[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>307[=]P<=>360wapp.exe[=]I<=>2336[=]W<=>10616[=]V<=>2, 3, 0, 1030[=]N<=>360安全桌面[=]C<=>360.cn
+T<=>631[=]P<=>popup_QQ.exe[=]I<=>3480[=]W<=>2015a[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>800[=]P<=>TWebCamera.exe[=]I<=>2636[=]W<=>10394[=]V<=>1, 1, 1, 15[=]N<=>TOSHIBA Web Camera Application[=]C<=>TOSHIBA CORPORATION.
+T<=>804[=]P<=>DYT.exe[=]I<=>3656[=]W<=>20300[=]V<=>2, 0, 0, 7[=]N<=>NULL[=]C<=>NULL
+T<=>811[=]P<=>explorer.exe[=]I<=>1792[=]W<=>103b8[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>815[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>10692[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>858[=]P<=>PPStream.exe[=]I<=>4412[=]W<=>106ea[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>868[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>1307[=]P<=>QQ.exe[=]I<=>3480[=]W<=>60784[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>1591[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1915[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>2035[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>2044[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2049[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>2630[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>2640[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2818[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>4443[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>4448[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4457[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>4565[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>4611[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4615[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>5137[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>5139[=]P<=>QQ.exe[=]I<=>3480[=]W<=>d0726[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>5571[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>5590[=]P<=>QQ.exe[=]I<=>3480[=]W<=>d0740[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>5595[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>5670[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>6958[=]P<=>QQ.exe[=]I<=>3480[=]W<=>150712[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>6979[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>8922[=]P<=>TWebCamera.exe[=]I<=>2636[=]W<=>10394[=]V<=>1, 1, 1, 15[=]N<=>TOSHIBA Web Camera Application[=]C<=>TOSHIBA CORPORATION.
+T<=>8924[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>9039[=]P<=>explorer.exe[=]I<=>1792[=]W<=>10058[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>9046[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>9067[=]P<=>360chrome.exe[=]I<=>5668[=]U<=>hao.360.cn[=]A<=>c015a[=]B<=>20750[=]V<=>5.3.0.926[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>9100[=]P<=>360chrome.exe[=]I<=>5668[=]U<=>about:blank[=]A<=>c015a[=]B<=>107a4[=]V<=>5.3.0.926
+T<=>9103[=]P<=>360chrome.exe[=]I<=>5668[=]U<=>www.baidu.com/s[=]A<=>c015a[=]B<=>107a4[=]V<=>5.3.0.926
+T<=>9160[=]P<=>TWebCamera.exe[=]I<=>2636[=]W<=>10394[=]V<=>1, 1, 1, 15[=]N<=>TOSHIBA Web Camera Application[=]C<=>TOSHIBA CORPORATION.
+T<=>9162[=]P<=>explorer.exe[=]I<=>1792[=]W<=>1006a[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>9164[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>10345[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>10575[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>11474[=]P<=>360SE.exe[=]I<=>5116[=]W<=>70786[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>11508[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>11611[=]P<=>SndVol.exe[=]I<=>7836[=]W<=>307e4[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>11614[=]P<=>explorer.exe[=]I<=>1792[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>11628[=]P<=>PPStream.exe[=]I<=>4824[=]W<=>2030a[=]V<=>2, 7, 0, 1489[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>17031[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>17033[=]P<=>explorer.exe[=]I<=>1792[=]W<=>103b8[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>17090[=]P<=>CBox.exe[=]I<=>6180[=]W<=>807e0[=]V<=>2.2.0.0[=]N<=>CNTV-CBox 网络电视客户端[=]C<=>中国网络电视台
+T<=>20594[=]P<=>360sd.exe[=]I<=>2768[=]W<=>108e2[=]V<=>3, 0, 0, 3039[=]N<=>360杀毒[=]C<=>360.cn
+T<=>22876[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>22905[=]P<=>360SE.exe[=]I<=>6352[=]W<=>109c0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>22922[=]P<=>QQ.exe[=]I<=>3480[=]W<=>203ca[=]V<=>1.75.2776.961[=]N<=>NULL[=]C<=>Tencent
+T<=>22968[=]P<=>360SE.exe[=]I<=>6352[=]W<=>109c0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>23118[=]P<=>SeDown.exe[=]I<=>5664[=]W<=>70a82[=]V<=>2.1.0.1010[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>23120[=]P<=>360SE.exe[=]I<=>6352[=]W<=>109c0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>23478[=]P<=>CBox.exe[=]I<=>6180[=]W<=>807e0[=]V<=>2.2.0.0[=]N<=>CNTV-CBox 网络电视客户端[=]C<=>中国网络电视台

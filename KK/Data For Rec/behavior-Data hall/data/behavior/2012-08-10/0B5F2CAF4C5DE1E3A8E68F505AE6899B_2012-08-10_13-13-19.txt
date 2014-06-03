@@ -1,0 +1,26 @@
+Last<=>5874
+L_Start<=>2012-08-10 13-13-19
+T<=>65[=]P<=>SoftManagerLite.exe[=]I<=>3388[=]W<=>30210[=]V<=>2, 0, 0, 1102[=]N<=>360软件小助手[=]C<=>360.cn
+T<=>83[=]P<=>explorer.exe[=]I<=>1856[=]W<=>2026e[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>99[=]P<=>QQLogin.exe[=]I<=>1748[=]W<=>303b0[=]V<=>CFQQLogin[=]N<=>CFQQLogin 应用程序[=]C<=>TENCENT
+T<=>121[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/index.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>125[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/main.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>133[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120719fcns/index.htm[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>135[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120719fcns/index.htm###[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>155[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120719fcns/index.htm[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>159[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120719fcns/index.htm###[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>179[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/main.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>181[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120806trek/[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>199[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/main.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>201[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/web201105/weapon.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>221[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/version/20120710553/index2.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>227[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/web201105/weapon.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>351[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20111129sdfy/index.htm[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>353[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120806trek/[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>363[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/web201105/weapon.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>391[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/main.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>393[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/act/a20120725recruit/[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>399[=]P<=>360chrome.exe[=]I<=>1796[=]U<=>cf.qq.com/web201105/weapon.shtml[=]A<=>8023c[=]B<=>NULL[=]V<=>5.3.0.926
+T<=>629[=]P<=>QQLogin.exe[=]I<=>1748[=]W<=>303b0[=]V<=>CFQQLogin
+T<=>635[=]P<=>CFSelWorld.exe[=]I<=>2964[=]W<=>8011e[=]V<=>CFSelWord[=]N<=>CFSelWord 应用程序[=]C<=>TENCENT
+T<=>637[=]P<=>jisibar.exe[=]I<=>796[=]W<=>101c6[=]V<=>0.8.0.0[=]N<=>调查精灵[=]C<=>www.jisibar.com

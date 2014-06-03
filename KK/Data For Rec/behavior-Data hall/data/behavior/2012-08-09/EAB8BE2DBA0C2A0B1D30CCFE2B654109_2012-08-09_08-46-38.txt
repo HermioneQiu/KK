@@ -1,0 +1,7 @@
+Last<=>1510
+L_Start<=>2012-08-09 08-46-38
+T<=>308[=]P<=>TTraveler.exe[=]I<=>3860[=]V<=>4, 8, 0, 1000
+T<=>374[=]P<=>QQ.exe[=]I<=>3208[=]V<=>1.85.4925.0
+T<=>378[=]P<=>TTraveler.exe[=]I<=>3860[=]V<=>4, 8, 0, 1000
+T<=>1430[=]P<=>sndvol32.exe[=]I<=>3148[=]V<=>5.1.2600.0[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>1434[=]P<=>TTraveler.exe[=]I<=>3860[=]V<=>4, 8, 0, 1000

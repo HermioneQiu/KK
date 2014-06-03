@@ -1,0 +1,35 @@
+Last<=>2067
+L_Start<=>2012-08-10 16-52-26
+T<=>281[=]P<=>QQ.exe[=]I<=>3448[=]W<=>30154[=]V<=>1.84.3449.0
+T<=>317[=]P<=>QPlus.exe[=]I<=>928[=]W<=>30346[=]V<=>3.8.3486
+T<=>334[=]P<=>QQ.exe[=]I<=>3448[=]W<=>30154[=]V<=>1.84.3449.0
+T<=>346[=]P<=>popup_QQ.exe[=]I<=>3448[=]W<=>4038c[=]V<=>1.84.3449.0
+T<=>396[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>406[=]P<=>explorer.exe[=]I<=>1948[=]W<=>10094[=]V<=>6.00.2900.5512
+T<=>412[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>421[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>443[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/mail_spam[=]A<=>10422[=]B<=>10456[=]V<=>8.00.6001.18702
+T<=>451[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>453[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/mail_spam[=]A<=>2040a[=]B<=>2041e[=]V<=>8.00.6001.18702
+T<=>467[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>https://www.91wenwen.net/login[=]A<=>2040a[=]B<=>2041e[=]V<=>8.00.6001.18702
+T<=>471[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>530[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/mail_spam[=]A<=>30454[=]B<=>3040a[=]V<=>8.00.6001.18702
+T<=>532[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://surveys.myview.com/s/73887/index.php3[=]A<=>30454[=]B<=>3040a[=]V<=>8.00.6001.18702
+T<=>536[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://portal.myview.com/portal/app[=]A<=>30454[=]B<=>3040a[=]V<=>8.00.6001.18702
+T<=>542[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>552[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/mail_spam[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>554[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://ups.surveyrouter.com/SurveyTrafficUI/STMUI/Page.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>558[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://m104.mail.qq.com/cgi-bin/frame_html[=]A<=>50352[=]B<=>103a8[=]V<=>8.00.6001.18702
+T<=>562[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://ups.surveyrouter.com/SurveyTrafficUI/STMUI/Page.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>566[=]P<=>explorer.exe[=]I<=>1948[=]W<=>10094[=]V<=>6.00.2900.5512
+T<=>578[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://www.tolunaquick.com/tqsruntime.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>580[=]P<=>jisibar.exe[=]I<=>1884[=]W<=>a03ce[=]V<=>0.8.0.0
+T<=>588[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://www.tolunaquick.com/tqsruntime.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>632[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://survey12.toluna.com/wix/p243629648.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>638[=]P<=>jisibar.exe[=]I<=>1884[=]W<=>60382[=]V<=>0.8.0.0
+T<=>660[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://survey12.toluna.com/wix/p243629648.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>664[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://survey12.toluna.com/wix/p243629648.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>829[=]P<=>SohuNews.exe[=]I<=>3472[=]W<=>203c2[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>833[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://survey12.toluna.com/wix/p243629648.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702
+T<=>1538[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>C:\Documents and Settings\Administrator.PC-20100925EBCS\Local Settings\Temporary Internet Files\Content.IE5\A3QLHZEV\button[1].jpg[=]A<=>3049c[=]B<=>2d03d8[=]V<=>8.00.6001.18702
+T<=>1540[=]P<=>iexplore.exe[=]I<=>1580[=]U<=>http://survey12.toluna.com/wix/p243629648.aspx[=]A<=>3049c[=]B<=>40470[=]V<=>8.00.6001.18702

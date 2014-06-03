@@ -1,0 +1,387 @@
+Last<=>14069
+L_Start<=>2012-08-09 13-27-39
+T<=>200[=]P<=>explorer.exe[=]I<=>1988[=]W<=>1009a[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>206[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>6026a[=]V<=>2, 7, 0, 1334[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>245[=]P<=>QQ.exe[=]I<=>3676[=]W<=>503f6[=]V<=>1.82.3089.1033[=]N<=>NULL[=]C<=>Tencent
+T<=>251[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>10306[=]V<=>2, 7, 0, 1334
+T<=>255[=]P<=>QQ.exe[=]I<=>3676[=]W<=>503f6[=]V<=>1.82.3089.1033
+T<=>318[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>6026a[=]V<=>2, 7, 0, 1334
+T<=>392[=]P<=>QQProtectUpd.exe[=]I<=>992[=]W<=>1040a[=]V<=>1.0.0.2[=]N<=>QQProtect Update[=]C<=>Tencent
+T<=>398[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>6026a[=]V<=>2, 7, 0, 1334
+T<=>2487[=]P<=>AliIM.exe[=]I<=>1260[=]W<=>18039e[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>2517[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>2020c[=]V<=>2, 7, 0, 1334
+T<=>7630[=]P<=>QQ.exe[=]I<=>3676[=]W<=>d303ec[=]V<=>1.82.3089.1033
+T<=>7632[=]P<=>PPStream.exe[=]I<=>3404[=]W<=>2020c[=]V<=>2, 7, 0, 1334
+T<=>7670[=]P<=>explorer.exe[=]I<=>1988[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>92[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>276[=]P<=>QQ.exe[=]I<=>3856[=]W<=>102ec[=]V<=>1.82.3089.1033[=]N<=>NULL[=]C<=>Tencent
+T<=>288[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>10358[=]V<=>2, 7, 0, 1334[=]N<=>NULL[=]C<=>PPStream Inc.
+T<=>316[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>360[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>10358[=]V<=>2, 7, 0, 1334
+T<=>392[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>394[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]W<=>803e8[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>412[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://m330.mail.qq.com/cgi-bin/frame_html[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>487[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>530[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://m330.mail.qq.com/cgi-bin/frame_html[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>534[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://jiaxing.baixing.com/[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>544[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>546[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://jiaxing.baixing.com/[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>548[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.baixing.com/wo/postings/#active[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>550[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.baixing.com/wo/jifen/taskSucceed/[=]A<=>40476[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>552[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.baixing.com/wo/jifen/[=]A<=>40476[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>557[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://tg.jx09.com/team.php[=]A<=>40476[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>559[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.baixing.com/wo/postings/#active[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>600[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>609[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>648[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>2054e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>652[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>654[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/zhifubao/alipay_authorize.jsp[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>657[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://auth.alipay.com/login/express.htm[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>659[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://memberexprod.alipay.com/authorize/userAuthQuickLoginAction.htm[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>661[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>666[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/welcome.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>669[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>748[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>755[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://s.jiathis.com/[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>759[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>811[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>815[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>853[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>20566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>855[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>857[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>2054e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>859[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>861[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>863[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>604c4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>865[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>874[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>604c4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>876[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>305aa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>878[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://auth.alipay.com/login/express.htm[=]A<=>305aa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>882[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://memberexprod.alipay.com/authorize/userAuthQuickLoginAction.htm[=]A<=>305aa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>884[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>305aa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>890[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/welcome.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>892[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>897[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>982[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>1076[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1802[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>1804[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>1828[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1909[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1921[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1937[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share/share[=]A<=>2069e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1943[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1945[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1947[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1994[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/sr/forwordEmail.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>1996[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaohege.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2007[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://s.jiathis.com/[=]A<=>b0758[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2009[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://v.t.sina.com.cn/share/share.php[=]A<=>b0758[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2015[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2019[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://s.jiathis.com/[=]A<=>30788[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2021[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://v.t.sina.com.cn/share/fail.php[=]A<=>b0758[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2023[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://s.jiathis.com/[=]A<=>30788[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2027[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaohege.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2030[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://s.jiathis.com/[=]A<=>30788[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2041[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaohege.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2043[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://v.t.sina.com.cn/share/share.php[=]A<=>207e4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2052[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://v.t.sina.com.cn/share/fail.php[=]A<=>207e4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2056[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaohege.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2058[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>280664[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2065[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share/share[=]A<=>280664[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2069[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaohege.jsp[=]A<=>106fc[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2073[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2075[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share[=]A<=>606a8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2082[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://widget.renren.com/dialog/share/share[=]A<=>606a8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2084[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4061c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2087[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>305aa[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2091[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>604c4[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2095[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2097[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>6053c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2117[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2119[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>6053c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2134[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/zhifubao/alipay_authorize.jsp[=]A<=>40566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2138[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://auth.alipay.com/login/express.htm[=]A<=>40566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2140[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://memberexprod.alipay.com/authorize/userAuthQuickLoginAction.htm[=]A<=>40566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2146[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>40566[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2159[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2163[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>c0510[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2167[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>70578[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2169[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/user/taobaoawards.htm[=]A<=>70578[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2171[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>c0510[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2173[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>1041a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2177[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>40642[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2182[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>30600[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2184[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>http://www.taidu8.com/zhifubao/alipay_authorize.jsp[=]A<=>30600[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2203[=]P<=>IEXPLORE.EXE[=]I<=>3720[=]U<=>NULL[=]A<=>30600[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2205[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>2209[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>2217[=]P<=>IEXPLORE.EXE[=]I<=>3044[=]W<=>603f8[=]V<=>6.00.2900.5512
+T<=>2221[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>10358[=]V<=>2, 7, 0, 1334
+T<=>2231[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>2233[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]W<=>9053c[=]V<=>6.00.2900.5512
+T<=>2243[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>2255[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>NULL[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2259[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.1616.net/jd/index.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2314[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>2353[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2359[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>30444[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2361[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2368[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>30444[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2374[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2376[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>30444[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2378[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2416[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>3041e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2418[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>NULL[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2420[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/taobaoawards.htm[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2425[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://auth.alipay.com/login/express.htm[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2427[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://memberexprod.alipay.com/authorize/userAuthQuickLoginAction.htm[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2430[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2434[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>2436[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/sr/faces/welcome.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2438[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>2464[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2473[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>3041e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2475[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2479[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2489[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>30684[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2492[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/taobaoawards.htm[=]A<=>5073c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2494[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/sr/faces/surveyRenderer.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2551[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2557[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://s.jiathis.com/[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2559[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2587[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://auth.alipay.com/login/express.htm[=]A<=>5073c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2591[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2597[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>5073c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2601[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2604[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>2043a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2606[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2608[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2621[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/user/account.htm[=]A<=>5073c[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2632[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2634[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>30684[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2638[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2640[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>3041e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2644[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2646[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2663[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>70422[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2665[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2667[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>70422[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2669[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2675[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/earn.htm[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2681[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>2683[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>2689[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2691[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>70422[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2693[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2698[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2702[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2706[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/detail.htm[=]A<=>70422[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2710[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2712[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2714[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2718[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2722[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2730[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2733[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.meituan.com/[=]A<=>60466[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2742[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2745[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2747[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>6079e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2760[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://s.jiathis.com/[=]A<=>505f6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2762[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share[=]A<=>505f6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2767[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://widget.renren.com/dialog/share/share[=]A<=>505f6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2771[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.taidu8.com/html/jifenbaounqf.jsp[=]A<=>4062a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2773[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2775[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.meituan.com/[=]A<=>60466[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2777[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.meituan.com/category/new/all[=]A<=>60466[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2788[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.meituan.com/deal/CocoChanel.html[=]A<=>60646[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2790[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>https://jfb.alipay.com/activity/showTask.htm[=]A<=>4040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2792[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.meituan.com/deal/CocoChanel.html[=]A<=>60646[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2797[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.meituan.com/deal/buy/CocoChanel[=]A<=>60646[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2800[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.meituan.com/category/new/all[=]A<=>60466[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2816[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.meituan.com/deal/640333.html[=]A<=>90452[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2836[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.meituan.com/category/new/all[=]A<=>60466[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2851[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.meituan.com/lottery/return/CocoChanel[=]A<=>60646[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2855[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2859[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.jiahetuan.com/[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2872[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2876[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.nuomi.com/jiaxing[=]A<=>60640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2878[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.nuomi.com/[=]A<=>60640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2885[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2905[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/topic2012/0801qdyl.aspx[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2915[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.nuomi.com/[=]A<=>60640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2922[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.nuomi.com/category/2-all-0-0-0-pd-t-0[=]A<=>60640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2966[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://w.nuomi.com/deal/9o5cavz7.html[=]A<=>a05a2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2968[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jx.nuomi.com/category/2-all-0-0-0-pd-t-0[=]A<=>60640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>2976[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://w.nuomi.com/deal/9o5cavz7.html[=]A<=>a05a2[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3300[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/topic2012/0801qdyl.aspx[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3313[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>3315[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>103a4[=]V<=>2, 7, 0, 1334
+T<=>3359[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3367[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>3375[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/furniture/product.aspx[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3382[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3403[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/guide/detail.aspx[=]A<=>c0596[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3457[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>3459[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]W<=>2c042a[=]V<=>6.00.2900.5512
+T<=>3463[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>3472[=]P<=>explorer.exe[=]I<=>168[=]W<=>c055a[=]V<=>6.00.2900.5512
+T<=>3478[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]W<=>2c042a[=]V<=>6.00.2900.5512
+T<=>3716[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/search/detail.aspx[=]A<=>b405c8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3718[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/guide/detail.aspx[=]A<=>c0596[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3722[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/apparel/detail.aspx[=]A<=>b405c8[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3737[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.best1.com/[=]A<=>7046e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3782[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3786[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>3788[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>3814[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3816[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>3825[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3912[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>1b0426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3981[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3983[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>1b0426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3987[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4054[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>103a4[=]V<=>2, 7, 0, 1334
+T<=>4150[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>1b0426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4153[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4155[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4164[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>e040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4171[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>4185[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4202[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>e040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4222[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4224[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>4281[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/deal/7214386.html[=]A<=>e040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4309[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.lashou.com/[=]A<=>80424[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4311[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4315[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4317[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tuangou.12580gogo.com/[=]A<=>d04c0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4348[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4350[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tuangou.12580gogo.com/[=]A<=>b0430[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4365[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4367[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>NULL[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4369[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4448[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/goods-ce10f3146815b624.html[=]A<=>f040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4452[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.55tuan.com/setNumber.do[=]A<=>f040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4466[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.55tuan.com/buy/choujiangfail.jsp[=]A<=>f040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4475[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4527[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/goods-fda00e473aed3cb7.html[=]A<=>10040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4553[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4608[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/goods-fda00e473aed3cb7.html[=]A<=>10040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4621[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>103a4[=]V<=>2, 7, 0, 1334
+T<=>4626[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/goods-fda00e473aed3cb7.html[=]A<=>10040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4637[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4643[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/goods-fda00e473aed3cb7.html[=]A<=>10040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4693[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4697[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://jiaxing.55tuan.com/[=]A<=>b0442[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4770[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>4772[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>4782[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://tg.jx09.com/team.php[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4792[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://dang7.com/user/[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4804[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4850[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://passport.51fanli.com/login[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4863[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4869[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/profile.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4883[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/profile.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4891[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/profile.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4896[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/profile.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4912[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/invite.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>4937[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/bbsindex.html[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5012[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbstopic.asp[=]A<=>b041e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5015[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/bbsindex.html[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5031[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbstopic.asp[=]A<=>b041e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5038[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>5048[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbs.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5113[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/bbsindex.html[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5126[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbs.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5164[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbstopic.asp[=]A<=>220438[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5166[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/bbsindex.html[=]A<=>220438[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5168[=]P<=>IEXPLORE.EXE[=]I<=>2260[=]U<=>http://www.51fanli.com/shopbbs.asp[=]A<=>80554[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5176[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>5180[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>5194[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>5253[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>5259[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.1616.net/jd/index.htm[=]A<=>50474[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5275[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.taobao.com/[=]A<=>50474[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5279[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5283[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.taobao.com/[=]A<=>50474[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5298[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5300[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>103a4[=]V<=>2, 7, 0, 1334
+T<=>5314[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5363[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/13702730753.htm[=]A<=>1f0426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5423[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>5446[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.tmall.com/item.htm[=]A<=>1f0694[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5797[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>5799[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>5831[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5842[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5844[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://www.taobao.com/[=]A<=>50474[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5865[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/meirong/hot[=]A<=>200426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5880[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5918[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/8949272172.htm[=]A<=>3e0686[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>5924[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/meirong/hot[=]A<=>200426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6133[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/detail/16344858[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6142[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/8949272172.htm[=]A<=>3e0686[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6173[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/detail/16344858[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6201[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/meirong/hot[=]A<=>200426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6232[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/album/10788896[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6280[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/detail/14265048[=]A<=>210426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6320[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/album/10788896[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6464[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/detail/12021089[=]A<=>220426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6467[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.tmall.com/item.htm[=]A<=>370658[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6550[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>6552[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]W<=>f0684[=]V<=>6.00.2900.5512
+T<=>6554[=]P<=>explorer.exe[=]I<=>168[=]W<=>370594[=]V<=>6.00.2900.5512
+T<=>6559[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6576[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/detail/12021089[=]A<=>220426[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6626[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>6628[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6655[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/album/10788896[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6673[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>10358[=]V<=>2, 7, 0, 1334
+T<=>6730[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://wantu.taobao.com/album/10788896[=]A<=>f0676[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6772[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6778[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/14266286580.htm[=]A<=>1e0452[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6793[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6835[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/12869046579.htm[=]A<=>18040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6843[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://s.click.taobao.com/t[=]A<=>b0640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6846[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.etao.com/12869046579.htm[=]A<=>18040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6848[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.tmall.com/item.htm[=]A<=>b0640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6852[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6872[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.tmall.com/item.htm[=]A<=>b0640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>6968[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>6970[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>6976[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://detail.tmall.com/item.htm[=]A<=>b0640[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7119[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://vip.etao.com/only.htm[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7150[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://sale.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7156[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://sale.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7160[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>19040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7226[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://s.click.taobao.com/js[=]A<=>1305b0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7228[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://item.taobao.com/item.htm[=]A<=>1305b0[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7331[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>19040e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7382[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://sale.etao.com/[=]A<=>e047a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7389[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>37043e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7446[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://s.click.taobao.com/t_8[=]A<=>e059e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7448[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://item.taobao.com/item.htm[=]A<=>e059e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7456[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://yingyong.taobao.com/show.htm[=]A<=>37043e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7474[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://s.click.taobao.com/t_js[=]A<=>1105e6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7477[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://item.taobao.com/item.htm[=]A<=>1105e6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7652[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>7658[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>7676[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>7689[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://item.taobao.com/item.htm[=]A<=>1105e6[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>7974[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>http://item.taobao.com/item.htm[=]A<=>e059e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>8195[=]P<=>IEXPLORE.EXE[=]I<=>3188[=]U<=>NULL[=]A<=>e059e[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>8198[=]P<=>taskmgr.exe[=]I<=>3652[=]W<=>706c4[=]V<=>5.1.2600.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>8208[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>8210[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>8222[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>8224[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>8261[=]P<=>sndvol32.exe[=]I<=>5708[=]W<=>902d4[=]V<=>5.1.2600.0[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>8263[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>8324[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>8771[=]P<=>QQ.exe[=]I<=>3856[=]W<=>401f2[=]V<=>1.82.3089.1033
+T<=>8773[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>9163[=]P<=>explorer.exe[=]I<=>168[=]W<=>3005a[=]V<=>6.00.2900.5512
+T<=>9165[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334
+T<=>13657[=]P<=>QQ.exe[=]I<=>3856[=]W<=>503fc[=]V<=>1.82.3089.1033
+T<=>13661[=]P<=>explorer.exe[=]I<=>168[=]W<=>1009a[=]V<=>6.00.2900.5512
+T<=>13663[=]P<=>PPStream.exe[=]I<=>3800[=]W<=>102f4[=]V<=>2, 7, 0, 1334

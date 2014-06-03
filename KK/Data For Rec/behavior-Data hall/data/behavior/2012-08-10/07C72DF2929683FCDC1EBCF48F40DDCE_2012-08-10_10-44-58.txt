@@ -1,0 +1,135 @@
+Last<=>45238
+L_Start<=>2012-08-10 10-44-58
+T<=>211[=]P<=>InstallFlashPlayer.exe[=]I<=>2564[=]W<=>3024e[=]V<=>11,3,300,265[=]N<=>Adobe? Flash? Player Installer/Uninstaller[=]C<=>Adobe Systems Incorporated
+T<=>213[=]P<=>explorer.exe[=]I<=>712[=]W<=>102b2[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>221[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]W<=>300dc[=]V<=>6.00.2900.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>223[=]P<=>explorer.exe[=]I<=>712[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>227[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>about:blank[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>243[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>305[=]P<=>360MobileMgr.exe[=]I<=>3812[=]W<=>20354[=]V<=>1, 6, 0, 1630[=]N<=>360手机助手[=]C<=>360.cn
+T<=>315[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>367[=]P<=>explorer.exe[=]I<=>712[=]W<=>3032e[=]V<=>6.00.2900.5512
+T<=>387[=]P<=>WINWORD.EXE[=]I<=>2056[=]W<=>403fe[=]V<=>11.0.8345[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>1573[=]P<=>360safeup.exe[=]I<=>3416[=]W<=>3b0226[=]V<=>8.7.0.2007[=]N<=>360安全卫士安装程序[=]C<=>NULL
+T<=>1575[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>1585[=]P<=>SohuNews.exe[=]I<=>2492[=]W<=>10412[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>1615[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>1740[=]P<=>SohuNews.exe[=]I<=>2492[=]W<=>10412[=]V<=>2.3.0.1511
+T<=>1742[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1
+T<=>1744[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>1758[=]P<=>QQ.exe[=]I<=>3072[=]W<=>7046c[=]V<=>1, 57, 1961, 0[=]N<=>QQ2010[=]C<=>Tencent
+T<=>1764[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>1766[=]P<=>QQ.exe[=]I<=>3072[=]W<=>4065e[=]V<=>1, 57, 1961, 0
+T<=>1833[=]P<=>rundll32.exe[=]I<=>3524[=]W<=>5042e[=]V<=>5.1.2600.5512[=]N<=>Microsoft(R) Windows(R) Operating System[=]C<=>Microsoft Corporation
+T<=>1843[=]P<=>QQ.exe[=]I<=>3072[=]W<=>120500[=]V<=>1, 57, 1961, 0
+T<=>1857[=]P<=>rundll32.exe[=]I<=>3524[=]W<=>5042e[=]V<=>5.1.2600.5512
+T<=>1859[=]P<=>QQ.exe[=]I<=>3072[=]W<=>1704ac[=]V<=>1, 57, 1961, 0
+T<=>1861[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1
+T<=>1863[=]P<=>rundll32.exe[=]I<=>3524[=]W<=>5042e[=]V<=>5.1.2600.5512
+T<=>1865[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1
+T<=>1871[=]P<=>QQ.exe[=]I<=>3072[=]W<=>1704ac[=]V<=>1, 57, 1961, 0
+T<=>1927[=]P<=>rundll32.exe[=]I<=>3524[=]W<=>5042e[=]V<=>5.1.2600.5512
+T<=>1939[=]P<=>QQ.exe[=]I<=>3072[=]W<=>1704ac[=]V<=>1, 57, 1961, 0
+T<=>1947[=]P<=>explorer.exe[=]I<=>712[=]W<=>190052[=]V<=>6.00.2900.5512
+T<=>1949[=]P<=>QQ.exe[=]I<=>3072[=]W<=>4065e[=]V<=>1, 57, 1961, 0
+T<=>2245[=]P<=>WINWORD.EXE[=]I<=>2056[=]W<=>403fe[=]V<=>11.0.8345
+T<=>2255[=]P<=>QQ.exe[=]I<=>3072[=]W<=>160420[=]V<=>1, 57, 1961, 0
+T<=>3046[=]P<=>explorer.exe[=]I<=>712[=]W<=>3032e[=]V<=>6.00.2900.5512
+T<=>3048[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3066[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3082[=]P<=>QQ.exe[=]I<=>3072[=]W<=>160420[=]V<=>1, 57, 1961, 0
+T<=>3230[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3340[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>3664[=]P<=>explorer.exe[=]I<=>712[=]W<=>203dc[=]V<=>6.00.2900.5512
+T<=>19722[=]P<=>QQ.exe[=]I<=>3072[=]W<=>9040c[=]V<=>1, 57, 1961, 0
+T<=>19750[=]P<=>360SE.exe[=]I<=>2336[=]W<=>9430532[=]V<=>5.0.5.1
+T<=>19752[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1
+T<=>19894[=]P<=>explorer.exe[=]I<=>712[=]W<=>102b2[=]V<=>6.00.2900.5512
+T<=>19898[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>19902[=]P<=>explorer.exe[=]I<=>712[=]W<=>203dc[=]V<=>6.00.2900.5512
+T<=>19908[=]P<=>WINWORD.EXE[=]I<=>1152[=]W<=>1a0414[=]V<=>11.0.8345
+T<=>20403[=]P<=>QQ.exe[=]I<=>3072[=]W<=>160420[=]V<=>1, 57, 1961, 0
+T<=>20405[=]P<=>explorer.exe[=]I<=>712[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>20419[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]W<=>3980518[=]V<=>6.00.2900.5512
+T<=>20423[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>about:blank[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>20941[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>20943[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>20955[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>about:blank[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>20989[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/course/comment_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21003[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/course/comment_prop.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21017[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/course/comment_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21023[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/course/comment_prop.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21031[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21035[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>21079[=]P<=>WINWORD.EXE[=]I<=>3840[=]W<=>d045a[=]V<=>11.0.8345
+T<=>21085[=]P<=>explorer.exe[=]I<=>712[=]W<=>102b2[=]V<=>6.00.2900.5512
+T<=>21087[=]P<=>WINWORD.EXE[=]I<=>3840[=]W<=>d045a[=]V<=>11.0.8345
+T<=>21089[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>21095[=]P<=>WinRAR.exe[=]I<=>2484[=]W<=>807aa[=]V<=>NULL[=]N<=>NULL[=]C<=>NULL
+T<=>21099[=]P<=>WinRAR.exe[=]I<=>1772[=]W<=>c07d2[=]V<=>NULL
+T<=>21109[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346[=]N<=>Microsoft Office 2003[=]C<=>Microsoft Corporation
+T<=>21121[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21127[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21131[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21159[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21161[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21163[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21165[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21167[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21173[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21199[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21215[=]P<=>IEXPLORE.EXE[=]I<=>2376[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>770408[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21247[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21257[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21259[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/course/comment_list.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21261[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21263[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21265[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21275[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21279[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21287[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21293[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/cert_list.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21297[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21301[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21315[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21319[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21383[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://218.91.155.2/learning/cert/serchcert.jsp[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21393[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21407[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/movie/172742/[=]A<=>7f0698[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21457[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21463[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://theater.mtime.com/China_Jiangsu_Province_Yangzhou/[=]A<=>2016a[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21467[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21469[=]P<=>EXCEL.EXE[=]I<=>3380[=]W<=>2207e2[=]V<=>11.0.8346
+T<=>21473[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21477[=]P<=>explorer.exe[=]I<=>712[=]W<=>190052[=]V<=>6.00.2900.5512
+T<=>21485[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21497[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21499[=]P<=>sancho.exe[=]I<=>1936[=]W<=>1500f2[=]V<=>0.9.4-59[=]N<=>sancho[=]C<=>Rutger Ovidius
+T<=>21519[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>21543[=]P<=>KMPlayer.exe[=]I<=>2692[=]W<=>c06b0[=]V<=>3.0.0.1440[=]N<=>The KMPlayer[=]C<=>Pandora.TV
+T<=>21574[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21602[=]P<=>sancho.exe[=]I<=>1936[=]W<=>1500f2[=]V<=>0.9.4-59
+T<=>21666[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21674[=]P<=>sancho.exe[=]I<=>1936[=]W<=>1500f2[=]V<=>0.9.4-59
+T<=>21702[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21722[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21724[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21726[=]P<=>WinRAR.exe[=]I<=>1772[=]W<=>c07d2[=]V<=>NULL
+T<=>21728[=]P<=>explorer.exe[=]I<=>712[=]W<=>190052[=]V<=>6.00.2900.5512
+T<=>21730[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21756[=]P<=>explorer.exe[=]I<=>712[=]W<=>200b4[=]V<=>6.00.2900.5512
+T<=>21764[=]P<=>QQ.exe[=]I<=>3072[=]W<=>160420[=]V<=>1, 57, 1961, 0
+T<=>21766[=]P<=>360SE.exe[=]I<=>808[=]W<=>6032c[=]V<=>5.0.5.1
+T<=>21768[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>21778[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>21780[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>22392[=]P<=>IEXPLORE.EXE[=]I<=>3184[=]U<=>http://www.zhgpl.com/doc/1021/9/6/0/102196085.html[=]A<=>70302[=]B<=>NULL[=]V<=>6.00.2900.5512
+T<=>22394[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>22398[=]P<=>explorer.exe[=]I<=>712[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>22410[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>22418[=]P<=>explorer.exe[=]I<=>712[=]W<=>10092[=]V<=>6.00.2900.5512
+T<=>22420[=]P<=>kuaipan_portable.exe[=]I<=>2212[=]W<=>40186[=]V<=>1,0,0,90[=]N<=>快盘便携版[=]C<=>Kingsoft Corp. Ltd.
+T<=>22424[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>22434[=]P<=>kuaipan_portable.exe[=]I<=>2212[=]W<=>40186[=]V<=>1,0,0,90
+T<=>22466[=]P<=>QQ.exe[=]I<=>3072[=]W<=>510418[=]V<=>1, 57, 1961, 0
+T<=>22488[=]P<=>explorer.exe[=]I<=>712[=]W<=>102b2[=]V<=>6.00.2900.5512

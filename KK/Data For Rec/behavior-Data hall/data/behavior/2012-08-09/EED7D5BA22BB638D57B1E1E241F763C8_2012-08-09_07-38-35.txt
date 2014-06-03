@@ -1,0 +1,103 @@
+Last<=>9617
+L_Start<=>2012-08-09 07-38-35
+T<=>71[=]P<=>AliIM.exe[=]I<=>4988[=]W<=>302c6[=]V<=>1, 0, 0, 1[=]N<=>AliIM 应用程序[=]C<=>Alibaba software (Shanghai) Corporation.
+T<=>81[=]P<=>explorer.exe[=]I<=>2564[=]W<=>10452[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>93[=]P<=>AliIM.exe[=]I<=>4988[=]W<=>302c6[=]V<=>1, 0, 0, 1
+T<=>130[=]P<=>AliIM.exe[=]I<=>5020[=]W<=>104f8[=]V<=>1, 0, 0, 1
+T<=>135[=]P<=>AliIM.exe[=]I<=>4988[=]W<=>501d6[=]V<=>1, 0, 0, 1
+T<=>145[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>login.taobao.com/member/loginByIm.do[=]A<=>304d4[=]B<=>10532[=]V<=>5.3.0.926[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>149[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>10532[=]V<=>5.3.0.926
+T<=>174[=]P<=>AliIM.exe[=]I<=>4988[=]W<=>40300[=]V<=>1, 0, 0, 1
+T<=>192[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>10532[=]V<=>5.3.0.926
+T<=>209[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>detail.tmall.com/item.htm[=]A<=>304d4[=]B<=>90436[=]V<=>5.3.0.926
+T<=>251[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>10532[=]V<=>5.3.0.926
+T<=>320[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>detail.tmall.com/item.htm[=]A<=>304d4[=]B<=>f0300[=]V<=>5.3.0.926
+T<=>490[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>detail.tmall.com/item.htm[=]A<=>304d4[=]B<=>804d8[=]V<=>5.3.0.926
+T<=>520[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>detail.tmall.com/item.htm[=]A<=>304d4[=]B<=>f0300[=]V<=>5.3.0.926
+T<=>522[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>10532[=]V<=>5.3.0.926
+T<=>524[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>502ae[=]V<=>5.3.0.926
+T<=>527[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>www.xe.com/zh/[=]A<=>304d4[=]B<=>30532[=]V<=>5.3.0.926
+T<=>536[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>502ae[=]V<=>5.3.0.926
+T<=>572[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>502ae[=]V<=>5.3.0.926
+T<=>596[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>item.taobao.com/item.htm[=]A<=>304d4[=]B<=>904fc[=]V<=>5.3.0.926
+T<=>642[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>502ae[=]V<=>5.3.0.926
+T<=>666[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>search.taobao.com/search[=]A<=>304d4[=]B<=>502ae[=]V<=>5.3.0.926
+T<=>673[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>joyoungtp.tmall.com/[=]A<=>304d4[=]B<=>d04f2[=]V<=>5.3.0.926
+T<=>938[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>detail.tmall.com/item.htm[=]A<=>304d4[=]B<=>1304da[=]V<=>5.3.0.926
+T<=>981[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>joyoungtp.tmall.com/[=]A<=>304d4[=]B<=>d04f2[=]V<=>5.3.0.926
+T<=>1437[=]P<=>360chrome.exe[=]I<=>5784[=]U<=>joyoungtp.tmall.com//search.htm[=]A<=>304d4[=]B<=>d04f2[=]V<=>5.3.0.926
+T<=>1790[=]P<=>AliIM.exe[=]I<=>4988[=]W<=>501d6[=]V<=>1, 0, 0, 1
+T<=>1798[=]P<=>explorer.exe[=]I<=>2564[=]W<=>10114[=]V<=>6.1.7600.16385
+T<=>75[=]P<=>explorer.exe[=]I<=>2036[=]W<=>10144[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>147[=]P<=>ICBCEBankAssist.exe[=]I<=>3592[=]W<=>101f8[=]V<=>1.0.0.1[=]N<=>ICBCEBankAssist[=]C<=>Industrial and Commercial Bank of China
+T<=>149[=]P<=>explorer.exe[=]I<=>2036[=]W<=>10056[=]V<=>6.1.7600.16385
+T<=>164[=]P<=>QQ.exe[=]I<=>4792[=]W<=>30344[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>190[=]P<=>360chrome.exe[=]I<=>3656[=]W<=>80386[=]V<=>5.3.0.926[=]N<=>360极速浏览器[=]C<=>360.cn
+T<=>192[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>ptlogin2.qq.com/qqmail[=]A<=>40218[=]B<=>40374[=]V<=>5.3.0.926
+T<=>196[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/frame_html[=]A<=>40218[=]B<=>40374[=]V<=>5.3.0.926
+T<=>213[=]P<=>explorer.exe[=]I<=>2036[=]W<=>102b2[=]V<=>6.1.7600.16385
+T<=>231[=]P<=>popup_QQ.exe[=]I<=>4792[=]W<=>40548[=]V<=>1.85.4925.0
+T<=>246[=]P<=>explorer.exe[=]I<=>2036[=]W<=>904a0[=]V<=>6.1.7600.16385
+T<=>250[=]P<=>popup_QQ.exe[=]I<=>4792[=]W<=>40548[=]V<=>1.85.4925.0
+T<=>254[=]P<=>explorer.exe[=]I<=>2036[=]W<=>904a0[=]V<=>6.1.7600.16385
+T<=>437[=]P<=>QQImageViewer.exe[=]I<=>3924[=]W<=>3061e[=]V<=>2.0.400.400[=]N<=>QQ影像查看器[=]C<=>腾讯科技
+T<=>449[=]P<=>explorer.exe[=]I<=>2036[=]W<=>f052a[=]V<=>6.1.7600.16385
+T<=>550[=]P<=>QQImageViewer.exe[=]I<=>5608[=]W<=>50616[=]V<=>2.0.400.400
+T<=>557[=]P<=>explorer.exe[=]I<=>2036[=]W<=>f052a[=]V<=>6.1.7600.16385
+T<=>663[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/frame_html[=]A<=>40218[=]B<=>40374[=]V<=>5.3.0.926
+T<=>803[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/readmail[=]A<=>40218[=]B<=>90580[=]V<=>5.3.0.926
+T<=>815[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/frame_html[=]A<=>40218[=]B<=>40374[=]V<=>5.3.0.926
+T<=>817[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/readmail[=]A<=>40218[=]B<=>d05e2[=]V<=>5.3.0.926
+T<=>840[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>about:blank[=]A<=>40218[=]B<=>e05e2[=]V<=>5.3.0.926
+T<=>843[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/readmail[=]A<=>40218[=]B<=>e05e2[=]V<=>5.3.0.926
+T<=>854[=]P<=>360chrome.exe[=]I<=>3656[=]U<=>m540.mail.qq.com/cgi-bin/frame_html[=]A<=>40218[=]B<=>40374[=]V<=>5.3.0.926
+T<=>860[=]P<=>explorer.exe[=]I<=>2036[=]W<=>3055c[=]V<=>6.1.7600.16385
+T<=>1060[=]P<=>QQ.exe[=]I<=>4792[=]W<=>30250[=]V<=>1.85.4925.0
+T<=>1105[=]P<=>360chrome.exe[=]I<=>3872[=]U<=>ptlogin2.qq.com/qqmail[=]A<=>204f2[=]B<=>60700[=]V<=>5.3.0.926
+T<=>1108[=]P<=>360chrome.exe[=]I<=>3872[=]U<=>m089.mail.qq.com/cgi-bin/frame_html[=]A<=>204f2[=]B<=>60700[=]V<=>5.3.0.926
+T<=>1116[=]P<=>QQ.exe[=]I<=>4792[=]W<=>30250[=]V<=>1.85.4925.0
+T<=>1121[=]P<=>360chrome.exe[=]I<=>2424[=]W<=>304f4[=]V<=>5.3.0.926
+T<=>1123[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>user.qzone.qq.com/113985573/infocenter[=]A<=>304fc[=]B<=>e05fa[=]V<=>5.3.0.926
+T<=>1133[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>ptlogin2.qq.com/qqmail[=]A<=>304fc[=]B<=>17057a[=]V<=>5.3.0.926
+T<=>1135[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>m571.mail.qq.com/cgi-bin/frame_html[=]A<=>304fc[=]B<=>17057a[=]V<=>5.3.0.926
+T<=>1238[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>user.qzone.qq.com/113985573/infocenter[=]A<=>304fc[=]B<=>e05fa[=]V<=>5.3.0.926
+T<=>1349[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>about:blank[=]A<=>304fc[=]B<=>110644[=]V<=>5.3.0.926
+T<=>1351[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>pengyou.qq.com/index.php[=]A<=>304fc[=]B<=>110644[=]V<=>5.3.0.926
+T<=>1365[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>user.qzone.qq.com/113985573/infocenter[=]A<=>304fc[=]B<=>e05fa[=]V<=>5.3.0.926
+T<=>1368[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>www.xe.com/zh/[=]A<=>304fc[=]B<=>d067a[=]V<=>5.3.0.926
+T<=>1419[=]P<=>QQ.exe[=]I<=>4792[=]W<=>c0522[=]V<=>1.85.4925.0
+T<=>1422[=]P<=>explorer.exe[=]I<=>2036[=]W<=>10144[=]V<=>6.1.7600.16385
+T<=>1426[=]P<=>360chrome.exe[=]I<=>2424[=]U<=>www.xe.com/zh/[=]A<=>304fc[=]B<=>d067a[=]V<=>5.3.0.926
+T<=>1814[=]P<=>explorer.exe[=]I<=>2036[=]W<=>10056[=]V<=>6.1.7600.16385
+T<=>1822[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>NULL[=]A<=>60512[=]B<=>5053c[=]V<=>5.3.0.926
+T<=>1824[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>hao.360.cn/[=]A<=>60512[=]B<=>5053c[=]V<=>5.3.0.926
+T<=>1826[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>hao.360.cn/[=]A<=>60512[=]B<=>404e8[=]V<=>5.3.0.926
+T<=>1831[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>www.ifeng.com[=]A<=>60512[=]B<=>80506[=]V<=>5.3.0.926
+T<=>1894[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=2[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1897[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=1[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1901[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=2[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1904[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=1[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1906[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=3[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1909[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=4[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1914[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=5[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1916[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=6[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1921[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=7[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1924[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=9[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1926[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=10[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1929[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=11[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1931[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=12[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1934[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=14[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1936[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=15[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1939[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673697_0.shtml#p=16[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1941[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673222_0.shtml#p=1[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1946[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673222_0.shtml#p=2[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1948[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673222_0.shtml#p=4[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1950[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16673222_0.shtml#p=5[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1953[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/photo/hdnews/detail_2012_08/09/16669745_0.shtml#p=1[=]A<=>60512[=]B<=>506e8[=]V<=>5.3.0.926
+T<=>1962[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>www.ifeng.com[=]A<=>60512[=]B<=>80506[=]V<=>5.3.0.926
+T<=>1986[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/society/1/detail_2012_08/09/16663017_0.shtml[=]A<=>60512[=]B<=>306fc[=]V<=>5.3.0.926
+T<=>2090[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>www.ifeng.com[=]A<=>60512[=]B<=>80506[=]V<=>5.3.0.926
+T<=>2092[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com[=]A<=>60512[=]B<=>905b6[=]V<=>5.3.0.926
+T<=>2099[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com/mainland/detail_2012_08/09/16667345_0.shtml[=]A<=>60512[=]B<=>50676[=]V<=>5.3.0.926
+T<=>2127[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>news.ifeng.com[=]A<=>60512[=]B<=>905b6[=]V<=>5.3.0.926
+T<=>2192[=]P<=>360chrome.exe[=]I<=>7484[=]U<=>www.ifeng.com[=]A<=>60512[=]B<=>80506[=]V<=>5.3.0.926

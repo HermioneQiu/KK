@@ -1,0 +1,191 @@
+Last<=>1848
+L_Start<=>2012-08-10 08-05-40
+T<=>86[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>93[=]P<=>QQ.exe[=]I<=>4520[=]W<=>7024c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>97[=]P<=>QQ.exe[=]I<=>4872[=]W<=>20270[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>103[=]P<=>QQ.exe[=]I<=>5268[=]W<=>202d2[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>111[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>113[=]P<=>QQ.exe[=]I<=>5612[=]W<=>20322[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>153[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>155[=]P<=>QQ.exe[=]I<=>3116[=]W<=>30322[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>157[=]P<=>popup_QQ.exe[=]I<=>4520[=]W<=>503d4[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>159[=]P<=>QQ.exe[=]I<=>3116[=]W<=>30322[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>165[=]P<=>QQ.exe[=]I<=>4872[=]W<=>2042e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>167[=]P<=>QQ.exe[=]I<=>4100[=]W<=>d03b4[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>175[=]P<=>QQ.exe[=]I<=>5268[=]W<=>10488[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>179[=]P<=>QQ.exe[=]I<=>5076[=]W<=>30444[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>187[=]P<=>popup_QQ.exe[=]I<=>4520[=]W<=>503d4[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>218[=]P<=>360SE.exe[=]I<=>356[=]W<=>50522[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>224[=]P<=>explorer.exe[=]I<=>2760[=]W<=>1009c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>237[=]P<=>360SE.exe[=]I<=>356[=]W<=>50522[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>303[=]P<=>SoftManagerLite.exe[=]I<=>948[=]W<=>106b2[=]V<=>2, 0, 0, 1102[=]N<=>360软件小助手[=]C<=>360.cn
+T<=>313[=]P<=>360SE.exe[=]I<=>356[=]W<=>50522[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>496[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>515[=]P<=>360SE.exe[=]I<=>356[=]W<=>50522[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>570[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>577[=]P<=>360SE.exe[=]I<=>356[=]W<=>50522[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>601[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>603[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>607[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>630[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>653[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>655[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>659[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>668[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>678[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>682[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>721[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>725[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>737[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>739[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>766[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>787[=]P<=>explorer.exe[=]I<=>2760[=]W<=>305ba[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>801[=]P<=>KMPlayer.exe[=]I<=>3100[=]W<=>2056a[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>3001[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>3034[=]P<=>explorer.exe[=]I<=>2760[=]W<=>101be[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3036[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>7056c[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>3038[=]P<=>explorer.exe[=]I<=>2760[=]W<=>10072[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3050[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>30592[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>3052[=]P<=>explorer.exe[=]I<=>2760[=]W<=>101be[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3056[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>3064[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>7056c[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>3089[=]P<=>SndVol.exe[=]I<=>2128[=]W<=>905c6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3094[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3096[=]P<=>SndVol.exe[=]I<=>5052[=]W<=>705ec[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>3098[=]P<=>explorer.exe[=]I<=>2760[=]W<=>100f2[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>10828[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>30592[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>10830[=]P<=>explorer.exe[=]I<=>2760[=]W<=>10060[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>10834[=]P<=>ThunderMini.exe[=]I<=>1456[=]W<=>505f6[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>10851[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>7056c[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>10855[=]P<=>explorer.exe[=]I<=>2760[=]W<=>10060[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>10857[=]P<=>KMPlayer.exe[=]I<=>6116[=]W<=>30592[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>62[=]P<=>QQ.exe[=]I<=>4928[=]W<=>1033c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>67[=]P<=>QQ.exe[=]I<=>5300[=]W<=>202ee[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>71[=]P<=>explorer.exe[=]I<=>2744[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>73[=]P<=>QQ.exe[=]I<=>5520[=]W<=>103aa[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>77[=]P<=>QQ.exe[=]I<=>5780[=]W<=>203d2[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>87[=]P<=>QQ.exe[=]I<=>6128[=]W<=>1046c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>93[=]P<=>QQ.exe[=]I<=>5780[=]W<=>104ae[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>95[=]P<=>QQ.exe[=]I<=>4520[=]W<=>20288[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>98[=]P<=>QQ.exe[=]I<=>5300[=]W<=>2038c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>100[=]P<=>popup_QQ.exe[=]I<=>4016[=]W<=>403ac[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>102[=]P<=>QQ.exe[=]I<=>5300[=]W<=>2038c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>118[=]P<=>explorer.exe[=]I<=>2744[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>122[=]P<=>SoftManagerLite.exe[=]I<=>3168[=]W<=>30374[=]V<=>2, 0, 0, 1102[=]N<=>360软件小助手[=]C<=>360.cn
+T<=>126[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>128[=]P<=>ThunderMini.exe[=]I<=>5392[=]W<=>60550[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>133[=]P<=>popup_QQ.exe[=]I<=>4016[=]W<=>403ac[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>135[=]P<=>ThunderMini.exe[=]I<=>5392[=]W<=>60550[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>149[=]P<=>explorer.exe[=]I<=>2744[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>172[=]P<=>QQ.exe[=]I<=>6128[=]W<=>403da[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>174[=]P<=>360SE.exe[=]I<=>4088[=]W<=>5046c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>190[=]P<=>explorer.exe[=]I<=>2744[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>203[=]P<=>360SE.exe[=]I<=>4088[=]W<=>5046c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>552[=]P<=>QQ.exe[=]I<=>5300[=]W<=>304dc[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>557[=]P<=>360SE.exe[=]I<=>4088[=]W<=>b06ec[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>597[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>599[=]P<=>360SE.exe[=]I<=>4088[=]W<=>b06ec[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>864[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>866[=]P<=>360SE.exe[=]I<=>4088[=]W<=>5046c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>1338[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1343[=]P<=>360SE.exe[=]I<=>4088[=]W<=>5046c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>1439[=]P<=>QQ.exe[=]I<=>6128[=]W<=>403da[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>1441[=]P<=>360SE.exe[=]I<=>4088[=]W<=>5046c[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>2923[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2945[=]P<=>QQ.exe[=]I<=>4016[=]W<=>1026a[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>2947[=]P<=>360SE.exe[=]I<=>4088[=]W<=>1606f6[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>4220[=]P<=>QQ.exe[=]I<=>5780[=]W<=>12074c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>4227[=]P<=>360SE.exe[=]I<=>4088[=]W<=>1606f6[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>4614[=]P<=>ThunderMini.exe[=]I<=>5392[=]W<=>60550[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>4620[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>4651[=]P<=>explorer.exe[=]I<=>2744[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4653[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>4665[=]P<=>SndVol.exe[=]I<=>7776[=]W<=>d04d6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4672[=]P<=>explorer.exe[=]I<=>2744[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>4674[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>6927[=]P<=>QQ.exe[=]I<=>4928[=]W<=>b05e0[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>7907[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>9065[=]P<=>360SE.exe[=]I<=>3308[=]W<=>406b0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>9072[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>9076[=]P<=>360SE.exe[=]I<=>3308[=]W<=>406b0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>9081[=]P<=>explorer.exe[=]I<=>2744[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>9093[=]P<=>360SE.exe[=]I<=>3308[=]W<=>406b0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>9129[=]P<=>SohuNews.exe[=]I<=>4228[=]W<=>b0650[=]V<=>2.3.0.1511[=]N<=>搜狐微门户[=]C<=>Sohu.com Inc.
+T<=>9134[=]P<=>360SE.exe[=]I<=>3308[=]W<=>406b0[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>9530[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>18347[=]P<=>QQ.exe[=]I<=>6128[=]W<=>1907e8[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>18350[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>30956[=]P<=>explorer.exe[=]I<=>2744[=]W<=>10062[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>30959[=]P<=>QQ.exe[=]I<=>5780[=]W<=>104ae[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>30964[=]P<=>360SE.exe[=]I<=>8044[=]W<=>1d40710[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>31000[=]P<=>explorer.exe[=]I<=>2744[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31012[=]P<=>ThunderMini.exe[=]I<=>5392[=]W<=>60550[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>31016[=]P<=>360SE.exe[=]I<=>8044[=]W<=>1d40710[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>31409[=]P<=>explorer.exe[=]I<=>2744[=]W<=>101da[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>31411[=]P<=>StormPlayer.exe[=]I<=>4944[=]W<=>80666[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>32006[=]P<=>360SE.exe[=]I<=>8044[=]W<=>1d40710[=]V<=>5.0.5.1[=]N<=>360安全浏览器[=]C<=>360.cn
+T<=>32096[=]P<=>BaofengPlatform.exe[=]I<=>6280[=]W<=>906d4[=]V<=>5.14.627.0[=]N<=>暴风影音5[=]C<=>北京暴风科技股份有限公司
+T<=>52[=]P<=>360Safe.exe[=]I<=>3468[=]W<=>2012e[=]V<=>7, 6, 0, 1102[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>85[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>103[=]P<=>SoftManagerLite.exe[=]I<=>4816[=]W<=>20280[=]V<=>2, 0, 0, 1102[=]N<=>360软件小助手[=]C<=>360.cn
+T<=>107[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>165[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>169[=]P<=>QQ.exe[=]I<=>5928[=]W<=>40254[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>184[=]P<=>QQ.exe[=]I<=>4448[=]W<=>102f6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>186[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>188[=]P<=>QQ.exe[=]I<=>2860[=]W<=>10354[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>192[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>194[=]P<=>QQ.exe[=]I<=>2860[=]W<=>1041e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>196[=]P<=>QQ.exe[=]I<=>808[=]W<=>103e6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>200[=]P<=>QQ.exe[=]I<=>5340[=]W<=>2042c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>208[=]P<=>QQ.exe[=]I<=>2860[=]W<=>1041e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>210[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>215[=]P<=>QQ.exe[=]I<=>5956[=]W<=>4043c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>223[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>225[=]P<=>QQ.exe[=]I<=>4732[=]W<=>10504[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>237[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>239[=]P<=>popup_QQ.exe[=]I<=>2860[=]W<=>4051e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>241[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>243[=]P<=>QQ.exe[=]I<=>4448[=]W<=>1037c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>262[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>270[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>272[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>276[=]P<=>explorer.exe[=]I<=>2788[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>316[=]P<=>KMPlayer.exe[=]I<=>5436[=]W<=>60556[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>340[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>351[=]P<=>KMPlayer.exe[=]I<=>5436[=]W<=>c0558[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>407[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>443[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1158[=]P<=>QQ.exe[=]I<=>4448[=]W<=>304e4[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>52[=]P<=>360Safe.exe[=]I<=>3468[=]W<=>2012e[=]V<=>7, 6, 0, 1102[=]N<=>360安全卫士[=]C<=>360.cn
+T<=>85[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>103[=]P<=>SoftManagerLite.exe[=]I<=>4816[=]W<=>20280[=]V<=>2, 0, 0, 1102[=]N<=>360软件小助手[=]C<=>360.cn
+T<=>107[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>165[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>169[=]P<=>QQ.exe[=]I<=>5928[=]W<=>40254[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>184[=]P<=>QQ.exe[=]I<=>4448[=]W<=>102f6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>186[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>188[=]P<=>QQ.exe[=]I<=>2860[=]W<=>10354[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>192[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>194[=]P<=>QQ.exe[=]I<=>2860[=]W<=>1041e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>196[=]P<=>QQ.exe[=]I<=>808[=]W<=>103e6[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>200[=]P<=>QQ.exe[=]I<=>5340[=]W<=>2042c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>208[=]P<=>QQ.exe[=]I<=>2860[=]W<=>1041e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>210[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>215[=]P<=>QQ.exe[=]I<=>5956[=]W<=>4043c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>223[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>225[=]P<=>QQ.exe[=]I<=>4732[=]W<=>10504[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>237[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>239[=]P<=>popup_QQ.exe[=]I<=>2860[=]W<=>4051e[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>241[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>243[=]P<=>QQ.exe[=]I<=>4448[=]W<=>1037c[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>262[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>270[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>272[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>276[=]P<=>explorer.exe[=]I<=>2788[=]W<=>10074[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>316[=]P<=>KMPlayer.exe[=]I<=>5436[=]W<=>60556[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>340[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>351[=]P<=>KMPlayer.exe[=]I<=>5436[=]W<=>c0558[=]V<=>3.3.0.0[=]N<=>The KMPlayer[=]C<=>KMP Media co.,Ltd
+T<=>407[=]P<=>ThunderMini.exe[=]I<=>4924[=]W<=>20244[=]V<=>1, 5, 3, 288[=]N<=>迅雷精简版[=]C<=>深圳市迅雷网络技术有限公司
+T<=>443[=]P<=>explorer.exe[=]I<=>2788[=]W<=>100f6[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>1158[=]P<=>QQ.exe[=]I<=>4448[=]W<=>304e4[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent

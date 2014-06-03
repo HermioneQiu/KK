@@ -1,0 +1,76 @@
+Last<=>11596
+L_Start<=>2012-08-10 08-55-32
+T<=>87[=]P<=>explorer.exe[=]I<=>3296[=]W<=>100fe[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>89[=]P<=>QTalk.exe[=]I<=>5352[=]W<=>102b2[=]V<=>2, 2, 14, 4279[=]N<=>QT[=]C<=>Tencent
+T<=>116[=]P<=>CertD_abchina.exe[=]I<=>5920[=]W<=>10300[=]V<=>1, 0, 9, 309[=]N<=>certreg Application[=]C<=>EnterSafe
+T<=>121[=]P<=>QTalk.exe[=]I<=>5352[=]W<=>102b2[=]V<=>2, 2, 14, 4279
+T<=>129[=]P<=>explorer.exe[=]I<=>3296[=]W<=>100fe[=]V<=>6.1.7600.16385
+T<=>139[=]P<=>QQ.exe[=]I<=>4476[=]W<=>202ca[=]V<=>1.85.4925.0[=]N<=>QQ2012[=]C<=>Tencent
+T<=>203[=]P<=>dwm.exe[=]I<=>3264[=]W<=>2040c[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>205[=]P<=>QQ.exe[=]I<=>4476[=]W<=>2039e[=]V<=>1.85.4925.0
+T<=>213[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25[=]N<=>iTunes[=]C<=>Apple Inc.
+T<=>216[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>NULL[=]A<=>10522[=]B<=>NULL[=]V<=>9.00.8112.16421[=]N<=>Windows? Internet Explorer[=]C<=>Microsoft Corporation
+T<=>218[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://clubclient.qq.com/clubclient_goto.php[=]A<=>10522[=]B<=>10554[=]V<=>9.00.8112.16421
+T<=>222[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/special/weishenghuo/[=]A<=>10522[=]B<=>10554[=]V<=>9.00.8112.16421
+T<=>300[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>387[=]P<=>QQ.exe[=]I<=>4476[=]W<=>50606[=]V<=>1.85.4925.0
+T<=>590[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>666[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>about:Tabs[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>672[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>www[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>675[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>www.baidu.com/[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>677[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>695[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>715[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>1083[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1090[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1100[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1109[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1119[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1129[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>1479[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1488[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1495[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1508[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://www.baidu.com/s[=]A<=>10522[=]B<=>1605b2[=]V<=>9.00.8112.16421
+T<=>1526[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>1623[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/events/bawangcan[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>1641[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/c/[=]A<=>10522[=]B<=>505b4[=]V<=>9.00.8112.16421
+T<=>1667[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/coupons/10118475489217372155-view0[=]A<=>10522[=]B<=>90644[=]V<=>9.00.8112.16421
+T<=>1719[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>2b06d6[=]V<=>9.00.8112.16421
+T<=>1727[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>10716[=]V<=>9.00.8112.16421
+T<=>1742[=]P<=>iexplore.exe[=]I<=>4640[=]U<=>http://meishi.qq.com/shanghai/weixin/[=]A<=>10522[=]B<=>80754[=]V<=>9.00.8112.16421
+T<=>1769[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>104de[=]V<=>10.6.3.25
+T<=>1775[=]P<=>explorer.exe[=]I<=>3296[=]W<=>b065e[=]V<=>6.1.7600.16385
+T<=>1779[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25
+T<=>1781[=]P<=>QPlus.exe[=]I<=>5484[=]W<=>203ec[=]V<=>0, 0, 0, 0[=]N<=>Q+[=]C<=>Tencent
+T<=>1790[=]P<=>explorer.exe[=]I<=>3296[=]W<=>10054[=]V<=>6.1.7600.16385
+T<=>1795[=]P<=>QQ.exe[=]I<=>4476[=]W<=>103ba[=]V<=>1.85.4925.0
+T<=>1819[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183[=]A<=>203dc[=]B<=>306aa[=]V<=>9.00.8112.16421
+T<=>1831[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183[=]A<=>203dc[=]B<=>306aa[=]V<=>9.00.8112.16421
+T<=>1833[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183[=]A<=>203dc[=]B<=>NULL[=]V<=>9.00.8112.16421
+T<=>1843[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183[=]A<=>203dc[=]B<=>306aa[=]V<=>9.00.8112.16421
+T<=>1907[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://rc.qzone.qq.com/photo/activity/1343723293#!app=4&via=QZ.HashRefresh[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>1968[=]P<=>iexplore.exe[=]I<=>8024[=]W<=>206f6[=]V<=>9.00.8112.16421
+T<=>2108[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2114[=]P<=>QQ.exe[=]I<=>4476[=]W<=>103ba[=]V<=>1.85.4925.0
+T<=>2170[=]P<=>explorer.exe[=]I<=>3296[=]W<=>10054[=]V<=>6.1.7600.16385
+T<=>2172[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25
+T<=>2194[=]P<=>explorer.exe[=]I<=>3296[=]W<=>100a4[=]V<=>6.1.7600.16385
+T<=>2196[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183[=]A<=>203dc[=]B<=>306aa[=]V<=>9.00.8112.16421
+T<=>2199[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2208[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=4&via=QZ.HashRefresh[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2309[=]P<=>explorer.exe[=]I<=>3296[=]W<=>c05fc[=]V<=>6.1.7600.16385
+T<=>2314[=]P<=>rundll32.exe[=]I<=>7080[=]W<=>14069e[=]V<=>6.1.7600.16385[=]N<=>Microsoft? Windows? Operating System[=]C<=>Microsoft Corporation
+T<=>2327[=]P<=>explorer.exe[=]I<=>3296[=]W<=>3065a[=]V<=>6.1.7600.16385
+T<=>2332[=]P<=>KanKan.exe[=]I<=>4000[=]W<=>50546[=]V<=>1, 3, 7, 406[=]N<=>美图看看 应用程序[=]C<=>NULL
+T<=>2341[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25
+T<=>2346[=]P<=>explorer.exe[=]I<=>3296[=]W<=>100fe[=]V<=>6.1.7600.16385
+T<=>2891[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=4&via=QZ.HashRefresh[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2896[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=2&via=QZ.HashRefresh&pos=catalog_list[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2900[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=4&via=QZ.HashRefresh[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2902[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=311&url=http%3A%2F%2Fctc.qzs.qq.com%2Fqzone%2Fapp%2Fmood_v6%2Fhtml%2Findex.html%23uin%3D454306183%26pfid%3D2%26qz_ver%3D6%26appcanvas%3D0%26qz_style%3Dv6%2F37%26params%3D%26canvastype%3D[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2970[=]P<=>iexplore.exe[=]I<=>1444[=]U<=>http://user.qzone.qq.com/454306183/main#!app=4&via=QZ.HashRefresh[=]A<=>203dc[=]B<=>1d0790[=]V<=>9.00.8112.16421
+T<=>2976[=]P<=>QQ.exe[=]I<=>4476[=]W<=>103ba[=]V<=>1.85.4925.0
+T<=>2986[=]P<=>explorer.exe[=]I<=>3296[=]W<=>100fe[=]V<=>6.1.7600.16385
+T<=>7146[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25
+T<=>7260[=]P<=>XmpTipWnd.1.0.0.10.exe[=]I<=>5484[=]W<=>60760[=]V<=>1, 0, 0, 10[=]N<=>XmpTipWnd Module[=]C<=>深圳市迅雷网络技术有限公司
+T<=>7367[=]P<=>iTunes.exe[=]I<=>5640[=]W<=>20416[=]V<=>10.6.3.25

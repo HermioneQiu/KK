@@ -1,0 +1,12 @@
+Last<=>861
+L_Start<=>2012-08-09 14-21-59
+T<=>599[=]P<=>Weibo.exe[=]I<=>420[=]V<=>1, 9, 7, 26762
+T<=>601[=]P<=>Webcnfg.exe[=]I<=>412[=]V<=>1.00.0006[=]N<=>Web系统配置工具[=]C<=>金蝶软件(中国)有限公司
+T<=>603[=]P<=>Weibo.exe[=]I<=>420[=]V<=>1, 9, 7, 26762
+T<=>615[=]P<=>Webcnfg.exe[=]I<=>3688[=]V<=>1.00.0006
+T<=>617[=]P<=>Weibo.exe[=]I<=>420[=]V<=>1, 9, 7, 26762
+T<=>619[=]P<=>explorer.exe[=]I<=>3072[=]V<=>6.00.3790.3959
+T<=>655[=]P<=>KdTools.exe[=]I<=>4752[=]V<=>1.00[=]N<=>KdTools[=]C<=>Kingdee
+T<=>657[=]P<=>explorer.exe[=]I<=>3072[=]V<=>6.00.3790.3959
+T<=>663[=]P<=>SetA.tmp[=]I<=>4796[=]V<=>6, 22[=]N<=>InstallShield (R)[=]C<=>InstallShield Software Corporation
+T<=>670[=]P<=>IKernel.exe[=]I<=>4836[=]V<=>6, 31[=]N<=>InstallShield (R)[=]C<=>InstallShield Software Corporation
